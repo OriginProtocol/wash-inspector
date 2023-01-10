@@ -1,0 +1,14 @@
+{
+  "../node_modules/alchemy-sdk/dist/esm/index-02af91ae.js -> ./alchemy-provider-a776ca8a.js": {
+    "id": "../node_modules/alchemy-sdk/dist/esm/index-02af91ae.js -> ./alchemy-provider-a776ca8a.js",
+    "files": [
+      "static/chunks/_app-client_node_modules_alchemy-sdk_dist_esm_alchemy-provider-a776ca8a_js.js"
+    ]
+  },
+  "../node_modules/alchemy-sdk/dist/esm/index-02af91ae.js -> ./alchemy-websocket-provider-35c345f7.js": {
+    "id": "../node_modules/alchemy-sdk/dist/esm/index-02af91ae.js -> ./alchemy-websocket-provider-35c345f7.js",
+    "files": [
+      "static/chunks/_app-client_node_modules_alchemy-sdk_dist_esm_alchemy-websocket-provider-35c345f7_js.js"
+    ]
+  }
+}
