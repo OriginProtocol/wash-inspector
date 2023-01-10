@@ -4,6 +4,8 @@ NFT trade analytics tool that identifies NFTs that have been wash traded.
 
 ## Getting Started
 
+Copy dev.env to .env and fill out missing variables. 
+
 First, run the development server:
 
 ```bash
