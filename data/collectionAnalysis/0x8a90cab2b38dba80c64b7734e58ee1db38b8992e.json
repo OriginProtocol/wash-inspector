@@ -1,0 +1,3858 @@
+{
+  "trades": 1610,
+  "washTrades": 403,
+  "volume": 14339.801829444013,
+  "washVolume": 4828.505012170056,
+  "address": "0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e",
+  "washTradedNfts": [
+    {
+      "tokenId": "24",
+      "name": "Doodle #24",
+      "rarity": "2263",
+      "ownedBy": "0x61D85490f053297BF23f90c6359DE2D9a65a5796",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/24",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/24",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/24",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "47",
+      "name": "Doodle #47",
+      "rarity": "317",
+      "ownedBy": "0xDAb8702c95b17C86FE41ca44aCE5b94A072f5c76",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/47",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/47",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/47",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "101",
+      "name": "Doodle #101",
+      "rarity": "1052",
+      "ownedBy": "0x44a3CCddccae339D05200a8f4347F83A58847E52",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/101",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/101",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/101",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "115",
+      "name": "Doodle #115",
+      "rarity": "4536",
+      "ownedBy": "0x748D32C9d783017e0cd0Fd24C14d0d7ff37F6Aba",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/115",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/115",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/115",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "168",
+      "name": "Doodle #168",
+      "rarity": "9608",
+      "ownedBy": "0x7FEe302A14D6B945c0EB6dA9C4426c8D75d38a73",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/168",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/168",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/168",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "178",
+      "name": "Doodle #178",
+      "rarity": "1577",
+      "ownedBy": "0x1dea4E50BAcb1447F924a72746754b6bA3E7aDe9",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/178",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/178",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/178",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "183",
+      "name": "Doodle #183",
+      "rarity": "7633",
+      "ownedBy": "0x620b70123fB810F6C653DA7644b5dD0b6312e4D8",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/183",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/183",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/183",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "191",
+      "name": "Doodle #191",
+      "rarity": "6315",
+      "ownedBy": "0xA2201F091B2e8E5f8AdAf8b023b99322b9eA5E66",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/191",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/191",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/191",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "220",
+      "name": "Doodle #220",
+      "rarity": "9570",
+      "ownedBy": "0xfa2ffcA9d32a9Baf9945AF36Bd3c5c2b0B57F5b0",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/220",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/220",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/220",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "237",
+      "name": "Doodle #237",
+      "rarity": "2833",
+      "ownedBy": "0x4836AE11037f696693C2916834754FA6C2ecc27d",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/237",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/237",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/237",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "239",
+      "name": "Doodle #239",
+      "rarity": "1160",
+      "ownedBy": "0x5A81e758520A43852871CF86d1510603c35609B9",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/239",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/239",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/239",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "257",
+      "name": "Doodle #257",
+      "rarity": "3987",
+      "ownedBy": "0xfD849D8cf365fe98Bc60025FF7faB45Cef0F557b",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/257",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/257",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/257",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "273",
+      "name": "Doodle #273",
+      "rarity": "6105",
+      "ownedBy": "0x1262b2d4578848E5C9b8f70899711e2cd343A092",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/273",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/273",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/273",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "329",
+      "name": "Doodle #329",
+      "rarity": "6913",
+      "ownedBy": "0xfbfD1a69313f6B4e3c4d696D2DE24B77cb3D9885",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/329",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/329",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/329",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "395",
+      "name": "Doodle #395",
+      "rarity": "8752",
+      "ownedBy": "0x6E97689Ee9C895c2C010B2d0A230fc4ce071aeDE",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/395",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/395",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/395",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "430",
+      "name": "Doodle #430",
+      "rarity": "4318",
+      "ownedBy": "0x4Bebf513393d75516779A4861B9b94122E83d7A9",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/430",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/430",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/430",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "489",
+      "name": "Doodle #489",
+      "rarity": "589",
+      "ownedBy": "0xacdaEEb57ff6886fC8e203B9Dd4C2b241DF89b7a",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/489",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/489",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/489",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "491",
+      "name": "Doodle #491",
+      "rarity": "7499",
+      "ownedBy": "0x620b70123fB810F6C653DA7644b5dD0b6312e4D8",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/491",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/491",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/491",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "522",
+      "name": "Doodle #522",
+      "rarity": "8361",
+      "ownedBy": "0xC08E0Bb650197e708e49657c52C8E3E7999d065b",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/522",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/522",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/522",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "536",
+      "name": "Doodle #536",
+      "rarity": "7044",
+      "ownedBy": "0x214850F38aD612972F1ccda613b59294dc60f2A6",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/536",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/536",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/536",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "582",
+      "name": "Doodle #582",
+      "rarity": "6600",
+      "ownedBy": "0x2823f3a9DF2e8Da4876A994E85170a908a3A84fE",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/582",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/582",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/582",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected",
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "634",
+      "name": "Doodle #634",
+      "rarity": "9307",
+      "ownedBy": "0xadC04C34288f8B7A5a550397ca1d953Cd03dEC98",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/634",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/634",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/634",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "678",
+      "name": "Doodle #678",
+      "rarity": "9401",
+      "ownedBy": "0x2A6d41F1a0F1f5441c109a56F34BA66D12d5f467",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/678",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/678",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/678",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "700",
+      "name": "Doodle #700",
+      "rarity": "4776",
+      "ownedBy": "0x63a5eeD51A6eCDeD17AAfd6bf880cCe8A8f62c9c",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/700",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/700",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/700",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "705",
+      "name": "Doodle #705",
+      "rarity": "8865",
+      "ownedBy": "0x48189F4D0cf7177895e024301f685EfF3e24C992",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/705",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/705",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/705",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "749",
+      "name": "Doodle #749",
+      "rarity": "29",
+      "ownedBy": "0x41f0c2E1C071DCC834b80aa1A29b81E5A31C4BCb",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/749",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/749",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/749",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "750",
+      "name": "Doodle #750",
+      "rarity": "4300",
+      "ownedBy": "0xceB81E3aCa104Cd820625fc61bdBe7dd130b9b27",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/750",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/750",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/750",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "752",
+      "name": "Doodle #752",
+      "rarity": "4153",
+      "ownedBy": "0xeB369F468d91E575fD30712a0ABfcF99FdF75e30",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/752",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/752",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/752",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "763",
+      "name": "Doodle #763",
+      "rarity": "971",
+      "ownedBy": "0x30c71678dE63eB89478920357560F29813E5beD7",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/763",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/763",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/763",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "784",
+      "name": "Doodle #784",
+      "rarity": "6085",
+      "ownedBy": "0xE19742a3F6FB114a384289DEB2350852442c735f",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/784",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/784",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/784",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "795",
+      "name": "Doodle #795",
+      "rarity": "1349",
+      "ownedBy": "0x620b70123fB810F6C653DA7644b5dD0b6312e4D8",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/795",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/795",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/795",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "846",
+      "name": "Doodle #846",
+      "rarity": "5896",
+      "ownedBy": "0x620b70123fB810F6C653DA7644b5dD0b6312e4D8",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/846",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/846",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/846",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "847",
+      "name": "Doodle #847",
+      "rarity": "5777",
+      "ownedBy": "0x620b70123fB810F6C653DA7644b5dD0b6312e4D8",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/847",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/847",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/847",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "979",
+      "name": "Doodle #979",
+      "rarity": "2050",
+      "ownedBy": "0xe5664B93Ad268393d1F695c4180993E60c59FC3E",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/979",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/979",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/979",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "985",
+      "name": "Doodle #985",
+      "rarity": "7123",
+      "ownedBy": "0xED9B53a3434c284C6CF42a709017a889eF701110",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/985",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/985",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/985",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "1081",
+      "name": "Doodle #1081",
+      "rarity": "9799",
+      "ownedBy": "0x67898d986ec757Fd59A28Bf70C7f7E5D045c8c90",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/1081",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/1081",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/1081",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "1083",
+      "name": "Doodle #1083",
+      "rarity": "4102",
+      "ownedBy": "0x285572Fe0aBcFC1cE990Ca4E934Cbd3A1aDCfe0a",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/1083",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/1083",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/1083",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "1107",
+      "name": "Doodle #1107",
+      "rarity": "1428",
+      "ownedBy": "0xD9c09e1DDAccE4EE6548b66773Bf4E6fE9dD0882",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/1107",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/1107",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/1107",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1304",
+      "name": "Doodle #1304",
+      "rarity": "7535",
+      "ownedBy": "0xdd76041F7c8A0A0F26fC9d83918bab5D277Fc200",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/1304",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/1304",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/1304",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "1324",
+      "name": "Doodle #1324",
+      "rarity": "7901",
+      "ownedBy": "0xb5CD58E6D1Ca87d0aa63f2Ef03B5f2f24e453867",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/1324",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/1324",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/1324",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "1349",
+      "name": "Doodle #1349",
+      "rarity": "7020",
+      "ownedBy": "0xE955f67207c463ae539c795D69021Dff5f7572ee",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/1349",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/1349",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/1349",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "1355",
+      "name": "Doodle #1355",
+      "rarity": "6412",
+      "ownedBy": "0x1Df4022FdE534FBb982Be77BaDb081A3F1EaC590",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/1355",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/1355",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/1355",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "1395",
+      "name": "Doodle #1395",
+      "rarity": "5162",
+      "ownedBy": "0xEB4DeCd4938DF37482874Fa7DCaCa03a73a96284",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/1395",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/1395",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/1395",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "1425",
+      "name": "Doodle #1425",
+      "rarity": "856",
+      "ownedBy": "0x8742fa292AFfB6e5eA88168539217f2e132294f9",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/1425",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/1425",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/1425",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "1427",
+      "name": "Doodle #1427",
+      "rarity": "8876",
+      "ownedBy": "0xd5d62732ba114dFFDcc8Ce4f2975c7028C500Ea5",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/1427",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/1427",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/1427",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "1538",
+      "name": "Doodle #1538",
+      "rarity": "1961",
+      "ownedBy": "0x86fA50B8C9B6f308865850D61FA3613BD22b552a",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/1538",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/1538",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/1538",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "1582",
+      "name": "Doodle #1582",
+      "rarity": "3020",
+      "ownedBy": "0x589cA0774d9dCAB9905D70Fb9e4d756555Ad9f63",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/1582",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/1582",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/1582",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "1589",
+      "name": "Doodle #1589",
+      "rarity": "3131",
+      "ownedBy": "0x39EC45FAEcd549e24Ce64695035E29CF52387De0",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/1589",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/1589",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/1589",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected",
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1602",
+      "name": "Doodle #1602",
+      "rarity": "1157",
+      "ownedBy": "0xacdaEEb57ff6886fC8e203B9Dd4C2b241DF89b7a",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/1602",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/1602",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/1602",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1615",
+      "name": "Doodle #1615",
+      "rarity": "4505",
+      "ownedBy": "0x1bcFd3BD4289c1BC4040865e1884b01C72323D48",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/1615",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/1615",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/1615",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "1663",
+      "name": "Doodle #1663",
+      "rarity": "7356",
+      "ownedBy": "0xf9C461556f54be8DA0855CB0a0373e9E80d5C0B7",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/1663",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/1663",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/1663",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "1668",
+      "name": "Doodle #1668",
+      "rarity": "8310",
+      "ownedBy": "0x5BDED307979E85f33c4cCcaA4E899d8Fc39Ce6Fe",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/1668",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/1668",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/1668",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "1794",
+      "name": "Doodle #1794",
+      "rarity": "1245",
+      "ownedBy": "0xBe540fF17e5008c9698dC1fFC2AbdfBBd47a57Ba",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/1794",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/1794",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/1794",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "1795",
+      "name": "Doodle #1795",
+      "rarity": "6133",
+      "ownedBy": "0xa8A1074BE9CDD2b75Bd56fb3b7EC954a9e4fC014",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/1795",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/1795",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/1795",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "1819",
+      "name": "Doodle #1819",
+      "rarity": "7936",
+      "ownedBy": "0x7FEe302A14D6B945c0EB6dA9C4426c8D75d38a73",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/1819",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/1819",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/1819",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "1831",
+      "name": "Doodle #1831",
+      "rarity": "5592",
+      "ownedBy": "0x6d268ec571A4C8971AdE78De601A35970f658e97",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/1831",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/1831",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/1831",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "1876",
+      "name": "Doodle #1876",
+      "rarity": "7933",
+      "ownedBy": "0x620b70123fB810F6C653DA7644b5dD0b6312e4D8",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/1876",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/1876",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/1876",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1913",
+      "name": "Doodle #1913",
+      "rarity": "5838",
+      "ownedBy": "0x620b70123fB810F6C653DA7644b5dD0b6312e4D8",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/1913",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/1913",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/1913",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "1921",
+      "name": "Doodle #1921",
+      "rarity": "6494",
+      "ownedBy": "0xE52Cec0E90115AbeB3304BaA36bc2655731f7934",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/1921",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/1921",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/1921",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "2071",
+      "name": "Doodle #2071",
+      "rarity": "6558",
+      "ownedBy": "0x88745F69D14F9edbC682309D306180fD6b3A2ff1",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/2071",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/2071",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/2071",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "2112",
+      "name": "Doodle #2112",
+      "rarity": "6641",
+      "ownedBy": "0xf64932b6002FD2a465A72564D80422f762aaA566",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/2112",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/2112",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/2112",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "2176",
+      "name": "Doodle #2176",
+      "rarity": "7232",
+      "ownedBy": "0x16e508404D588250cA339D2864Ad419b4d1Da460",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/2176",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/2176",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/2176",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "2186",
+      "name": "Doodle #2186",
+      "rarity": "1947",
+      "ownedBy": "0x5e0921A388421C763e00597b0A6405032A123A8f",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/2186",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/2186",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/2186",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "2251",
+      "name": "Doodle #2251",
+      "rarity": "5382",
+      "ownedBy": "0x053FA362F5459Cf61037d8B554B5cFB055a7a4d3",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/2251",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/2251",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/2251",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "2255",
+      "name": "Doodle #2255",
+      "rarity": "2759",
+      "ownedBy": "0x4B0d0C668048A06Bb4E48CD95652C43dB5C3Dce1",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/2255",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/2255",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/2255",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "2323",
+      "name": "Doodle #2323",
+      "rarity": "540",
+      "ownedBy": "0x41D94908380f6C192e71394988C455b0511fF3eC",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/2323",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/2323",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/2323",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "2339",
+      "name": "Doodle #2339",
+      "rarity": "8830",
+      "ownedBy": "0x53a34a10f027BEffa8C1235fe91AACAb02bEd205",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/2339",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/2339",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/2339",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "2375",
+      "name": "Doodle #2375",
+      "rarity": "7587",
+      "ownedBy": "0xa53cf9e377334e7dA7550e644B815Cc5Cb74Af23",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/2375",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/2375",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/2375",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "2378",
+      "name": "Doodle #2378",
+      "rarity": "3639",
+      "ownedBy": "0x0Cc340C0A7363458f72E392bcD10AA3a65e707A8",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/2378",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/2378",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/2378",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "2381",
+      "name": "Doodle #2381",
+      "rarity": "2558",
+      "ownedBy": "0x3A306a4692187129C2CE6B2aF171e01C5A70F736",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/2381",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/2381",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/2381",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected",
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "2393",
+      "name": "Doodle #2393",
+      "rarity": "6880",
+      "ownedBy": "0x1eD3D146cb5945e1C894A70013Ed83F95693EA22",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/2393",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/2393",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/2393",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "2409",
+      "name": "Doodle #2409",
+      "rarity": "9211",
+      "ownedBy": "0x6647Fb7f5A90EFb0ae7BC775a47d7e3a01964F00",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/2409",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/2409",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/2409",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "2419",
+      "name": "Doodle #2419",
+      "rarity": "9631",
+      "ownedBy": "0x6647Fb7f5A90EFb0ae7BC775a47d7e3a01964F00",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/2419",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/2419",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/2419",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "2502",
+      "name": "Doodle #2502",
+      "rarity": "3019",
+      "ownedBy": "0xDD5C438e41bd794191636f13c0D71FFCD32531dD",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/2502",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/2502",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/2502",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "2579",
+      "name": "Doodle #2579",
+      "rarity": "3107",
+      "ownedBy": "0x3FfD97a737527F63196AAC9d20E9198b36860C25",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/2579",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/2579",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/2579",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "2595",
+      "name": "Doodle #2595",
+      "rarity": "5617",
+      "ownedBy": "0x2F131C4DAd4Be81683ABb966b4DE05a549144443",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/2595",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/2595",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/2595",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "2610",
+      "name": "Doodle #2610",
+      "rarity": "4883",
+      "ownedBy": "0x620b70123fB810F6C653DA7644b5dD0b6312e4D8",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/2610",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/2610",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/2610",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "2614",
+      "name": "Doodle #2614",
+      "rarity": "2605",
+      "ownedBy": "0x95c69C661e7d68366cbe2Ee6edDE05667c0759B6",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/2614",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/2614",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/2614",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "2627",
+      "name": "Doodle #2627",
+      "rarity": "4406",
+      "ownedBy": "0xd1F124cc900624e1ff2d923180b3924147364380",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/2627",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/2627",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/2627",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "2637",
+      "name": "Doodle #2637",
+      "rarity": "9489",
+      "ownedBy": "0xf64932b6002FD2a465A72564D80422f762aaA566",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/2637",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/2637",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/2637",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "2643",
+      "name": "Doodle #2643",
+      "rarity": "967",
+      "ownedBy": "0x620b70123fB810F6C653DA7644b5dD0b6312e4D8",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/2643",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/2643",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/2643",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "2666",
+      "name": "Doodle #2666",
+      "rarity": "4639",
+      "ownedBy": "0xF02984CA707ae05A695e384dC2B70A5c3f86b4D9",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/2666",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/2666",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/2666",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "2675",
+      "name": "Doodle #2675",
+      "rarity": "4214",
+      "ownedBy": "0x8cb377959625E693986c6AdeF82fFF01d4d91aF8",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/2675",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/2675",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/2675",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "2676",
+      "name": "Doodle #2676",
+      "rarity": "1230",
+      "ownedBy": "0x2BB1E4Ad52087e39d6AfF65d72B94CC3BcDAC1bA",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/2676",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/2676",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/2676",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "2727",
+      "name": "Doodle #2727",
+      "rarity": "2568",
+      "ownedBy": "0x620b70123fB810F6C653DA7644b5dD0b6312e4D8",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/2727",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/2727",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/2727",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "2729",
+      "name": "Doodle #2729",
+      "ownedBy": "0x620b70123fB810F6C653DA7644b5dD0b6312e4D8",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/2729",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/2729",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/2729",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "2791",
+      "name": "Doodle #2791",
+      "rarity": "5115",
+      "ownedBy": "0xca2B31707c5a21719644d6251CC65e09948bF245",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/2791",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/2791",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/2791",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "2804",
+      "name": "Doodle #2804",
+      "rarity": "8068",
+      "ownedBy": "0x6fC9f86809Cb80CCc3B2959CA036B20eF56a1319",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/2804",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/2804",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/2804",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "2808",
+      "name": "Doodle #2808",
+      "rarity": "4926",
+      "ownedBy": "0xacbd9E4d04e8A654D1ACA9D0A20dE74f08FdA155",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/2808",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/2808",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/2808",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "2865",
+      "name": "Doodle #2865",
+      "rarity": "5450",
+      "ownedBy": "0x30bd96a8EE7BE109698c73Aa9b185F866faF990e",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/2865",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/2865",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/2865",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "2888",
+      "name": "Doodle #2888",
+      "rarity": "8617",
+      "ownedBy": "0x620b70123fB810F6C653DA7644b5dD0b6312e4D8",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/2888",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/2888",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/2888",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "2895",
+      "name": "Doodle #2895",
+      "rarity": "3317",
+      "ownedBy": "0x190b48dA92c0FD06118FE1650bB749c79Fa30D70",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/2895",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/2895",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/2895",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "2934",
+      "name": "Doodle #2934",
+      "rarity": "9355",
+      "ownedBy": "0x48F03744ad9F223E0C31BDd72135b3c978D24c2f",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/2934",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/2934",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/2934",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "2973",
+      "name": "Doodle #2973",
+      "rarity": "9326",
+      "ownedBy": "0x620b70123fB810F6C653DA7644b5dD0b6312e4D8",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/2973",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/2973",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/2973",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "3025",
+      "name": "Doodle #3025",
+      "rarity": "2905",
+      "ownedBy": "0x620b70123fB810F6C653DA7644b5dD0b6312e4D8",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/3025",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/3025",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/3025",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "3124",
+      "name": "Doodle #3124",
+      "rarity": "6859",
+      "ownedBy": "0xF4Bc3879c0a7F7204564EcCB07A11AAb3bFaa141",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/3124",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/3124",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/3124",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "3200",
+      "name": "Doodle #3200",
+      "rarity": "2930",
+      "ownedBy": "0x863c24bD7432ed0498092734467Dc8594A6a0533",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/3200",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/3200",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/3200",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected",
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3240",
+      "name": "Doodle #3240",
+      "rarity": "3805",
+      "ownedBy": "0xbAA5721FC3C3f78495DEe91278260745303BEb6c",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/3240",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/3240",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/3240",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "3248",
+      "name": "Doodle #3248",
+      "rarity": "2738",
+      "ownedBy": "0xbea9F193339433BaE083bA1b9C4F8d87e28B10b5",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/3248",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/3248",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/3248",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "3276",
+      "name": "Doodle #3276",
+      "rarity": "5249",
+      "ownedBy": "0x3564f04949D5dA74AdC4D43Dc5953164826eD69D",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/3276",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/3276",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/3276",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected",
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3280",
+      "name": "Doodle #3280",
+      "rarity": "2936",
+      "ownedBy": "0xd18A67f82bF9289cFa8067852026C1f93126F502",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/3280",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/3280",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/3280",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "3399",
+      "name": "Doodle #3399",
+      "rarity": "4170",
+      "ownedBy": "0xdD6Ea454c47979642F5A2D113fd9Fe233617A165",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/3399",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/3399",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/3399",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "3524",
+      "name": "Doodle #3524",
+      "rarity": "7463",
+      "ownedBy": "0xd4E4D1F84500641A9a8094624244dD2456B622f4",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/3524",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/3524",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/3524",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3538",
+      "name": "Doodle #3538",
+      "rarity": "523",
+      "ownedBy": "0xacdaEEb57ff6886fC8e203B9Dd4C2b241DF89b7a",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/3538",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/3538",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/3538",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3556",
+      "name": "Doodle #3556",
+      "rarity": "60",
+      "ownedBy": "0x3496f3600070CC01d9665d1057F6F39afC0fe149",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/3556",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/3556",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/3556",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "3618",
+      "name": "Doodle #3618",
+      "rarity": "340",
+      "ownedBy": "0xd5C030e041d56aCD9c3461f3e564d6d67D0117b2",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/3618",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/3618",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/3618",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "3644",
+      "name": "Doodle #3644",
+      "rarity": "4859",
+      "ownedBy": "0x620b70123fB810F6C653DA7644b5dD0b6312e4D8",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/3644",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/3644",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/3644",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "3668",
+      "name": "Doodle #3668",
+      "rarity": "7050",
+      "ownedBy": "0x1343d1FD8aD0303D9d020E5e2e63d8337D58DDAE",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/3668",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/3668",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/3668",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "3709",
+      "name": "Doodle #3709",
+      "rarity": "4008",
+      "ownedBy": "0x1f630d7434F2B079cb925C338B8bA9E5302C0583",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/3709",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/3709",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/3709",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "3711",
+      "name": "Doodle #3711",
+      "rarity": "4062",
+      "ownedBy": "0xd961d8F484146cEd512C388E3088C61426023343",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/3711",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/3711",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/3711",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "3737",
+      "name": "Doodle #3737",
+      "rarity": "9171",
+      "ownedBy": "0xce7ea6D726245308E7a74e13e07f17B776a41864",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/3737",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/3737",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/3737",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "3765",
+      "name": "Doodle #3765",
+      "rarity": "3927",
+      "ownedBy": "0x49ca963Ef75BCEBa8E4A5F4cEAB5Fd326beF6123",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/3765",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/3765",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/3765",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3771",
+      "name": "Doodle #3771",
+      "rarity": "6895",
+      "ownedBy": "0x63788d03551E62860ee994759dF5ef2675fC1729",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/3771",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/3771",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/3771",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "3803",
+      "name": "Doodle #3803",
+      "rarity": "2238",
+      "ownedBy": "0x45b28B83C19b2b7C287D381AEC2a2d4Df4850CC0",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/3803",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/3803",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/3803",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "3826",
+      "name": "Doodle #3826",
+      "rarity": "5181",
+      "ownedBy": "0xde5122461646EFaceF3876538E3f8e3C75A171e4",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/3826",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/3826",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/3826",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "3852",
+      "name": "Doodle #3852",
+      "rarity": "9251",
+      "ownedBy": "0x095D9780b12D5043FFb975534De6B08151C818FC",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/3852",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/3852",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/3852",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "3862",
+      "name": "Doodle #3862",
+      "rarity": "2678",
+      "ownedBy": "0xa0681f37A09D28362791773097D39dEa99eC4Bda",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/3862",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/3862",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/3862",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "3882",
+      "name": "Doodle #3882",
+      "rarity": "8779",
+      "ownedBy": "0x8DfDcddF524CFB41A51735F14465a45bDE9b2D51",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/3882",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/3882",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/3882",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "3906",
+      "name": "Doodle #3906",
+      "rarity": "2001",
+      "ownedBy": "0xD38C4EC9641c25c95ea1612224e19e4FB91c3333",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/3906",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/3906",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/3906",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "3948",
+      "name": "Doodle #3948",
+      "rarity": "1141",
+      "ownedBy": "0xcD955cEC75c37B21355e49622c616C8109975143",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/3948",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/3948",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/3948",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "4026",
+      "name": "Doodle #4026",
+      "rarity": "2978",
+      "ownedBy": "0xE581B4CbE18172d4Ed99e68F9e126a91e09AB304",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/4026",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/4026",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/4026",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "4045",
+      "name": "Doodle #4045",
+      "rarity": "2617",
+      "ownedBy": "0x70e7ee4DBBf6f91ef363cd701f4b98B70EC1BA52",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/4045",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/4045",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/4045",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "4064",
+      "name": "Doodle #4064",
+      "rarity": "6712",
+      "ownedBy": "0xfd3cDb688e5aE82E8C5035c9e011E6A2E38d018E",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/4064",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/4064",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/4064",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "4117",
+      "name": "Doodle #4117",
+      "rarity": "1668",
+      "ownedBy": "0x81c29B719C9340A870002f60414C2f197CF5f924",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/4117",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/4117",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/4117",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4134",
+      "name": "Doodle #4134",
+      "rarity": "7018",
+      "ownedBy": "0x61C4c71C08f3602192Eb0A34Ae0874B670a16A0F",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/4134",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/4134",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/4134",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "4182",
+      "name": "Doodle #4182",
+      "rarity": "1118",
+      "ownedBy": "0x00051F14d401fF01869d61daf526140572b78636",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/4182",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/4182",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/4182",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "4186",
+      "name": "Doodle #4186",
+      "rarity": "3472",
+      "ownedBy": "0x09E7848A799cdD62885508E5eF869bb99d474cF0",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/4186",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/4186",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/4186",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "4205",
+      "name": "Doodle #4205",
+      "rarity": "5603",
+      "ownedBy": "0x740922622811A8Fc1A5AF687aeFe6D5BBC460Be1",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/4205",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/4205",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/4205",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4304",
+      "name": "Doodle #4304",
+      "rarity": "1366",
+      "ownedBy": "0x6b412D6fB24D6F0A17641afdE687D5171839dB75",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/4304",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/4304",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/4304",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "4332",
+      "name": "Doodle #4332",
+      "rarity": "8594",
+      "ownedBy": "0xF5fDDb64c566F2709b68378fD0D0092cf947D931",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/4332",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/4332",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/4332",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "4354",
+      "name": "Doodle #4354",
+      "rarity": "2231",
+      "ownedBy": "0x16C9065c5eD3d775F1C0028F67367365ec4864f9",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/4354",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/4354",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/4354",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "4409",
+      "name": "Doodle #4409",
+      "rarity": "5675",
+      "ownedBy": "0x1097F467E199018e1F2E506cb646431E863C417f",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/4409",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/4409",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/4409",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "4449",
+      "name": "Doodle #4449",
+      "rarity": "5846",
+      "ownedBy": "0x9B338FdDc58A3A28042ff3Fc9Ae3eCbcFE0de267",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/4449",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/4449",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/4449",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4478",
+      "name": "Doodle #4478",
+      "rarity": "6411",
+      "ownedBy": "0x58b36d48b75eC7a50AFE3baC532D6336681A8F3D",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/4478",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/4478",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/4478",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4510",
+      "name": "Doodle #4510",
+      "rarity": "8176",
+      "ownedBy": "0x2F131C4DAd4Be81683ABb966b4DE05a549144443",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/4510",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/4510",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/4510",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "4536",
+      "name": "Doodle #4536",
+      "rarity": "2203",
+      "ownedBy": "0x620b70123fB810F6C653DA7644b5dD0b6312e4D8",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/4536",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/4536",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/4536",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "4665",
+      "name": "Doodle #4665",
+      "rarity": "704",
+      "ownedBy": "0xF46C415aDc4862ddB1273cf6D496044e630e9E78",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/4665",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/4665",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/4665",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "4667",
+      "name": "Doodle #4667",
+      "rarity": "3709",
+      "ownedBy": "0x7C93BE633f86a97C844ff0D6e85dA929eeB2a61c",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/4667",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/4667",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/4667",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "4688",
+      "name": "Doodle #4688",
+      "rarity": "1990",
+      "ownedBy": "0xaB56E197d8Bb98EF30950f7E198A715Cfe4720f4",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/4688",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/4688",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/4688",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "4694",
+      "name": "Doodle #4694",
+      "rarity": "5403",
+      "ownedBy": "0x02676a1BFcd75f1e80020C2CA966A0bCE98D0Ea5",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/4694",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/4694",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/4694",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "4708",
+      "name": "Doodle #4708",
+      "rarity": "2337",
+      "ownedBy": "0x1CEAf680894a5d4075E0a996E124e3899AA9b499",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/4708",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/4708",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/4708",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "4734",
+      "name": "Doodle #4734",
+      "rarity": "6860",
+      "ownedBy": "0x9E3AADC9ba267be3f2e3D7B1e0A02b0e265289B3",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/4734",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/4734",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/4734",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4758",
+      "name": "Doodle #4758",
+      "rarity": "6969",
+      "ownedBy": "0xd7D941ff2890BdA98F40A5DDA0593D239a603F09",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/4758",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/4758",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/4758",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4792",
+      "name": "Doodle #4792",
+      "rarity": "1267",
+      "ownedBy": "0x620b70123fB810F6C653DA7644b5dD0b6312e4D8",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/4792",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/4792",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/4792",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "4874",
+      "name": "Doodle #4874",
+      "rarity": "6102",
+      "ownedBy": "0x620b70123fB810F6C653DA7644b5dD0b6312e4D8",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/4874",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/4874",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/4874",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "4895",
+      "name": "Doodle #4895",
+      "rarity": "2115",
+      "ownedBy": "0xdbFcdF99961580D8ec41B8ACEa8fF1eCb189838E",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/4895",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/4895",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/4895",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "5048",
+      "name": "Doodle #5048",
+      "rarity": "9687",
+      "ownedBy": "0x4947DA4bEF9D79bc84bD584E6c12BfFa32D1bEc8",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/5048",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/5048",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/5048",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "5062",
+      "name": "Doodle #5062",
+      "rarity": "1191",
+      "ownedBy": "0x348496608809E2380a45e08D42E15282ae5022D6",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/5062",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/5062",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/5062",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "5064",
+      "name": "Doodle #5064",
+      "rarity": "7787",
+      "ownedBy": "0xE773D1C4b312b11886E7D7bb5b9fC68CC2663340",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/5064",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/5064",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/5064",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "5091",
+      "name": "Doodle #5091",
+      "rarity": "1158",
+      "ownedBy": "0xacD6AB55F6FbA36293a9a920fFcb2f0F3d34967a",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/5091",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/5091",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/5091",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "5111",
+      "name": "Doodle #5111",
+      "rarity": "551",
+      "ownedBy": "0x90Da187fBC4C30db6341b49828C794AA34a11580",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/5111",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/5111",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/5111",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "5127",
+      "name": "Doodle #5127",
+      "rarity": "3870",
+      "ownedBy": "0x4836AE11037f696693C2916834754FA6C2ecc27d",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/5127",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/5127",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/5127",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "5139",
+      "name": "Doodle #5139",
+      "rarity": "5485",
+      "ownedBy": "0x30fF2ec4fD4CD5a6F7174c6920ADEda9Bd4B88D7",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/5139",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/5139",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/5139",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "5150",
+      "name": "Doodle #5150",
+      "rarity": "4912",
+      "ownedBy": "0xE0E5BEAC194374c80071Fe407CA547920DA02430",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/5150",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/5150",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/5150",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "5193",
+      "name": "Doodle #5193",
+      "rarity": "7777",
+      "ownedBy": "0x7FEe302A14D6B945c0EB6dA9C4426c8D75d38a73",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/5193",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/5193",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/5193",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "5247",
+      "name": "Doodle #5247",
+      "rarity": "687",
+      "ownedBy": "0x17d960A84C2bEd36E16fa7051Ca60a7e2464a6d5",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/5247",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/5247",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/5247",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "5253",
+      "name": "Doodle #5253",
+      "rarity": "1586",
+      "ownedBy": "0x6c1Fb499c31aedCE4c535D250993fe25859f5823",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/5253",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/5253",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/5253",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "5284",
+      "name": "Doodle #5284",
+      "rarity": "7059",
+      "ownedBy": "0xa0681f37A09D28362791773097D39dEa99eC4Bda",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/5284",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/5284",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/5284",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "5359",
+      "name": "Doodle #5359",
+      "rarity": "1357",
+      "ownedBy": "0xdFBBd2787F1D8559894556Cad625b4186477D1B4",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/5359",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/5359",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/5359",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected",
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "5367",
+      "name": "Doodle #5367",
+      "rarity": "7507",
+      "ownedBy": "0xa32D57F893e11b98173BaBD20F823b5697726228",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/5367",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/5367",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/5367",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "5378",
+      "name": "Doodle #5378",
+      "rarity": "2000",
+      "ownedBy": "0x900613B46104d45dad23458e04F9bF64d48407C2",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/5378",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/5378",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/5378",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "5818",
+      "name": "Doodle #5818",
+      "rarity": "3625",
+      "ownedBy": "0x484fBd0e2FB844B3AF6267bb0C5467A51f47612E",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/5818",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/5818",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/5818",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "5879",
+      "name": "Doodle #5879",
+      "rarity": "92",
+      "ownedBy": "0x41797b5e0398aF475422f6F33F2dc81d9a24aE33",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/5879",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/5879",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/5879",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "5922",
+      "name": "Doodle #5922",
+      "rarity": "7086",
+      "ownedBy": "0x7e15bfafbBb635B81Ac9C5ff0f00159BA286CB02",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/5922",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/5922",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/5922",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "5927",
+      "name": "Doodle #5927",
+      "rarity": "2066",
+      "ownedBy": "0xCbe2c22413Bc89E11D9854E90104EE098eAee61E",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/5927",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/5927",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/5927",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "5939",
+      "name": "Doodle #5939",
+      "rarity": "1057",
+      "ownedBy": "0x81bE7f475e335693Fda594ABC8b42Bb0D873F9a0",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/5939",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/5939",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/5939",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "5952",
+      "name": "Doodle #5952",
+      "rarity": "2965",
+      "ownedBy": "0x10a0a894780e45Fdf04114C5234502716997F1cb",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/5952",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/5952",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/5952",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "5992",
+      "name": "Doodle #5992",
+      "rarity": "7437",
+      "ownedBy": "0xD6B2F5D6A0e4C61e71BE45E0549617Aa7923419C",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/5992",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/5992",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/5992",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "6003",
+      "name": "Doodle #6003",
+      "rarity": "927",
+      "ownedBy": "0x9C2EcD52e83A5fF9d0c981570A9C6eA044483410",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/6003",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/6003",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/6003",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "6057",
+      "name": "Doodle #6057",
+      "rarity": "9644",
+      "ownedBy": "0x33Bc4bB331A67088F1732eF5B84F79e9caB29CF7",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/6057",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/6057",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/6057",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "6096",
+      "name": "Doodle #6096",
+      "rarity": "8846",
+      "ownedBy": "0xC4508a10a2bc96E28b434cfA0d0f0858BcBC1784",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/6096",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/6096",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/6096",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "6119",
+      "name": "Doodle #6119",
+      "rarity": "8279",
+      "ownedBy": "0x832518C074C50116B2f28bD4A00174E4eeb09797",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/6119",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/6119",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/6119",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "6130",
+      "name": "Doodle #6130",
+      "rarity": "8329",
+      "ownedBy": "0xc34c302Cdd1540533c1158Fc64e659E58e1Ed2e6",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/6130",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/6130",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/6130",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "6143",
+      "name": "Doodle #6143",
+      "rarity": "4572",
+      "ownedBy": "0x9900d8Ee179D08E2d5e56fCFDf590f41BF144264",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/6143",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/6143",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/6143",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "6159",
+      "name": "Doodle #6159",
+      "rarity": "7131",
+      "ownedBy": "0xe05AdCB63a66E6e590961133694A382936C85d9d",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/6159",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/6159",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/6159",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "6227",
+      "name": "Doodle #6227",
+      "rarity": "3191",
+      "ownedBy": "0x1Cd43B9B5723d799EBE177B4211C5025baDF18C6",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/6227",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/6227",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/6227",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "6250",
+      "name": "Doodle #6250",
+      "rarity": "6984",
+      "ownedBy": "0xc70a48B5156D81d2198e454D557Ab0123a5deA05",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/6250",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/6250",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/6250",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "6254",
+      "name": "Doodle #6254",
+      "rarity": "5987",
+      "ownedBy": "0xBb4029C78E50bFab2AF3024822b941FAC18C97d9",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/6254",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/6254",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/6254",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "6257",
+      "name": "Doodle #6257",
+      "rarity": "858",
+      "ownedBy": "0x85c8cacfE20d678f1a46BA6930Fd3F83519a7740",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/6257",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/6257",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/6257",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected",
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "6303",
+      "name": "Doodle #6303",
+      "rarity": "5044",
+      "ownedBy": "0x620b70123fB810F6C653DA7644b5dD0b6312e4D8",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/6303",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/6303",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/6303",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "6315",
+      "name": "Doodle #6315",
+      "rarity": "2387",
+      "ownedBy": "0x7472517a77B1c1F6A91BD2bd33Fe8333C0005212",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/6315",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/6315",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/6315",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "6368",
+      "name": "Doodle #6368",
+      "rarity": "408",
+      "ownedBy": "0x9b37BC499De5e675063695211618F3Cd64A1B9Fc",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/6368",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/6368",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/6368",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "6432",
+      "name": "Doodle #6432",
+      "rarity": "4086",
+      "ownedBy": "0x620b70123fB810F6C653DA7644b5dD0b6312e4D8",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/6432",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/6432",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/6432",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "6516",
+      "name": "Doodle #6516",
+      "rarity": "8528",
+      "ownedBy": "0x6aa8408161Dd0C1de6ceF3d63FbfAA4f4BB4e09c",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/6516",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/6516",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/6516",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "6541",
+      "name": "Doodle #6541",
+      "rarity": "1789",
+      "ownedBy": "0x0d44e2eC4D338f1E62FD7DAeD6782fB5C3FFfC86",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/6541",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/6541",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/6541",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "6552",
+      "name": "Doodle #6552",
+      "rarity": "9733",
+      "ownedBy": "0x4423225b1EC18F4156355425FCf29B1f59cAFfEB",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/6552",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/6552",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/6552",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "6561",
+      "name": "Doodle #6561",
+      "rarity": "3147",
+      "ownedBy": "0x311399b3d6F728973bFe8Ee06B11EA3aA67b0859",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/6561",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/6561",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/6561",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "6567",
+      "name": "Doodle #6567",
+      "rarity": "9254",
+      "ownedBy": "0x12975180F91289c660DBf89bd367F6b8EAf50860",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/6567",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/6567",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/6567",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "6570",
+      "name": "Doodle #6570",
+      "rarity": "3705",
+      "ownedBy": "0x7b7170d759FE3dB8D8304bc23BED24b941D01ba1",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/6570",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/6570",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/6570",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "6573",
+      "name": "Doodle #6573",
+      "rarity": "5014",
+      "ownedBy": "0xB0A2E15bC4943C0bdD6E2829a29b82BD88B22415",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/6573",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/6573",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/6573",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "6581",
+      "name": "Doodle #6581",
+      "rarity": "1079",
+      "ownedBy": "0xF885C2cdE08710Da6b0AEdB6820b70F5788d6536",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/6581",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/6581",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/6581",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "6629",
+      "name": "Doodle #6629",
+      "rarity": "9694",
+      "ownedBy": "0x4836AE11037f696693C2916834754FA6C2ecc27d",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/6629",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/6629",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/6629",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "6700",
+      "name": "Doodle #6700",
+      "rarity": "3411",
+      "ownedBy": "0x693ECfbC06D3d12303E81002C670bf680BaF8215",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/6700",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/6700",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/6700",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "6754",
+      "name": "Doodle #6754",
+      "rarity": "2747",
+      "ownedBy": "0x620b70123fB810F6C653DA7644b5dD0b6312e4D8",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/6754",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/6754",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/6754",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "6763",
+      "name": "Doodle #6763",
+      "rarity": "9395",
+      "ownedBy": "0x7FEe302A14D6B945c0EB6dA9C4426c8D75d38a73",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/6763",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/6763",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/6763",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "6833",
+      "name": "Doodle #6833",
+      "rarity": "8954",
+      "ownedBy": "0x7FEe302A14D6B945c0EB6dA9C4426c8D75d38a73",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/6833",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/6833",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/6833",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "6918",
+      "name": "Doodle #6918",
+      "rarity": "1168",
+      "ownedBy": "0x4acB41e5EA24AA8B9F2Ba2899892EeF99190Ee1d",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/6918",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/6918",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/6918",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "6929",
+      "name": "Doodle #6929",
+      "rarity": "6758",
+      "ownedBy": "0x4B38320aC1272252B67e6017C3ea8B2983346faA",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/6929",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/6929",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/6929",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "6958",
+      "name": "Doodle #6958",
+      "rarity": "1997",
+      "ownedBy": "0xf66eCE2C940c271F2cb5B3D612a609acD0240fC7",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/6958",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/6958",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/6958",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "6967",
+      "name": "Doodle #6967",
+      "rarity": "1154",
+      "ownedBy": "0xC88A598869410aa843405EeE3cb4cFAC9396D387",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/6967",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/6967",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/6967",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "7082",
+      "name": "Doodle #7082",
+      "rarity": "3742",
+      "ownedBy": "0xE052113bd7D7700d623414a0a4585BCaE754E9d5",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/7082",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/7082",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/7082",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "7105",
+      "name": "Doodle #7105",
+      "rarity": "6744",
+      "ownedBy": "0x4E814C17a58449d57Bfae7aAB36A6495dbdeA869",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/7105",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/7105",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/7105",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "7127",
+      "name": "Doodle #7127",
+      "rarity": "3740",
+      "ownedBy": "0x25698DB556d9DC858BAfe81cdfe3C59f1DD9C3a7",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/7127",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/7127",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/7127",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "7202",
+      "name": "Doodle #7202",
+      "rarity": "4030",
+      "ownedBy": "0x41B3Db006942D244c0590DA32dC8A1A7b37b17B6",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/7202",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/7202",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/7202",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "7212",
+      "name": "Doodle #7212",
+      "rarity": "3558",
+      "ownedBy": "0xef3B10f96408dC10c9d49f6626f0cDe67E5De5f5",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/7212",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/7212",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/7212",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "7215",
+      "name": "Doodle #7215",
+      "rarity": "6729",
+      "ownedBy": "0x803c2F7754c802f21A85520c43550F9755F43717",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/7215",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/7215",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/7215",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "7225",
+      "name": "Doodle #7225",
+      "rarity": "3735",
+      "ownedBy": "0x45d13C531Ccb1be357F33b31C5E89DA16b8EA4aC",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/7225",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/7225",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/7225",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "7233",
+      "name": "Doodle #7233",
+      "rarity": "3784",
+      "ownedBy": "0x0986D2C9C781c9C84EEEC944316EeE5BB5C2171c",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/7233",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/7233",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/7233",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "7239",
+      "name": "Doodle #7239",
+      "rarity": "5274",
+      "ownedBy": "0x8e15f10EbAa9cb64e6881B71a0216B6433C2E880",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/7239",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/7239",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/7239",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "7275",
+      "name": "Doodle #7275",
+      "rarity": "9085",
+      "ownedBy": "0x880E4238FEf89C661Dcbbb92a406f3f1273DEE02",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/7275",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/7275",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/7275",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "7293",
+      "name": "Doodle #7293",
+      "rarity": "4998",
+      "ownedBy": "0x620b70123fB810F6C653DA7644b5dD0b6312e4D8",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/7293",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/7293",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/7293",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "7303",
+      "name": "Doodle #7303",
+      "rarity": "3647",
+      "ownedBy": "0x3454Cb520d53000B74CD1aC84B4F6099d3304ec0",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/7303",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/7303",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/7303",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "7334",
+      "name": "Doodle #7334",
+      "rarity": "2724",
+      "ownedBy": "0x73d2B5DB62835FACAAFE4B5f7f22023EdED33b81",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/7334",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/7334",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/7334",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "7349",
+      "name": "Doodle #7349",
+      "rarity": "5175",
+      "ownedBy": "0x21810C59EcFB4331441E6BD0d517C4afB09Ba5A4",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/7349",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/7349",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/7349",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "7413",
+      "name": "Doodle #7413",
+      "rarity": "3771",
+      "ownedBy": "0x2F131C4DAd4Be81683ABb966b4DE05a549144443",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/7413",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/7413",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/7413",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "7421",
+      "name": "Doodle #7421",
+      "rarity": "7573",
+      "ownedBy": "0x907760Dd6868AA7B72A0bB97dEbC0f1875A09A7C",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/7421",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/7421",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/7421",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "7454",
+      "name": "Doodle #7454",
+      "rarity": "5037",
+      "ownedBy": "0xD6C52896c743018ad7D6Bd4E0A0791EC78417A83",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/7454",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/7454",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/7454",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "7469",
+      "name": "Doodle #7469",
+      "rarity": "4452",
+      "ownedBy": "0xfF3F26AbB9a487E0f68b5FEb2520DA0d47FB60D6",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/7469",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/7469",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/7469",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "7471",
+      "name": "Doodle #7471",
+      "rarity": "3575",
+      "ownedBy": "0x6595ee75bD123403a05b85611e50c51C2A0be3D5",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/7471",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/7471",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/7471",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "7476",
+      "name": "Doodle #7476",
+      "rarity": "2808",
+      "ownedBy": "0x1bcFd3BD4289c1BC4040865e1884b01C72323D48",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/7476",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/7476",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/7476",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "7583",
+      "name": "Doodle #7583",
+      "rarity": "487",
+      "ownedBy": "0x345049Ca680D0585289e222BaDD1EA1Bf73bF327",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/7583",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/7583",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/7583",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "7592",
+      "name": "Doodle #7592",
+      "rarity": "5306",
+      "ownedBy": "0xe0B2ADd5C2d094008d014369ab6bc5c42cF3ACAd",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/7592",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/7592",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/7592",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "7608",
+      "name": "Doodle #7608",
+      "rarity": "2926",
+      "ownedBy": "0x620b70123fB810F6C653DA7644b5dD0b6312e4D8",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/7608",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/7608",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/7608",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "7651",
+      "name": "Doodle #7651",
+      "rarity": "9806",
+      "ownedBy": "0xbEA02fB6351351bc25Dddf296920e90a4a6D6319",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/7651",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/7651",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/7651",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "7825",
+      "name": "Doodle #7825",
+      "rarity": "6142",
+      "ownedBy": "0x79D81CD4a334691Ba2a001526d62C338639FF9db",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/7825",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/7825",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/7825",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "7878",
+      "name": "Doodle #7878",
+      "rarity": "1429",
+      "ownedBy": "0x2112c5e398cF926F72D03bD5b00E63544798cFbb",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/7878",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/7878",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/7878",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "7895",
+      "name": "Doodle #7895",
+      "rarity": "2247",
+      "ownedBy": "0x4106A756c86f2CE6dc667Cc9f4d68BD1b0472F3C",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/7895",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/7895",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/7895",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "7904",
+      "name": "Doodle #7904",
+      "rarity": "3851",
+      "ownedBy": "0x620b70123fB810F6C653DA7644b5dD0b6312e4D8",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/7904",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/7904",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/7904",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "7910",
+      "name": "Doodle #7910",
+      "rarity": "6548",
+      "ownedBy": "0xb6D328c2F993E0eb6Ca42B60D84c5E7A749Fa417",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/7910",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/7910",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/7910",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "7927",
+      "name": "Doodle #7927",
+      "rarity": "968",
+      "ownedBy": "0xacdaEEb57ff6886fC8e203B9Dd4C2b241DF89b7a",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/7927",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/7927",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/7927",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "7978",
+      "name": "Doodle #7978",
+      "rarity": "8650",
+      "ownedBy": "0xB696dbb542D28560823Ad2D8AD6913d18f3f526E",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/7978",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/7978",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/7978",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "8003",
+      "name": "Doodle #8003",
+      "rarity": "1901",
+      "ownedBy": "0x10676717c09529b51759fA1455F0C6246e16A029",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/8003",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/8003",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/8003",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "8106",
+      "name": "Doodle #8106",
+      "rarity": "1309",
+      "ownedBy": "0x4037199e26ba2B49E52Cd82d2914aF80E07435AB",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/8106",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/8106",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/8106",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "8130",
+      "name": "Doodle #8130",
+      "rarity": "8807",
+      "ownedBy": "0x620b70123fB810F6C653DA7644b5dD0b6312e4D8",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/8130",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/8130",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/8130",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "8273",
+      "name": "Doodle #8273",
+      "rarity": "4063",
+      "ownedBy": "0x620b70123fB810F6C653DA7644b5dD0b6312e4D8",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/8273",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/8273",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/8273",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "8292",
+      "name": "Doodle #8292",
+      "rarity": "3114",
+      "ownedBy": "0x9e8Efbe6BC13150AC5986a3A9a33F9E20325Bc4e",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/8292",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/8292",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/8292",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "8295",
+      "name": "Doodle #8295",
+      "rarity": "905",
+      "ownedBy": "0x9A4e2d36D8ff88153ca8C7475175b5676Cd9Cd7d",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/8295",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/8295",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/8295",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "8313",
+      "name": "Doodle #8313",
+      "rarity": "6678",
+      "ownedBy": "0xdc61fDA7bd33971990D80cfc81ee761a8746dFe9",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/8313",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/8313",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/8313",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "8337",
+      "name": "Doodle #8337",
+      "rarity": "5167",
+      "ownedBy": "0x8a79d66167A3360e4e453bf32cb5457B6d4c8f1c",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/8337",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/8337",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/8337",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "8367",
+      "name": "Doodle #8367",
+      "rarity": "5116",
+      "ownedBy": "0x670493444905FAC73099D069C042c22842bB5722",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/8367",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/8367",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/8367",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected",
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "8385",
+      "name": "Doodle #8385",
+      "rarity": "3215",
+      "ownedBy": "0x0abA7e4a64371AE971C256a500f6E48730b85B34",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/8385",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/8385",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/8385",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "8399",
+      "name": "Doodle #8399",
+      "rarity": "5134",
+      "ownedBy": "0x8a4b4bd8C5E842EeCB2681b99dc5C25B8eb11710",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/8399",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/8399",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/8399",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "8419",
+      "name": "Doodle #8419",
+      "rarity": "4735",
+      "ownedBy": "0x620b70123fB810F6C653DA7644b5dD0b6312e4D8",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/8419",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/8419",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/8419",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "8429",
+      "name": "Doodle #8429",
+      "rarity": "2052",
+      "ownedBy": "0x620b70123fB810F6C653DA7644b5dD0b6312e4D8",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/8429",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/8429",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/8429",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "8443",
+      "name": "Doodle #8443",
+      "rarity": "3350",
+      "ownedBy": "0x40a8EF93fF6DaF1d839635E8A5B3fe7E14AF6225",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/8443",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/8443",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/8443",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "8497",
+      "name": "Doodle #8497",
+      "rarity": "4752",
+      "ownedBy": "0x1bEf464495c716Dffd064be548eF190aD92720dc",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/8497",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/8497",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/8497",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "8532",
+      "name": "Doodle #8532",
+      "rarity": "2636",
+      "ownedBy": "0xb424f6aea9a5c9592CB49e95E8d6d555848d705C",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/8532",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/8532",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/8532",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "8566",
+      "name": "Doodle #8566",
+      "rarity": "4264",
+      "ownedBy": "0x8d48e5794e054001Db3Dc5c9E94050299E6D1636",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/8566",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/8566",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/8566",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "8668",
+      "name": "Doodle #8668",
+      "rarity": "3688",
+      "ownedBy": "0xf64932b6002FD2a465A72564D80422f762aaA566",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/8668",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/8668",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/8668",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "8676",
+      "name": "Doodle #8676",
+      "rarity": "2302",
+      "ownedBy": "0x4D3dFF907762F8276E9286C39D600b65717990bc",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/8676",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/8676",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/8676",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "8684",
+      "name": "Doodle #8684",
+      "rarity": "4627",
+      "ownedBy": "0xEef5B41818cC330e754E168E03d76d5E41e93A03",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/8684",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/8684",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/8684",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "8695",
+      "name": "Doodle #8695",
+      "rarity": "6017",
+      "ownedBy": "0x676091157E908974DF9D6Abb3F1b3061B6400681",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/8695",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/8695",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/8695",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "8712",
+      "name": "Doodle #8712",
+      "rarity": "723",
+      "ownedBy": "0xd4E4D1F84500641A9a8094624244dD2456B622f4",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/8712",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/8712",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/8712",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "8746",
+      "name": "Doodle #8746",
+      "rarity": "879",
+      "ownedBy": "0x8FeDfA6ff6Bf9244e39598dAE585fDf830a15765",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/8746",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/8746",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/8746",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "8768",
+      "name": "Doodle #8768",
+      "rarity": "1316",
+      "ownedBy": "0x59D305945a13669A31773e1ED0193652B2C62fE8",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/8768",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/8768",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/8768",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "8876",
+      "name": "Doodle #8876",
+      "rarity": "4858",
+      "ownedBy": "0xcae6724C410084FC1C6Ec43bA6907d2e8e792e5e",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/8876",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/8876",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/8876",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "8880",
+      "name": "Doodle #8880",
+      "rarity": "4094",
+      "ownedBy": "0x1aCDc2285D7E211bdAb1BCB8a5020b41d60A51f4",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/8880",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/8880",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/8880",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "8914",
+      "name": "Doodle #8914",
+      "rarity": "6185",
+      "ownedBy": "0x85AB5810AD5AeEa70586C299E323f650b7F12f53",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/8914",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/8914",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/8914",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "8920",
+      "name": "Doodle #8920",
+      "rarity": "9539",
+      "ownedBy": "0x620b70123fB810F6C653DA7644b5dD0b6312e4D8",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/8920",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/8920",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/8920",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "8925",
+      "name": "Doodle #8925",
+      "rarity": "7628",
+      "ownedBy": "0xe8f4eBDf9F624DF8a4FCD6C1DC94F4091530420f",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/8925",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/8925",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/8925",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "8930",
+      "name": "Doodle #8930",
+      "rarity": "7191",
+      "ownedBy": "0xeBBaEB6201D1aA6Db649988240D08D26a576e987",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/8930",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/8930",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/8930",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "8959",
+      "name": "Doodle #8959",
+      "rarity": "8825",
+      "ownedBy": "0x0Eab7031818D23f01e3c624Df84381a2f75f6e7A",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/8959",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/8959",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/8959",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "8969",
+      "name": "Doodle #8969",
+      "rarity": "8399",
+      "ownedBy": "0x620b70123fB810F6C653DA7644b5dD0b6312e4D8",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/8969",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/8969",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/8969",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "8980",
+      "name": "Doodle #8980",
+      "rarity": "5199",
+      "ownedBy": "0x41797b5e0398aF475422f6F33F2dc81d9a24aE33",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/8980",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/8980",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/8980",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "8985",
+      "name": "Doodle #8985",
+      "rarity": "2298",
+      "ownedBy": "0x3055Bc8db0a3998500beF8bC0980f03f47f8a3D4",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/8985",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/8985",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/8985",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "8989",
+      "name": "Doodle #8989",
+      "rarity": "4881",
+      "ownedBy": "0x6D9F66041197CA9A63C83F484880E03611A3D01a",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/8989",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/8989",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/8989",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "9004",
+      "name": "Doodle #9004",
+      "rarity": "3834",
+      "ownedBy": "0x3b7038954d0164dF4d4e9884aC7530F33DC3e472",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/9004",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/9004",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/9004",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "9183",
+      "name": "Doodle #9183",
+      "rarity": "3855",
+      "ownedBy": "0xa31E66983cAa937591Ada1B6B16C7b3136779339",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/9183",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/9183",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/9183",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "9187",
+      "name": "Doodle #9187",
+      "rarity": "2213",
+      "ownedBy": "0x1f7f5DD46E16560FF585b45658632564353604aC",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/9187",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/9187",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/9187",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "9197",
+      "name": "Doodle #9197",
+      "rarity": "6799",
+      "ownedBy": "0x620b70123fB810F6C653DA7644b5dD0b6312e4D8",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/9197",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/9197",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/9197",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "9223",
+      "name": "Doodle #9223",
+      "rarity": "8522",
+      "ownedBy": "0xf14F36Fdf50D8b5052b97B3546f28c5ef934D847",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/9223",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/9223",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/9223",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "9262",
+      "name": "Doodle #9262",
+      "rarity": "5731",
+      "ownedBy": "0xa58Bb1fCB1f9A267c5d25bAB1c519637530Eb937",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/9262",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/9262",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/9262",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "9321",
+      "name": "Doodle #9321",
+      "rarity": "6759",
+      "ownedBy": "0x423E6C5179005b5E8BF32c09BE5878590f58E287",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/9321",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/9321",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/9321",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "9337",
+      "name": "Doodle #9337",
+      "rarity": "5943",
+      "ownedBy": "0xeF8bf5C8549Bf47B9A62F8AE515de66E690F41EA",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/9337",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/9337",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/9337",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "9373",
+      "name": "Doodle #9373",
+      "ownedBy": "0xEC959F0D95793CC120c09034cc9F10212656a952",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/9373",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/9373",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/9373",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "9429",
+      "name": "Doodle #9429",
+      "rarity": "987",
+      "ownedBy": "0xacdaEEb57ff6886fC8e203B9Dd4C2b241DF89b7a",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/9429",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/9429",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/9429",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "9436",
+      "name": "Doodle #9436",
+      "ownedBy": "0x90238A0A150C47e326A19AD38f05700021fCfa62",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/9436",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/9436",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/9436",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "9481",
+      "name": "Doodle #9481",
+      "rarity": "8805",
+      "ownedBy": "0x7868F8dAFCFD47AD2deC38BB980579d019DF3dc1",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/9481",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/9481",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/9481",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "9519",
+      "name": "Doodle #9519",
+      "rarity": "238",
+      "ownedBy": "0x41797b5e0398aF475422f6F33F2dc81d9a24aE33",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/9519",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/9519",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/9519",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "9577",
+      "name": "Doodle #9577",
+      "rarity": "7331",
+      "ownedBy": "0x9cCf3055EB4D238A8c7B879cf94Ef57bF6796110",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/9577",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/9577",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/9577",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "9590",
+      "name": "Doodle #9590",
+      "rarity": "426",
+      "ownedBy": "0xd32C6912F604c3e66F8f9e299F751AE869D7e631",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/9590",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/9590",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/9590",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "9592",
+      "name": "Doodle #9592",
+      "rarity": "9084",
+      "ownedBy": "0xB5696E4057B9BA76616cEcB5A537eAcA7B3CDf54",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/9592",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/9592",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/9592",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "9644",
+      "name": "Doodle #9644",
+      "rarity": "6512",
+      "ownedBy": "0xd4E4D1F84500641A9a8094624244dD2456B622f4",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/9644",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/9644",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/9644",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "9658",
+      "name": "Doodle #9658",
+      "rarity": "1784",
+      "ownedBy": "0x6bC0060c7c28D1d6C2Ec28C15eDa6ad10fDAFd44",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/9658",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/9658",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/9658",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "9711",
+      "name": "Doodle #9711",
+      "rarity": "3620",
+      "ownedBy": "0xE5cD9ffBF7C794c28C4577EF27E2EF892cd8f61D",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/9711",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/9711",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/9711",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "9739",
+      "name": "Doodle #9739",
+      "rarity": "1884",
+      "ownedBy": "0x549Dd31B0F5f64F40502Eb2B4586b07264E47a14",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/9739",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/9739",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/9739",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "9799",
+      "name": "Doodle #9799",
+      "ownedBy": "0xDC0d1AfA9DEB7C9EB325Adc6900d85dF057792D4",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/9799",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/9799",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/9799",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "9802",
+      "name": "Doodle #9802",
+      "ownedBy": "0x620b70123fB810F6C653DA7644b5dD0b6312e4D8",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/9802",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/9802",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/9802",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "9816",
+      "name": "Doodle #9816",
+      "rarity": "8257",
+      "ownedBy": "0x2Ff933B9cE62a2f7506309c22A30E3135eE54863",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/9816",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/9816",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/9816",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "9875",
+      "name": "Doodle #9875",
+      "rarity": "5182",
+      "ownedBy": "0x441aCdB5921Fa23d8359d9747BF503Bb2Fd09c2a",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/9875",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/9875",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/9875",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "9899",
+      "name": "Doodle #9899",
+      "ownedBy": "0x0FF62890aea9C22a0D6e62024b64Ace1e216a79D",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/9899",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/9899",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/9899",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "9922",
+      "name": "Doodle #9922",
+      "rarity": "9225",
+      "ownedBy": "0xCC4a61103a222B0bb4A9Afd09b088Afe37768010",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/9922",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/9922",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/9922",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "9931",
+      "name": "Doodle #9931",
+      "rarity": "7522",
+      "ownedBy": "0x045d7379caF80B1FE960df4d9b69B5e356d4A200",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/9931",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/9931",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/9931",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "9951",
+      "name": "Doodle #9951",
+      "rarity": "2009",
+      "ownedBy": "0xAf6C4334c0314B3da3Cc9148bf841Aa8ec172459",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/9951",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/9951",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/9951",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "9962",
+      "name": "Doodle #9962",
+      "ownedBy": "0x9e724C94692eea5777cAD2E7EbF40c338169b268",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/9962",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/9962",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/9962",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "9997",
+      "name": "Doodle #9997",
+      "rarity": "257",
+      "ownedBy": "0x1BdC0CF6a9797833c22B65be41adEEa873abBA59",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/md/9997",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/9997",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e/metadata/9997",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    }
+  ]
+}

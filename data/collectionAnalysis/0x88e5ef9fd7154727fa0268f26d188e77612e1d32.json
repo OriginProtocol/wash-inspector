@@ -1,0 +1,2024 @@
+{
+  "trades": 902,
+  "washTrades": 166,
+  "volume": 39.94596034854986,
+  "washVolume": 7.1216913999999,
+  "address": "0x88E5ef9Fd7154727fA0268f26d188E77612E1d32",
+  "washTradedNfts": [
+    {
+      "tokenId": "132",
+      "name": "Biplane Bobo #132",
+      "rarity": "2806",
+      "ownedBy": "0xa09eE42851865e7ad6a8d4E003fE96f999f40a8A",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/132",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/132",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/132",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "140",
+      "name": "Biplane Bobo #140",
+      "rarity": "3206",
+      "ownedBy": "0xe608DE547B34fc5Ff73B0d2A9B94dBDFcAd76Ecf",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/140",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/140",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/140",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "154",
+      "name": "Biplane Bobo #154",
+      "rarity": "706",
+      "ownedBy": "0xC2FC412FbBa42ec5cF7aE010012b4BAB7E0982Eb",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/154",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/154",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/154",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "165",
+      "name": "Biplane Bobo #165",
+      "rarity": "3206",
+      "ownedBy": "0x79C26b3468Fea1cA206c918758d978cA9079BD39",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/165",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/165",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/165",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "173",
+      "name": "Biplane Bobo #173",
+      "rarity": "706",
+      "ownedBy": "0x33F1a035683a127B327E6f4b345d0F14FF6F24F2",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/173",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/173",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/173",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "193",
+      "name": "Biplane Bobo #193",
+      "rarity": "3206",
+      "ownedBy": "0x862a7087C350a530E122476Da160a1975ee333E4",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/193",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/193",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/193",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "232",
+      "name": "Biplane Bobo #232",
+      "rarity": "3206",
+      "ownedBy": "0xA68462CC81379c95A35E023fdDDae6c6739E9267",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/232",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/232",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/232",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "238",
+      "name": "Biplane Bobo #238",
+      "rarity": "706",
+      "ownedBy": "0x57432498F4db3D7466B0059959153BeEf40Eb627",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/238",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/238",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/238",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "384",
+      "name": "Biplane Bobo #384",
+      "rarity": "3206",
+      "ownedBy": "0xfCC7D79424AFAafF1E3cBF7C6F52f33bdBeBfbdF",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/384",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/384",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/384",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "463",
+      "name": "Biplane Bobo #463",
+      "rarity": "3206",
+      "ownedBy": "0xC35DB6DE95b14F9cC7E34eD99845a87D80e945b1",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/463",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/463",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/463",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "520",
+      "name": "Biplane Bobo #520",
+      "rarity": "706",
+      "ownedBy": "0x30c8e13E0bDABde2b21baf6Fde9df9CE6e77852d",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/520",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/520",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/520",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "548",
+      "name": "Biplane Bobo #548",
+      "rarity": "3206",
+      "ownedBy": "0xc1563BdF57BdB990C89070aA72CDA57fe8d6913D",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/548",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/548",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/548",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "576",
+      "name": "Biplane Bobo #576",
+      "rarity": "3206",
+      "ownedBy": "0xcaf0d8b3a62CfE8E588c60bb668159AafF06A98d",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/576",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/576",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/576",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "627",
+      "name": "Biplane Bobo #627",
+      "rarity": "706",
+      "ownedBy": "0x79C26b3468Fea1cA206c918758d978cA9079BD39",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/627",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/627",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/627",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "640",
+      "name": "Biplane Bobo #640",
+      "rarity": "3206",
+      "ownedBy": "0xd8Ef04e2c6814f6d6C2F061B93421D3755C7f9eF",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/640",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/640",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/640",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "719",
+      "name": "Biplane Bobo #719",
+      "rarity": "2806",
+      "ownedBy": "0xC2FC412FbBa42ec5cF7aE010012b4BAB7E0982Eb",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/719",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/719",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/719",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "725",
+      "name": "Biplane Bobo #725",
+      "rarity": "6",
+      "ownedBy": "0x2e417e4c43415695E0eac3f68C3360dD3b416EF4",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/725",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/725",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/725",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "782",
+      "name": "Biplane Bobo #782",
+      "rarity": "3206",
+      "ownedBy": "0x087f0f2757c7F92f4c68CCb23e25e6Bb5e9e9C6E",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/782",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/782",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/782",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "792",
+      "name": "Biplane Bobo #792",
+      "rarity": "3206",
+      "ownedBy": "0x79C26b3468Fea1cA206c918758d978cA9079BD39",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/792",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/792",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/792",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "816",
+      "name": "Biplane Bobo #816",
+      "rarity": "3206",
+      "ownedBy": "0xC2FC412FbBa42ec5cF7aE010012b4BAB7E0982Eb",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/816",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/816",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/816",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "829",
+      "name": "Biplane Bobo #829",
+      "rarity": "706",
+      "ownedBy": "0x2e48c41E36f03471248DF0dc879423d7329c69dE",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/829",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/829",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/829",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "856",
+      "name": "Biplane Bobo #856",
+      "rarity": "3206",
+      "ownedBy": "0x4F86B2de32321E408276459BfD8c921bfe29BdD9",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/856",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/856",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/856",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "877",
+      "name": "Biplane Bobo #877",
+      "rarity": "706",
+      "ownedBy": "0x000000000000000000000000000000000000dEaD",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/877",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/877",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/877",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "906",
+      "name": "Biplane Bobo #906",
+      "rarity": "706",
+      "ownedBy": "0x000000000000000000000000000000000000dEaD",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/906",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/906",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/906",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1179",
+      "name": "Biplane Bobo #1179",
+      "rarity": "706",
+      "ownedBy": "0x000000000000000000000000000000000000dEaD",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/1179",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/1179",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/1179",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1208",
+      "name": "Biplane Bobo #1208",
+      "rarity": "706",
+      "ownedBy": "0xE3fe2ec03f475D1bDC36C7d7110a7d69999aFc1f",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/1208",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/1208",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/1208",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1242",
+      "name": "Biplane Bobo #1242",
+      "rarity": "3206",
+      "ownedBy": "0x4ee9c996BCB7c4D94e6F1e122441fc3301874751",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/1242",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/1242",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/1242",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1271",
+      "name": "Biplane Bobo #1271",
+      "rarity": "3206",
+      "ownedBy": "0x6f36822b64f3c9498845EF8e1aF56ec52C3e8836",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/1271",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/1271",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/1271",
+      "washTraded": true,
+      "washTrades": [
+        "buyer_is_seller"
+      ]
+    },
+    {
+      "tokenId": "1302",
+      "name": "Biplane Bobo #1302",
+      "rarity": "106",
+      "ownedBy": "0xc348f4B6dBf1B156D802810DB2f6d59F36c837BF",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/1302",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/1302",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/1302",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1312",
+      "name": "Biplane Bobo #1312",
+      "rarity": "2806",
+      "ownedBy": "0x04D7C2ee4cdBAC9A0FC46d3E35e79AbA5CCa471D",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/1312",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/1312",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/1312",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1363",
+      "name": "Biplane Bobo #1363",
+      "rarity": "3206",
+      "ownedBy": "0x69c0E38b72b7ea3dAA6F8C519e7b6e5F6754FD74",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/1363",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/1363",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/1363",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1395",
+      "name": "Biplane Bobo #1395",
+      "rarity": "706",
+      "ownedBy": "0x55aF2cD30Dd1c43DA194B8121adbd1A359996b6F",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/1395",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/1395",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/1395",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1420",
+      "name": "Biplane Bobo #1420",
+      "rarity": "706",
+      "ownedBy": "0x6882185EF840a543643d9CDb8f41d1C6B0bdeAB7",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/1420",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/1420",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/1420",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1429",
+      "name": "Biplane Bobo #1429",
+      "rarity": "3206",
+      "ownedBy": "0xBDAefE578294842fB433769c6b0D95130099e96e",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/1429",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/1429",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/1429",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1464",
+      "name": "Biplane Bobo #1464",
+      "rarity": "3206",
+      "ownedBy": "0x4871E2E49c35e1Ba0D5dfD095e0b949597469D1E",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/1464",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/1464",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/1464",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1472",
+      "name": "Biplane Bobo #1472",
+      "rarity": "706",
+      "ownedBy": "0xf83b248F203e7C4039e075DD0Aecd91f8f45d7F8",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/1472",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/1472",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/1472",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1485",
+      "name": "Biplane Bobo #1485",
+      "rarity": "2806",
+      "ownedBy": "0x04D7C2ee4cdBAC9A0FC46d3E35e79AbA5CCa471D",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/1485",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/1485",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/1485",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1507",
+      "name": "Biplane Bobo #1507",
+      "rarity": "3206",
+      "ownedBy": "0xBDAefE578294842fB433769c6b0D95130099e96e",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/1507",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/1507",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/1507",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1545",
+      "name": "Biplane Bobo #1545",
+      "rarity": "706",
+      "ownedBy": "0xC2FC412FbBa42ec5cF7aE010012b4BAB7E0982Eb",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/1545",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/1545",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/1545",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1556",
+      "name": "Biplane Bobo #1556",
+      "rarity": "106",
+      "ownedBy": "0x000000000000000000000000000000000000dEaD",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/1556",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/1556",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/1556",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1586",
+      "name": "Biplane Bobo #1586",
+      "rarity": "706",
+      "ownedBy": "0xC2FC412FbBa42ec5cF7aE010012b4BAB7E0982Eb",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/1586",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/1586",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/1586",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1587",
+      "name": "Biplane Bobo #1587",
+      "rarity": "706",
+      "ownedBy": "0x04D7C2ee4cdBAC9A0FC46d3E35e79AbA5CCa471D",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/1587",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/1587",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/1587",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1630",
+      "name": "Biplane Bobo #1630",
+      "rarity": "3206",
+      "ownedBy": "0xB70F18241Ce8EB6D01922AeC132e5F09F12c03F1",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/1630",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/1630",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/1630",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "1749",
+      "name": "Biplane Bobo #1749",
+      "rarity": "3206",
+      "ownedBy": "0xEFBA291761c7F58d75D8f25b2A197ccAb26CEe51",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/1749",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/1749",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/1749",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1783",
+      "name": "Biplane Bobo #1783",
+      "rarity": "3206",
+      "ownedBy": "0x27A9A5Fc86fc478a5D3d357D607C93F78f1f0f89",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/1783",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/1783",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/1783",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "1792",
+      "name": "Biplane Bobo #1792",
+      "rarity": "3206",
+      "ownedBy": "0x2F377855c36745312317eE76555fD31754d7dd38",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/1792",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/1792",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/1792",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1812",
+      "name": "Biplane Bobo #1812",
+      "rarity": "2806",
+      "ownedBy": "0xEFBA291761c7F58d75D8f25b2A197ccAb26CEe51",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/1812",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/1812",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/1812",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1870",
+      "name": "Biplane Bobo #1870",
+      "rarity": "706",
+      "ownedBy": "0xE216E8Ab691Bda159d0f2A559a36CD102d8fd9D4",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/1870",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/1870",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/1870",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1871",
+      "name": "Biplane Bobo #1871",
+      "rarity": "706",
+      "ownedBy": "0x1903187E6BeF439a5CD3a33075d07Ceb72a59ea2",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/1871",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/1871",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/1871",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1884",
+      "name": "Biplane Bobo #1884",
+      "rarity": "3206",
+      "ownedBy": "0x4F86B2de32321E408276459BfD8c921bfe29BdD9",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/1884",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/1884",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/1884",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1896",
+      "name": "Biplane Bobo #1896",
+      "rarity": "3206",
+      "ownedBy": "0xe357E0e3338C344B91779324366dC94453D80C9b",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/1896",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/1896",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/1896",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "2017",
+      "name": "Biplane Bobo #2017",
+      "rarity": "3206",
+      "ownedBy": "0x8586f22DeeeE11C86676A5710C8083Abe5F8b82F",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/2017",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/2017",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/2017",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "2206",
+      "name": "Biplane Bobo #2206",
+      "rarity": "2806",
+      "ownedBy": "0xc1563BdF57BdB990C89070aA72CDA57fe8d6913D",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/2206",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/2206",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/2206",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "2320",
+      "name": "Biplane Bobo #2320",
+      "rarity": "3206",
+      "ownedBy": "0x1d87297915F17CD24aF97724CfC88D8608C20630",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/2320",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/2320",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/2320",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "2347",
+      "name": "Biplane Bobo #2347",
+      "rarity": "3206",
+      "ownedBy": "0x79C26b3468Fea1cA206c918758d978cA9079BD39",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/2347",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/2347",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/2347",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "2348",
+      "name": "Biplane Bobo #2348",
+      "rarity": "2806",
+      "ownedBy": "0x684246Bf16c0f4cb61eE364331837E9C0162248D",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/2348",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/2348",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/2348",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "2352",
+      "name": "Biplane Bobo #2352",
+      "rarity": "3206",
+      "ownedBy": "0x09FABf8c79e141FEa3B87629a19C1deFef0B9291",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/2352",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/2352",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/2352",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "2388",
+      "name": "Biplane Bobo #2388",
+      "rarity": "3206",
+      "ownedBy": "0xe357E0e3338C344B91779324366dC94453D80C9b",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/2388",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/2388",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/2388",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "2431",
+      "name": "Biplane Bobo #2431",
+      "rarity": "3206",
+      "ownedBy": "0x33F1a035683a127B327E6f4b345d0F14FF6F24F2",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/2431",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/2431",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/2431",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "2445",
+      "name": "Biplane Bobo #2445",
+      "rarity": "3206",
+      "ownedBy": "0x33F1a035683a127B327E6f4b345d0F14FF6F24F2",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/2445",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/2445",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/2445",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "2512",
+      "name": "Biplane Bobo #2512",
+      "rarity": "706",
+      "ownedBy": "0x000000000000000000000000000000000000dEaD",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/2512",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/2512",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/2512",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "2521",
+      "name": "Biplane Bobo #2521",
+      "rarity": "3206",
+      "ownedBy": "0x8586f22DeeeE11C86676A5710C8083Abe5F8b82F",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/2521",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/2521",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/2521",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "2550",
+      "name": "Biplane Bobo #2550",
+      "rarity": "706",
+      "ownedBy": "0x000000000000000000000000000000000000dEaD",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/2550",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/2550",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/2550",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "2581",
+      "name": "Biplane Bobo #2581",
+      "rarity": "3206",
+      "ownedBy": "0x4DbFe38B13BB7ab7cddBa81031b159Ce44993c1e",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/2581",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/2581",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/2581",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "2648",
+      "name": "Biplane Bobo #2648",
+      "rarity": "3206",
+      "ownedBy": "0x8f43663BE77a7f119B0388775Ca9f34f599929C6",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/2648",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/2648",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/2648",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "2656",
+      "name": "Biplane Bobo #2656",
+      "rarity": "3206",
+      "ownedBy": "0xc1563BdF57BdB990C89070aA72CDA57fe8d6913D",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/2656",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/2656",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/2656",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "2664",
+      "name": "Biplane Bobo #2664",
+      "rarity": "706",
+      "ownedBy": "0xC2FC412FbBa42ec5cF7aE010012b4BAB7E0982Eb",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/2664",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/2664",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/2664",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "2705",
+      "name": "Biplane Bobo #2705",
+      "rarity": "2806",
+      "ownedBy": "0x9364F38294A38FA5962b382954748Eea56d8D724",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/2705",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/2705",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/2705",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "2718",
+      "name": "Biplane Bobo #2718",
+      "rarity": "3206",
+      "ownedBy": "0xBD6C98B86492D91420dA7A9d583Dbc7A47545Df3",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/2718",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/2718",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/2718",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "2731",
+      "name": "Biplane Bobo #2731",
+      "rarity": "706",
+      "ownedBy": "0x04D7C2ee4cdBAC9A0FC46d3E35e79AbA5CCa471D",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/2731",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/2731",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/2731",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "2835",
+      "name": "Biplane Bobo #2835",
+      "rarity": "3206",
+      "ownedBy": "0x33F1a035683a127B327E6f4b345d0F14FF6F24F2",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/2835",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/2835",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/2835",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "2871",
+      "name": "Biplane Bobo #2871",
+      "rarity": "3206",
+      "ownedBy": "0xc1563BdF57BdB990C89070aA72CDA57fe8d6913D",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/2871",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/2871",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/2871",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "2928",
+      "name": "Biplane Bobo #2928",
+      "rarity": "3206",
+      "ownedBy": "0x33F1a035683a127B327E6f4b345d0F14FF6F24F2",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/2928",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/2928",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/2928",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "2979",
+      "name": "Biplane Bobo #2979",
+      "rarity": "706",
+      "ownedBy": "0x96058Fd3a91945Ba5AAbfFA8A898169F61d87a4c",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/2979",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/2979",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/2979",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "2988",
+      "name": "Biplane Bobo #2988",
+      "rarity": "706",
+      "ownedBy": "0x000000000000000000000000000000000000dEaD",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/2988",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/2988",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/2988",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "2998",
+      "name": "Biplane Bobo #2998",
+      "rarity": "706",
+      "ownedBy": "0x4d16d1DE800f30afbd5f42488cb9440c19C450F2",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/2998",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/2998",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/2998",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3059",
+      "name": "Biplane Bobo #3059",
+      "rarity": "3206",
+      "ownedBy": "0x56c0bA46B9Fb21a331A92bCcB57c25bdCA630C8b",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/3059",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/3059",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/3059",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3076",
+      "name": "Biplane Bobo #3076",
+      "rarity": "706",
+      "ownedBy": "0x862a7087C350a530E122476Da160a1975ee333E4",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/3076",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/3076",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/3076",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3109",
+      "name": "Biplane Bobo #3109",
+      "rarity": "2806",
+      "ownedBy": "0x71cC0c951570672fEF3984cFDdCf9EA16aA43863",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/3109",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/3109",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/3109",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3128",
+      "name": "Biplane Bobo #3128",
+      "rarity": "2806",
+      "ownedBy": "0x7BBC6F3CdCCFcf03CB062856E751b8950DAd812b",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/3128",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/3128",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/3128",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3143",
+      "name": "Biplane Bobo #3143",
+      "rarity": "3206",
+      "ownedBy": "0x1d4cE1f7a2996615008Af95c414a6d0094965bdA",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/3143",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/3143",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/3143",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3155",
+      "name": "Biplane Bobo #3155",
+      "rarity": "706",
+      "ownedBy": "0x6beEF2B2fE00FDDCa12A8CDA2D4B00435b0ba3b6",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/3155",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/3155",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/3155",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3161",
+      "name": "Biplane Bobo #3161",
+      "rarity": "706",
+      "ownedBy": "0x000000000000000000000000000000000000dEaD",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/3161",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/3161",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/3161",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3178",
+      "name": "Biplane Bobo #3178",
+      "rarity": "706",
+      "ownedBy": "0xC2FC412FbBa42ec5cF7aE010012b4BAB7E0982Eb",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/3178",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/3178",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/3178",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3181",
+      "name": "Biplane Bobo #3181",
+      "rarity": "3206",
+      "ownedBy": "0x5B43DFb382f4Ce91d71141e60Bae6EB02910B38e",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/3181",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/3181",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/3181",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3183",
+      "name": "Biplane Bobo #3183",
+      "rarity": "706",
+      "ownedBy": "0x000000000000000000000000000000000000dEaD",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/3183",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/3183",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/3183",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3186",
+      "name": "Biplane Bobo #3186",
+      "rarity": "3206",
+      "ownedBy": "0x8b2f74b39e8aF16F44365a359B02AcD2a5402669",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/3186",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/3186",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/3186",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3194",
+      "name": "Biplane Bobo #3194",
+      "rarity": "706",
+      "ownedBy": "0x067753A1d65293af77c0074B2afd535D3cbC21ED",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/3194",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/3194",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/3194",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3211",
+      "name": "Biplane Bobo #3211",
+      "rarity": "3206",
+      "ownedBy": "0xEFBA291761c7F58d75D8f25b2A197ccAb26CEe51",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/3211",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/3211",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/3211",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3223",
+      "name": "Biplane Bobo #3223",
+      "rarity": "706",
+      "ownedBy": "0xE216E8Ab691Bda159d0f2A559a36CD102d8fd9D4",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/3223",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/3223",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/3223",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3224",
+      "name": "Biplane Bobo #3224",
+      "rarity": "3206",
+      "ownedBy": "0xEFBA291761c7F58d75D8f25b2A197ccAb26CEe51",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/3224",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/3224",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/3224",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3234",
+      "name": "Biplane Bobo #3234",
+      "rarity": "706",
+      "ownedBy": "0x51B6AEB9bD546eCeC8a98283446Af9405ecCfEcf",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/3234",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/3234",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/3234",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3245",
+      "name": "Biplane Bobo #3245",
+      "rarity": "3206",
+      "ownedBy": "0x2f71E2D2b23140110249f19B6ce0d3703d284aD1",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/3245",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/3245",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/3245",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3287",
+      "name": "Biplane Bobo #3287",
+      "rarity": "106",
+      "ownedBy": "0x04D7C2ee4cdBAC9A0FC46d3E35e79AbA5CCa471D",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/3287",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/3287",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/3287",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3323",
+      "name": "Biplane Bobo #3323",
+      "rarity": "106",
+      "ownedBy": "0x79C26b3468Fea1cA206c918758d978cA9079BD39",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/3323",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/3323",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/3323",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3352",
+      "name": "Biplane Bobo #3352",
+      "rarity": "706",
+      "ownedBy": "0x7A72610aba824163D340f63dFf7515a839156B04",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/3352",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/3352",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/3352",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3372",
+      "name": "Biplane Bobo #3372",
+      "rarity": "3206",
+      "ownedBy": "0x6478c54d7e93801950Ef4970424D2E84BD1A7eA1",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/3372",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/3372",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/3372",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3391",
+      "name": "Biplane Bobo #3391",
+      "rarity": "3206",
+      "ownedBy": "0xe357E0e3338C344B91779324366dC94453D80C9b",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/3391",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/3391",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/3391",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3398",
+      "name": "Biplane Bobo #3398",
+      "rarity": "706",
+      "ownedBy": "0x000000000000000000000000000000000000dEaD",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/3398",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/3398",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/3398",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3443",
+      "name": "Biplane Bobo #3443",
+      "rarity": "706",
+      "ownedBy": "0x9c87f97C4bD011C2E55f32B360eF1acf3C96F0E1",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/3443",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/3443",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/3443",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3470",
+      "name": "Biplane Bobo #3470",
+      "rarity": "3206",
+      "ownedBy": "0x21B5A2F2D0B87f01eA030086b586BC4d63D516C3",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/3470",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/3470",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/3470",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3496",
+      "name": "Biplane Bobo #3496",
+      "rarity": "3206",
+      "ownedBy": "0x04D7C2ee4cdBAC9A0FC46d3E35e79AbA5CCa471D",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/3496",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/3496",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/3496",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3581",
+      "name": "Biplane Bobo #3581",
+      "rarity": "3206",
+      "ownedBy": "0x7c6232C283CB04874089A0f3DBB4EbBAdaDCC06c",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/3581",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/3581",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/3581",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3613",
+      "name": "Biplane Bobo #3613",
+      "rarity": "106",
+      "ownedBy": "0x79C26b3468Fea1cA206c918758d978cA9079BD39",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/3613",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/3613",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/3613",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3628",
+      "name": "Biplane Bobo #3628",
+      "rarity": "2806",
+      "ownedBy": "0xca7510f2F00EC3e2B3e577a20D46195A8830d429",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/3628",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/3628",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/3628",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3709",
+      "name": "Biplane Bobo #3709",
+      "rarity": "706",
+      "ownedBy": "0x37Db1629458c7ACd1ECC0b6702AC0C6636341F99",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/3709",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/3709",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/3709",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3748",
+      "name": "Biplane Bobo #3748",
+      "rarity": "706",
+      "ownedBy": "0x4Cd3F1C8Bfe7fB50470e4738e45921A1D08bc9bA",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/3748",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/3748",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/3748",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3794",
+      "name": "Biplane Bobo #3794",
+      "rarity": "706",
+      "ownedBy": "0x69d62B87D953009308ad4A1f538102E27aB78Df5",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/3794",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/3794",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/3794",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3820",
+      "name": "Biplane Bobo #3820",
+      "rarity": "106",
+      "ownedBy": "0x000000000000000000000000000000000000dEaD",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/3820",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/3820",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/3820",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3830",
+      "name": "Biplane Bobo #3830",
+      "rarity": "706",
+      "ownedBy": "0x7DC78D517af078Cd4953a12B427e06Cb0d950eaE",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/3830",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/3830",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/3830",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3861",
+      "name": "Biplane Bobo #3861",
+      "rarity": "3206",
+      "ownedBy": "0xBDAefE578294842fB433769c6b0D95130099e96e",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/3861",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/3861",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/3861",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "3863",
+      "name": "Biplane Bobo #3863",
+      "rarity": "3206",
+      "ownedBy": "0x6237e1a819C6B112784D2230179b9E378A7295Fe",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/3863",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/3863",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/3863",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3908",
+      "name": "Biplane Bobo #3908",
+      "rarity": "706",
+      "ownedBy": "0x782A3D02dd042a7b3e9CB098619a959670775Af0",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/3908",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/3908",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/3908",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3950",
+      "name": "Biplane Bobo #3950",
+      "rarity": "3206",
+      "ownedBy": "0x4c19f7E367517fee82d655370336E2d724166fCF",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/3950",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/3950",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/3950",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "3955",
+      "name": "Biplane Bobo #3955",
+      "rarity": "706",
+      "ownedBy": "0xE216E8Ab691Bda159d0f2A559a36CD102d8fd9D4",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/3955",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/3955",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/3955",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3960",
+      "name": "Biplane Bobo #3960",
+      "rarity": "3206",
+      "ownedBy": "0x90Eef7048038f502cBfE6809Bd34c2004DCCE30F",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/3960",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/3960",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/3960",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3968",
+      "name": "Biplane Bobo #3968",
+      "rarity": "3206",
+      "ownedBy": "0x719f17Ed85c9208F5fA7dbF4067bCFFa6D63F508",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/3968",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/3968",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/3968",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4063",
+      "name": "Biplane Bobo #4063",
+      "rarity": "106",
+      "ownedBy": "0x420860D2F660CF743279ac3Caa8d4D6F0b1cd79f",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/4063",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/4063",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/4063",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4094",
+      "name": "Biplane Bobo #4094",
+      "rarity": "3206",
+      "ownedBy": "0xc1563BdF57BdB990C89070aA72CDA57fe8d6913D",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/4094",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/4094",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/4094",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4152",
+      "name": "Biplane Bobo #4152",
+      "rarity": "3206",
+      "ownedBy": "0x610Bb996CAdc469fF4985a20b22278DdA954E83a",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/4152",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/4152",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/4152",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "4155",
+      "name": "Biplane Bobo #4155",
+      "rarity": "3206",
+      "ownedBy": "0x070890Ec4691Fd1D7f053EEABe0Ae08A3Dafe040",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/4155",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/4155",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/4155",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4157",
+      "name": "Biplane Bobo #4157",
+      "rarity": "106",
+      "ownedBy": "0x000000000000000000000000000000000000dEaD",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/4157",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/4157",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/4157",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4162",
+      "name": "Biplane Bobo #4162",
+      "rarity": "3206",
+      "ownedBy": "0xBDAefE578294842fB433769c6b0D95130099e96e",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/4162",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/4162",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/4162",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "4204",
+      "name": "Biplane Bobo #4204",
+      "rarity": "106",
+      "ownedBy": "0xcd786661e0A02E44C99C6719fba946C2676cdE42",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/4204",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/4204",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/4204",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4225",
+      "name": "Biplane Bobo #4225",
+      "rarity": "3206",
+      "ownedBy": "0xEbAD7F4FB91A2446f0F0E8Ac028E15D3cC1cE411",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/4225",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/4225",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/4225",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4245",
+      "name": "Biplane Bobo #4245",
+      "rarity": "3206",
+      "ownedBy": "0x0DE5b8C04fC219e8c28e0decD569444aA6a163D0",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/4245",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/4245",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/4245",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4255",
+      "name": "Biplane Bobo #4255",
+      "rarity": "706",
+      "ownedBy": "0x000000000000000000000000000000000000dEaD",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/4255",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/4255",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/4255",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4265",
+      "name": "Biplane Bobo #4265",
+      "rarity": "2806",
+      "ownedBy": "0x27DB134012676a0542c667c610920e269AFE89B9",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/4265",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/4265",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/4265",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4276",
+      "name": "Biplane Bobo #4276",
+      "rarity": "706",
+      "ownedBy": "0x79C26b3468Fea1cA206c918758d978cA9079BD39",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/4276",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/4276",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/4276",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4277",
+      "name": "Biplane Bobo #4277",
+      "rarity": "106",
+      "ownedBy": "0x6237e1a819C6B112784D2230179b9E378A7295Fe",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/4277",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/4277",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/4277",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4281",
+      "name": "Biplane Bobo #4281",
+      "rarity": "3206",
+      "ownedBy": "0xdcCbAf348b76336fD5Cc122C706880EC4B12c9c0",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/4281",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/4281",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/4281",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4297",
+      "name": "Biplane Bobo #4297",
+      "rarity": "3206",
+      "ownedBy": "0xe59aB7d5a0C31B6532457609350C22244765Ac8C",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/4297",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/4297",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/4297",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4317",
+      "name": "Biplane Bobo #4317",
+      "rarity": "3206",
+      "ownedBy": "0xBDAefE578294842fB433769c6b0D95130099e96e",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/4317",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/4317",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/4317",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "4319",
+      "name": "Biplane Bobo #4319",
+      "rarity": "706",
+      "ownedBy": "0xE216E8Ab691Bda159d0f2A559a36CD102d8fd9D4",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/4319",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/4319",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/4319",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4343",
+      "name": "Biplane Bobo #4343",
+      "rarity": "706",
+      "ownedBy": "0x27DB134012676a0542c667c610920e269AFE89B9",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/4343",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/4343",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/4343",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4396",
+      "name": "Biplane Bobo #4396",
+      "rarity": "2806",
+      "ownedBy": "0x8aB96A8bde845eFDc2c274982Dc697B8506C5ddF",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/4396",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/4396",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/4396",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4423",
+      "name": "Biplane Bobo #4423",
+      "rarity": "706",
+      "ownedBy": "0x000000000000000000000000000000000000dEaD",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/4423",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/4423",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/4423",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4431",
+      "name": "Biplane Bobo #4431",
+      "rarity": "706",
+      "ownedBy": "0x79C26b3468Fea1cA206c918758d978cA9079BD39",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/4431",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/4431",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/4431",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "4445",
+      "name": "Biplane Bobo #4445",
+      "rarity": "3206",
+      "ownedBy": "0x2bEA6F29c37C1e0af246292b77857aB0D5C4640A",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/4445",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/4445",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/4445",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4504",
+      "name": "Biplane Bobo #4504",
+      "rarity": "3206",
+      "ownedBy": "0xc1563BdF57BdB990C89070aA72CDA57fe8d6913D",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/4504",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/4504",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/4504",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4539",
+      "name": "Biplane Bobo #4539",
+      "rarity": "3206",
+      "ownedBy": "0x6237e1a819C6B112784D2230179b9E378A7295Fe",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/4539",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/4539",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/4539",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4581",
+      "name": "Biplane Bobo #4581",
+      "rarity": "706",
+      "ownedBy": "0xBDAefE578294842fB433769c6b0D95130099e96e",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/4581",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/4581",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/4581",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4594",
+      "name": "Biplane Bobo #4594",
+      "rarity": "706",
+      "ownedBy": "0x000000000000000000000000000000000000dEaD",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/4594",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/4594",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/4594",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4597",
+      "name": "Biplane Bobo #4597",
+      "rarity": "2806",
+      "ownedBy": "0xfa5d05Df712B059B74cCeFe4084785BE7f2ea1B8",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/4597",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/4597",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/4597",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4610",
+      "name": "Biplane Bobo #4610",
+      "rarity": "706",
+      "ownedBy": "0xae3eD39da68fcC1dCF0a3fCe7F049198EAA962eE",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/4610",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/4610",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/4610",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4623",
+      "name": "Biplane Bobo #4623",
+      "rarity": "3206",
+      "ownedBy": "0x97f46282646d22C9122b6b439eC5eF7f84a10048",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/4623",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/4623",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/4623",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4626",
+      "name": "Biplane Bobo #4626",
+      "rarity": "706",
+      "ownedBy": "0x266eE152cf011964aa4399bB568709199Da82063",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/4626",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/4626",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/4626",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4688",
+      "name": "Biplane Bobo #4688",
+      "rarity": "3206",
+      "ownedBy": "0x97f46282646d22C9122b6b439eC5eF7f84a10048",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/4688",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/4688",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/4688",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4740",
+      "name": "Biplane Bobo #4740",
+      "rarity": "3206",
+      "ownedBy": "0x04D7C2ee4cdBAC9A0FC46d3E35e79AbA5CCa471D",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/4740",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/4740",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/4740",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4816",
+      "name": "Biplane Bobo #4816",
+      "rarity": "3206",
+      "ownedBy": "0xAaB5D99385F6aF34f03d60ED4424D4bd09cceCb8",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/4816",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/4816",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/4816",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "4834",
+      "name": "Biplane Bobo #4834",
+      "rarity": "106",
+      "ownedBy": "0x79C26b3468Fea1cA206c918758d978cA9079BD39",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/4834",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/4834",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/4834",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4839",
+      "name": "Biplane Bobo #4839",
+      "rarity": "3206",
+      "ownedBy": "0xBDAefE578294842fB433769c6b0D95130099e96e",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/4839",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/4839",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/4839",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4862",
+      "name": "Biplane Bobo #4862",
+      "rarity": "3206",
+      "ownedBy": "0x0f2EB30Fb51771e2636574D29E369B4f32D88731",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/4862",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/4862",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/4862",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4874",
+      "name": "Biplane Bobo #4874",
+      "rarity": "706",
+      "ownedBy": "0x4Cd3F1C8Bfe7fB50470e4738e45921A1D08bc9bA",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/4874",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/4874",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/4874",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4979",
+      "name": "Biplane Bobo #4979",
+      "rarity": "3206",
+      "ownedBy": "0x7648a75a9D028CA783842c2fEa179710cc169B69",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/md/4979",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/4979",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x88E5ef9Fd7154727fA0268f26d188E77612E1d32/metadata/4979",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    }
+  ]
+}

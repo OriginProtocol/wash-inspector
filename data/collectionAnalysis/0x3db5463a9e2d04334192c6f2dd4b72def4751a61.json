@@ -1,0 +1,178 @@
+{
+  "trades": 48,
+  "washTrades": 13,
+  "volume": 27.90521,
+  "washVolume": 7.04121,
+  "address": "0x3DB5463A9e2d04334192C6f2DD4B72DeF4751A61",
+  "washTradedNfts": [
+    {
+      "tokenId": "175",
+      "name": "ALPACADABRA #175",
+      "rarity": "7197",
+      "ownedBy": "0x467dbD4D95f690863F3Cc843408FCE23E7a7f771",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x3DB5463A9e2d04334192C6f2DD4B72DeF4751A61/md/175",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x3DB5463A9e2d04334192C6f2DD4B72DeF4751A61/175",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x3DB5463A9e2d04334192C6f2DD4B72DeF4751A61/metadata/175",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3562",
+      "name": "ALPACADABRA #3562",
+      "rarity": "3057",
+      "ownedBy": "0x88fF9CcE6817ad7Ac87Aa23B12d44303ac4fb353",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x3DB5463A9e2d04334192C6f2DD4B72DeF4751A61/md/3562",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x3DB5463A9e2d04334192C6f2DD4B72DeF4751A61/3562",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x3DB5463A9e2d04334192C6f2DD4B72DeF4751A61/metadata/3562",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "4868",
+      "name": "ALPACADABRA #4868",
+      "rarity": "9506",
+      "ownedBy": "0xE7f144b0a01e77AFF5Fd269199f9B7f3389df7Bf",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x3DB5463A9e2d04334192C6f2DD4B72DeF4751A61/md/4868",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x3DB5463A9e2d04334192C6f2DD4B72DeF4751A61/4868",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x3DB5463A9e2d04334192C6f2DD4B72DeF4751A61/metadata/4868",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "5285",
+      "name": "ALPACADABRA #5285",
+      "rarity": "438",
+      "ownedBy": "0x2e6507ed51F66c908a8a1464e4D316B481CA3714",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x3DB5463A9e2d04334192C6f2DD4B72DeF4751A61/md/5285",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x3DB5463A9e2d04334192C6f2DD4B72DeF4751A61/5285",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x3DB5463A9e2d04334192C6f2DD4B72DeF4751A61/metadata/5285",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "5444",
+      "name": "ALPACADABRA #5444",
+      "rarity": "2988",
+      "ownedBy": "0xbb0DA7643a95C3A4b234D15d6BCA7940FD1ED00b",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x3DB5463A9e2d04334192C6f2DD4B72DeF4751A61/md/5444",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x3DB5463A9e2d04334192C6f2DD4B72DeF4751A61/5444",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x3DB5463A9e2d04334192C6f2DD4B72DeF4751A61/metadata/5444",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "5960",
+      "name": "ALPACADABRA #5960",
+      "rarity": "7575",
+      "ownedBy": "0x2f3b5F31BF36D33ae77C8f1e819920973F04aB8A",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x3DB5463A9e2d04334192C6f2DD4B72DeF4751A61/md/5960",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x3DB5463A9e2d04334192C6f2DD4B72DeF4751A61/5960",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x3DB5463A9e2d04334192C6f2DD4B72DeF4751A61/metadata/5960",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "6449",
+      "name": "ALPACADABRA #6449",
+      "rarity": "600",
+      "ownedBy": "0x9E982d503893f5009347361F09Ce797dbD4dc5E5",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x3DB5463A9e2d04334192C6f2DD4B72DeF4751A61/md/6449",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x3DB5463A9e2d04334192C6f2DD4B72DeF4751A61/6449",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x3DB5463A9e2d04334192C6f2DD4B72DeF4751A61/metadata/6449",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "6610",
+      "name": "ALPACADABRA #6610",
+      "rarity": "8225",
+      "ownedBy": "0xCd5D4631CC7c83f964F07d0Ae6Cc08F055Bc0b81",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x3DB5463A9e2d04334192C6f2DD4B72DeF4751A61/md/6610",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x3DB5463A9e2d04334192C6f2DD4B72DeF4751A61/6610",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x3DB5463A9e2d04334192C6f2DD4B72DeF4751A61/metadata/6610",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "7273",
+      "name": "ALPACADABRA #7273",
+      "rarity": "1040",
+      "ownedBy": "0x6Da1055c605A2aDC9bA712C76C490BdC295751b8",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x3DB5463A9e2d04334192C6f2DD4B72DeF4751A61/md/7273",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x3DB5463A9e2d04334192C6f2DD4B72DeF4751A61/7273",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x3DB5463A9e2d04334192C6f2DD4B72DeF4751A61/metadata/7273",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "7380",
+      "name": "ALPACADABRA #7380",
+      "rarity": "9598",
+      "ownedBy": "0xCd5D4631CC7c83f964F07d0Ae6Cc08F055Bc0b81",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x3DB5463A9e2d04334192C6f2DD4B72DeF4751A61/md/7380",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x3DB5463A9e2d04334192C6f2DD4B72DeF4751A61/7380",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x3DB5463A9e2d04334192C6f2DD4B72DeF4751A61/metadata/7380",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "8007",
+      "name": "ALPACADABRA #8007",
+      "rarity": "556",
+      "ownedBy": "0x718081aaAFbBa862BB2eA81853b4BDE842630eA9",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x3DB5463A9e2d04334192C6f2DD4B72DeF4751A61/md/8007",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x3DB5463A9e2d04334192C6f2DD4B72DeF4751A61/8007",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x3DB5463A9e2d04334192C6f2DD4B72DeF4751A61/metadata/8007",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "8866",
+      "name": "ALPACADABRA #8866",
+      "rarity": "9420",
+      "ownedBy": "0x5aC5BF8352C3884C68af73CD77B40e150fCd88a5",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x3DB5463A9e2d04334192C6f2DD4B72DeF4751A61/md/8866",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x3DB5463A9e2d04334192C6f2DD4B72DeF4751A61/8866",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x3DB5463A9e2d04334192C6f2DD4B72DeF4751A61/metadata/8866",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "8955",
+      "name": "ALPACADABRA #8955",
+      "rarity": "9169",
+      "ownedBy": "0x3bF131D8fBEa6a2f06c8482F1378292d27a005Ac",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x3DB5463A9e2d04334192C6f2DD4B72DeF4751A61/md/8955",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x3DB5463A9e2d04334192C6f2DD4B72DeF4751A61/8955",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x3DB5463A9e2d04334192C6f2DD4B72DeF4751A61/metadata/8955",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    }
+  ]
+}

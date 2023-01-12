@@ -1,0 +1,451 @@
+{
+  "trades": 210,
+  "washTrades": 34,
+  "volume": 885.9941365460965,
+  "washVolume": 262.306945984113,
+  "address": "0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9",
+  "washTradedNfts": [
+    {
+      "tokenId": "138",
+      "name": "DigiDaigaku #138 - Arya",
+      "rarity": "1329",
+      "ownedBy": "0xc42Ff2A724eFec3E3A49C6E62643aF1F5596113B",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/md/138",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/138",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/metadata/138",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "263",
+      "name": "DigiDaigaku #263 - XiaoRou",
+      "rarity": "467",
+      "ownedBy": "0xb3115CA2432b8e67B0BA0866FF31Ad9e2039Bd82",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/md/263",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/263",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/metadata/263",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "352",
+      "name": "DigiDaigaku #352 - Bokang",
+      "rarity": "1463",
+      "ownedBy": "0x076bAe9c123dA43967d5a902e59EB3cD5c120ee3",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/md/352",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/352",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/metadata/352",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "399",
+      "name": "DigiDaigaku #399 - Eunjin",
+      "rarity": "166",
+      "ownedBy": "0x539dA2877F260Db9cf39b6b0A51B3b56bA41495d",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/md/399",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/399",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/metadata/399",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "454",
+      "name": "DigiDaigaku #454 - Sangmi",
+      "rarity": "1201",
+      "ownedBy": "0xe16c0E1Bf3B75F67E83C9e47B9c0Eb8Bf1B99CCd",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/md/454",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/454",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/metadata/454",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "455",
+      "name": "DigiDaigaku #455 - NaNa",
+      "rarity": "594",
+      "ownedBy": "0x84E01061fa6b69C1629E3578d988eb20CB73A677",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/md/455",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/455",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/metadata/455",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "521",
+      "name": "DigiDaigaku #521 - Margaret",
+      "rarity": "151",
+      "ownedBy": "0x8e28d27Da417fCC813c192e48e3837da33EeD672",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/md/521",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/521",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/metadata/521",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "619",
+      "name": "DigiDaigaku #619 - Mila",
+      "rarity": "1979",
+      "ownedBy": "0x20e9503A6BC31765d3648b4AB67d035AA67c65A6",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/md/619",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/619",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/metadata/619",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "620",
+      "name": "DigiDaigaku #620 - Seongjin",
+      "rarity": "675",
+      "ownedBy": "0x2357feAad45a61Ee4f663c203F660580430E75C6",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/md/620",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/620",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/metadata/620",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "627",
+      "name": "DigiDaigaku #627 - Miyabi",
+      "rarity": "890",
+      "ownedBy": "0x6Ff60E1CF749aE639fBE124dDbC2178c4C988203",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/md/627",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/627",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/metadata/627",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "804",
+      "name": "DigiDaigaku #804 - Aphrodite",
+      "rarity": "860",
+      "ownedBy": "0x952B0C9Af8f8AA7C11E51384a9ec39500a9A17B1",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/md/804",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/804",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/metadata/804",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "847",
+      "name": "DigiDaigaku #847 - Daisy",
+      "rarity": "1755",
+      "ownedBy": "0x296E0C21DB4061EbF971e55d5db85011E7Ff9797",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/md/847",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/847",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/metadata/847",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "848",
+      "name": "DigiDaigaku #848 - Abigail",
+      "rarity": "19",
+      "ownedBy": "0x93339f4c7f0C56534E14B663039864827B578Cda",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/md/848",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/848",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/metadata/848",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "969",
+      "name": "DigiDaigaku #969 - Fumika",
+      "rarity": "1588",
+      "ownedBy": "0xbB3894A95D08B5e6F31D22F459cc46da6b341928",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/md/969",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/969",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/metadata/969",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "981",
+      "name": "DigiDaigaku #981 - Adie",
+      "rarity": "1973",
+      "ownedBy": "0x33ee1FA9eD670001D1740419192142931e088e79",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/md/981",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/981",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/metadata/981",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1091",
+      "name": "DigiDaigaku #1091 - Kanae",
+      "rarity": "1",
+      "ownedBy": "0x1D4fbafBE6b240313e96F92218d93b3Eb7A7fbd4",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/md/1091",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/1091",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/metadata/1091",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1099",
+      "name": "DigiDaigaku #1099 - Jewel",
+      "rarity": "1488",
+      "ownedBy": "0xd62d06cA6d553e1f26CbF7f1e07d6aE49F410dc2",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/md/1099",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/1099",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/metadata/1099",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1123",
+      "name": "DigiDaigaku #1123 - Aiko",
+      "rarity": "1517",
+      "ownedBy": "0x1ac4eC0a661AdA260DcB75A11203d0aE502d3da8",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/md/1123",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/1123",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/metadata/1123",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1321",
+      "name": "DigiDaigaku #1321 - Alaska",
+      "rarity": "1208",
+      "ownedBy": "0xcd5787D24a832A30312AD7fe8C490F0504cB4e1e",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/md/1321",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/1321",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/metadata/1321",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1338",
+      "name": "DigiDaigaku #1338 - Polly",
+      "rarity": "1482",
+      "ownedBy": "0xE1C16E2278B5ed608EED8cE226594f51B52cc485",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/md/1338",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/1338",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/metadata/1338",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1339",
+      "name": "DigiDaigaku #1339 - Shu",
+      "rarity": "1315",
+      "ownedBy": "0x7deE8EF5B52772b9d9f3FBccc267C3160fB038f8",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/md/1339",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/1339",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/metadata/1339",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1429",
+      "name": "DigiDaigaku #1429 - Yewon",
+      "rarity": "1253",
+      "ownedBy": "0x37b9f3B921012d7CE2E181aEa99Af6d4Dd22Ada5",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/md/1429",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/1429",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/metadata/1429",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1458",
+      "name": "DigiDaigaku #1458 - Chiemi",
+      "rarity": "1714",
+      "ownedBy": "0xd44aa3977EBD4570D8656fBB005d5797c0E43d55",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/md/1458",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/1458",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/metadata/1458",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1486",
+      "name": "DigiDaigaku #1486 - QiaoQiao",
+      "rarity": "996",
+      "ownedBy": "0x16287a517499a467A349b70764A4ecAE56D1d2c9",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/md/1486",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/1486",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/metadata/1486",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1519",
+      "name": "DigiDaigaku #1519 - Kali",
+      "rarity": "501",
+      "ownedBy": "0x7BF86f83826C18ce9752ae22365176Eab17DB488",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/md/1519",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/1519",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/metadata/1519",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1589",
+      "name": "DigiDaigaku #1589 - Saskia",
+      "rarity": "601",
+      "ownedBy": "0x9E776EF24a31676Be45F10F4B9A4e38A1D374Dc4",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/md/1589",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/1589",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/metadata/1589",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1632",
+      "name": "DigiDaigaku #1632 - Ifrit",
+      "rarity": "4",
+      "ownedBy": "0x9bE40664b92419FfF29d393F88a46bB30C045166",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/md/1632",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/1632",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/metadata/1632",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "1716",
+      "name": "DigiDaigaku #1716 - Frederica",
+      "rarity": "1728",
+      "ownedBy": "0x4129254440b00D3743d6D97D82D6e3390565E0F0",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/md/1716",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/1716",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/metadata/1716",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1737",
+      "name": "DigiDaigaku #1737 - Kiyoko",
+      "rarity": "1855",
+      "ownedBy": "0x41Fc5DE56b095F594a7fe0e758FD6769D060a376",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/md/1737",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/1737",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/metadata/1737",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1783",
+      "name": "DigiDaigaku #1783 - Naia",
+      "rarity": "1007",
+      "ownedBy": "0xB4282b8B6feafAd7A4731Cb377340C2a519d770b",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/md/1783",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/1783",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/metadata/1783",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1902",
+      "name": "DigiDaigaku #1902 - Kassanda",
+      "rarity": "1251",
+      "ownedBy": "0x7079Bfcd09aC050D3C8CA5d230336505bf5bEB8a",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/md/1902",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/1902",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/metadata/1902",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1934",
+      "name": "DigiDaigaku #1934 - Esme",
+      "rarity": "1433",
+      "ownedBy": "0x9522a75482aA560E8ac55d53A19D15Bea6617e63",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/md/1934",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/1934",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/metadata/1934",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1952",
+      "name": "DigiDaigaku #1952 - Nina",
+      "rarity": "14",
+      "ownedBy": "0xE9A0C8CEAd5974d64243d30e8c0c7BF519e2fF3D",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/md/1952",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/1952",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/metadata/1952",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1970",
+      "name": "DigiDaigaku #1970 - Demi",
+      "rarity": "527",
+      "ownedBy": "0x120532A36c2E0c75AE400989C2B176fe87e456D2",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/md/1970",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/1970",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9/metadata/1970",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    }
+  ]
+}

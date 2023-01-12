@@ -1,0 +1,1792 @@
+{
+  "trades": 2200,
+  "washTrades": 1647,
+  "volume": 632677.6092391502,
+  "washVolume": 575549.4289613483,
+  "address": "0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7",
+  "washTradedNfts": [
+    {
+      "tokenId": "97",
+      "name": "Meebit #97",
+      "rarity": "8446",
+      "ownedBy": "0x55e030e9a2901978F10288b217F525800e5e8D75",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/97",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/97",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/97",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "125",
+      "name": "Meebit #125",
+      "rarity": "12789",
+      "ownedBy": "0x803607479D7100a780f70F4a54Fd410d6f00d212",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/125",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/125",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/125",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "208",
+      "name": "Meebit #208",
+      "rarity": "11493",
+      "ownedBy": "0x05187293e7f2e240C3852F10A3AdFcEecc0EF0bf",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/208",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/208",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/208",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "229",
+      "name": "Meebit #229",
+      "rarity": "12285",
+      "ownedBy": "0xCb68e3Bd9867514f0F9F28F3760145317Cb64374",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/229",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/229",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/229",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "272",
+      "name": "Meebit #272",
+      "rarity": "12496",
+      "ownedBy": "0x5F43Cd8B5Eead549de4444a644B4Cb425A4ea5b2",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/272",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/272",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/272",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "283",
+      "name": "Meebit #283",
+      "rarity": "14436",
+      "ownedBy": "0x2e0d252777FF2BaD350B695f02483cA6776691d5",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/283",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/283",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/283",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "358",
+      "name": "Meebit #358",
+      "rarity": "15558",
+      "ownedBy": "0x7e3b52015C014Fc836D64863E859455a06eBcb83",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/358",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/358",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/358",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "363",
+      "name": "Meebit #363",
+      "rarity": "6241",
+      "ownedBy": "0xdFC2e4946d3D556D4c3E10dF728172B12B9762FD",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/363",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/363",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/363",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "446",
+      "name": "Meebit #446",
+      "rarity": "15220",
+      "ownedBy": "0xF252BC18f20b11CbAbeE314CEA172502484c12Be",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/446",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/446",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/446",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "503",
+      "name": "Meebit #503",
+      "rarity": "14765",
+      "ownedBy": "0x8315df0d961906301ef7715F8415b29d0D4A2A9e",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/503",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/503",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/503",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "668",
+      "name": "Meebit #668",
+      "rarity": "17940",
+      "ownedBy": "0x39978cc40e2D1d7E127050bDFFFBB0dFcfaEbAd0",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/668",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/668",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/668",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "689",
+      "name": "Meebit #689",
+      "rarity": "1927",
+      "ownedBy": "0x91a3A407c4e8d07134641cffcF8a55e0059925C7",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/689",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/689",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/689",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1009",
+      "name": "Meebit #1009",
+      "rarity": "50",
+      "ownedBy": "0x338159729c01CF0179596D9E07aF952653F64F03",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/1009",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/1009",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/1009",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "1096",
+      "name": "Meebit #1096",
+      "rarity": "14870",
+      "ownedBy": "0xE1764fa0f966a42E5fbFa7cc4536fCdcc53AD68a",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/1096",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/1096",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/1096",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1151",
+      "name": "Meebit #1151",
+      "rarity": "5453",
+      "ownedBy": "0xa2cEF98f3efb0B01449Ff92c256BA5cFEc555815",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/1151",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/1151",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/1151",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "1183",
+      "name": "Meebit #1183",
+      "rarity": "13261",
+      "ownedBy": "0x159968FAD6A3df074cFe7E587CDE0C5F375C1B70",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/1183",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/1183",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/1183",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "1237",
+      "name": "Meebit #1237",
+      "rarity": "12337",
+      "ownedBy": "0xcF6f5A68d94165081A634AdA997BE3A93426C467",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/1237",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/1237",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/1237",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "1354",
+      "name": "Meebit #1354",
+      "rarity": "10994",
+      "ownedBy": "0xCDa9BFE9D578003E9dBDC90A5Dd1E9B0F52C01f6",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/1354",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/1354",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/1354",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1510",
+      "name": "Meebit #1510",
+      "rarity": "9997",
+      "ownedBy": "0xB313d0Fe7a827068332c25e752892ED3D2e8041e",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/1510",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/1510",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/1510",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "1533",
+      "name": "Meebit #1533",
+      "rarity": "19682",
+      "ownedBy": "0x463CAEbF339d4d61Cc633B9E1bCA7DF17C8a83A8",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/1533",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/1533",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/1533",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1559",
+      "name": "Meebit #1559",
+      "rarity": "16207",
+      "ownedBy": "0x3DDd6B2f6918db4a05187c3533081A2D972D198F",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/1559",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/1559",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/1559",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1622",
+      "name": "Meebit #1622",
+      "rarity": "17424",
+      "ownedBy": "0x7FEe302A14D6B945c0EB6dA9C4426c8D75d38a73",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/1622",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/1622",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/1622",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "1657",
+      "name": "Meebit #1657",
+      "rarity": "17114",
+      "ownedBy": "0x8C0B5A9D8d0e4808C3d70340dF3BAe8f156fb043",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/1657",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/1657",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/1657",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1715",
+      "name": "Meebit #1715",
+      "rarity": "5721",
+      "ownedBy": "0xf6f590a56e671FcAc850fFF17d8bD6933Eb47137",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/1715",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/1715",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/1715",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1721",
+      "name": "Meebit #1721",
+      "rarity": "11160",
+      "ownedBy": "0x23CeeB2675A0BEc33672394846EEFCa844927c74",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/1721",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/1721",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/1721",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1783",
+      "name": "Meebit #1783",
+      "rarity": "11583",
+      "ownedBy": "0x534aA5F30805fC864360DE06702d439c27fDEA41",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/1783",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/1783",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/1783",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1860",
+      "name": "Meebit #1860",
+      "rarity": "11391",
+      "ownedBy": "0xB12C179838713EDbC41B839c5aEC5C127c7ffBd9",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/1860",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/1860",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/1860",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "1934",
+      "name": "Meebit #1934",
+      "rarity": "5654",
+      "ownedBy": "0x537037C5ae805b9D4CeCAB5Ee07F12a8e59A15B2",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/1934",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/1934",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/1934",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected",
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1938",
+      "name": "Meebit #1938",
+      "rarity": "2932",
+      "ownedBy": "0xBbb76f409dF39F490e55622E7Be36cbc5C56d632",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/1938",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/1938",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/1938",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "2000",
+      "name": "Meebit #2000",
+      "rarity": "16620",
+      "ownedBy": "0x641927E970222B10b2E8CDBC96b1B4F427316f16",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/2000",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/2000",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/2000",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "2034",
+      "name": "Meebit #2034",
+      "rarity": "16400",
+      "ownedBy": "0x1FC7F055D6608D897F520B7e37BE628209652110",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/2034",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/2034",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/2034",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "2240",
+      "name": "Meebit #2240",
+      "rarity": "16989",
+      "ownedBy": "0xc17aB082CB94376E07e002B9a3dc5eDEF1F8a0f5",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/2240",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/2240",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/2240",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "2276",
+      "name": "Meebit #2276",
+      "rarity": "18612",
+      "ownedBy": "0x557c60995797fa7b47Be105227A2e46148D85750",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/2276",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/2276",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/2276",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "2486",
+      "name": "Meebit #2486",
+      "rarity": "9808",
+      "ownedBy": "0x40E34569BaF07842394Bf66DDF5a15eBf4350Bb1",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/2486",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/2486",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/2486",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "2526",
+      "name": "Meebit #2526",
+      "rarity": "11034",
+      "ownedBy": "0xaF185B38BE4181B1B8D8af06174e0F2D280a904b",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/2526",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/2526",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/2526",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "2573",
+      "name": "Meebit #2573",
+      "rarity": "19222",
+      "ownedBy": "0xc2719873Ba025422f93329eAcaE7Fd994b5D50c4",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/2573",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/2573",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/2573",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected",
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "2652",
+      "name": "Meebit #2652",
+      "rarity": "4267",
+      "ownedBy": "0x02E6D9c11f61e0F0FCaF177C8136E2c5b39dFD95",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/2652",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/2652",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/2652",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "2693",
+      "name": "Meebit #2693",
+      "rarity": "5736",
+      "ownedBy": "0x19904955198DC6Cb7bEa0f7DC93959D8aCf4f2C7",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/2693",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/2693",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/2693",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "2745",
+      "name": "Meebit #2745",
+      "rarity": "11666",
+      "ownedBy": "0xeE824C184fd58532E1D7F467c975f343CbDd75A5",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/2745",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/2745",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/2745",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "2850",
+      "name": "Meebit #2850",
+      "rarity": "4484",
+      "ownedBy": "0x7653C9364bB800E1136aa0634c4629eBe76A744E",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/2850",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/2850",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/2850",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "2854",
+      "name": "Meebit #2854",
+      "rarity": "18293",
+      "ownedBy": "0xa331BE1Ad41233d66d0cBeaEe5398c176F55831e",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/2854",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/2854",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/2854",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "2922",
+      "name": "Meebit #2922",
+      "rarity": "14036",
+      "ownedBy": "0x641927E970222B10b2E8CDBC96b1B4F427316f16",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/2922",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/2922",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/2922",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "2944",
+      "name": "Meebit #2944",
+      "rarity": "5542",
+      "ownedBy": "0x857f876490B63BDC7605165E0Df568ae54F72d8E",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/2944",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/2944",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/2944",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "3019",
+      "name": "Meebit #3019",
+      "rarity": "4216",
+      "ownedBy": "0xcDa6A12577e5F8025Da3083690fF1C9D2C8C632F",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/3019",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/3019",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/3019",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected",
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3032",
+      "name": "Meebit #3032",
+      "rarity": "11115",
+      "ownedBy": "0x7FEe302A14D6B945c0EB6dA9C4426c8D75d38a73",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/3032",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/3032",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/3032",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3121",
+      "name": "Meebit #3121",
+      "rarity": "17133",
+      "ownedBy": "0xc04e843FdC48e5063022fC69162ad548642efFE7",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/3121",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/3121",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/3121",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3164",
+      "name": "Meebit #3164",
+      "rarity": "13273",
+      "ownedBy": "0x857f876490B63BDC7605165E0Df568ae54F72d8E",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/3164",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/3164",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/3164",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3205",
+      "name": "Meebit #3205",
+      "rarity": "15552",
+      "ownedBy": "0x8681E8985A0CB9dA47B6529955bedAd5E6656972",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/3205",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/3205",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/3205",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3210",
+      "name": "Meebit #3210",
+      "rarity": "9830",
+      "ownedBy": "0x24278F2643E90B56A519aeF6e612d91Dca5257d1",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/3210",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/3210",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/3210",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3254",
+      "name": "Meebit #3254",
+      "rarity": "15497",
+      "ownedBy": "0x8638D449c701442Dfb9Cf67d02e3337a35CDe732",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/3254",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/3254",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/3254",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "3435",
+      "name": "Meebit #3435",
+      "rarity": "11288",
+      "ownedBy": "0x42791aaCC9057BD7591f3C7A50CcB68f4Faf1c6E",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/3435",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/3435",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/3435",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3440",
+      "name": "Meebit #3440",
+      "rarity": "8192",
+      "ownedBy": "0x85D105cA349bc896C580C711258b3A75De71F5CF",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/3440",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/3440",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/3440",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3443",
+      "name": "Meebit #3443",
+      "rarity": "3798",
+      "ownedBy": "0xbC62D3508A7B138ED8E6Ecc67AA1B21b79953666",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/3443",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/3443",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/3443",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "3512",
+      "name": "Meebit #3512",
+      "rarity": "18231",
+      "ownedBy": "0x3BE89b64E1437bB18Da2D26bCbE9bd3DAaAdfc26",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/3512",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/3512",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/3512",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "3553",
+      "name": "Meebit #3553",
+      "rarity": "12368",
+      "ownedBy": "0x50Ea421b54Fb7B034449808Ba511A68FF4b0d29A",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/3553",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/3553",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/3553",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3570",
+      "name": "Meebit #3570",
+      "rarity": "14522",
+      "ownedBy": "0xe15e568806beD33113a94B8881D94deD3330056E",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/3570",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/3570",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/3570",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3699",
+      "name": "Meebit #3699",
+      "rarity": "2021",
+      "ownedBy": "0xC72f0C6f0Eb226701b39CB61be2C3ECe2d9c88f6",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/3699",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/3699",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/3699",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "3739",
+      "name": "Meebit #3739",
+      "rarity": "19946",
+      "ownedBy": "0xd0D3189AD4F6d0d040C5c9B572722afAa480c604",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/3739",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/3739",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/3739",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "3768",
+      "name": "Meebit #3768",
+      "rarity": "13605",
+      "ownedBy": "0xc6bd8DaEb774d276E686d394d3b431AE6876d711",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/3768",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/3768",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/3768",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3870",
+      "name": "Meebit #3870",
+      "rarity": "18969",
+      "ownedBy": "0x961D8705436D924B7C7130eeDAb3dA93F606503F",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/3870",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/3870",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/3870",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "4092",
+      "name": "Meebit #4092",
+      "rarity": "2040",
+      "ownedBy": "0xA99A76dDdBB9678bc33F39919Bc76d279C680C89",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/4092",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/4092",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/4092",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4179",
+      "name": "Meebit #4179",
+      "rarity": "19603",
+      "ownedBy": "0xf52393E120F918fFba50410B90A29b1F8250c879",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/4179",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/4179",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/4179",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4648",
+      "name": "Meebit #4648",
+      "rarity": "10763",
+      "ownedBy": "0x7FEe302A14D6B945c0EB6dA9C4426c8D75d38a73",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/4648",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/4648",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/4648",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "4704",
+      "name": "Meebit #4704",
+      "rarity": "1584",
+      "ownedBy": "0xA99A76dDdBB9678bc33F39919Bc76d279C680C89",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/4704",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/4704",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/4704",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4799",
+      "name": "Meebit #4799",
+      "rarity": "11622",
+      "ownedBy": "0x3A50E3F28dbe0f6543412f6db2Cc7B659Bd6b368",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/4799",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/4799",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/4799",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4827",
+      "name": "Meebit #4827",
+      "rarity": "19528",
+      "ownedBy": "0xeBC23F01bB150eFCeD718fE084238BEb3777A716",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/4827",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/4827",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/4827",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4939",
+      "name": "Meebit #4939",
+      "rarity": "12031",
+      "ownedBy": "0xb055AF702180e0ad4ac8EB2250bF6736224cc2e7",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/4939",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/4939",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/4939",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "5086",
+      "name": "Meebit #5086",
+      "rarity": "8013",
+      "ownedBy": "0x0288c6e8aDaAE6304aA99Ac975bfb80eDD8161bF",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/5086",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/5086",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/5086",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "5221",
+      "name": "Meebit #5221",
+      "rarity": "12472",
+      "ownedBy": "0x27821a7fdeFE539265CB6A6E5adb6339252F107A",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/5221",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/5221",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/5221",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "5242",
+      "name": "Meebit #5242",
+      "rarity": "18792",
+      "ownedBy": "0x05E3a6e953b807Db904F6A8B5F8F01F28fC05862",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/5242",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/5242",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/5242",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected",
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "5279",
+      "name": "Meebit #5279",
+      "rarity": "11713",
+      "ownedBy": "0x3fcd51b20d1735B324Db12cdB81EFEB7fCFA5Ed0",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/5279",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/5279",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/5279",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "5559",
+      "name": "Meebit #5559",
+      "rarity": "14783",
+      "ownedBy": "0x8F6709F1e2473768be3668E0171c788A8f63C11b",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/5559",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/5559",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/5559",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected",
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "5583",
+      "name": "Meebit #5583",
+      "rarity": "14303",
+      "ownedBy": "0xD7E630AFCf128feb8b9071A8412914478c00C22a",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/5583",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/5583",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/5583",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "5676",
+      "name": "Meebit #5676",
+      "rarity": "17163",
+      "ownedBy": "0xEA9253Da84D330850c694e965DA4F199e8402AD4",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/5676",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/5676",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/5676",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "5697",
+      "name": "Meebit #5697",
+      "rarity": "11028",
+      "ownedBy": "0x3B17e7FE4E53B7f896F0482DCf1F37baD4f1B977",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/5697",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/5697",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/5697",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "6014",
+      "name": "Meebit #6014",
+      "rarity": "3893",
+      "ownedBy": "0xA99A76dDdBB9678bc33F39919Bc76d279C680C89",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/6014",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/6014",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/6014",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "6033",
+      "name": "Meebit #6033",
+      "rarity": "14680",
+      "ownedBy": "0x52c67Ea6625d6E0A790C4CA4551841429D579998",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/6033",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/6033",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/6033",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "6038",
+      "name": "Meebit #6038",
+      "rarity": "14642",
+      "ownedBy": "0x9Eef3b055425300E59b5237d593F3ccd84040432",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/6038",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/6038",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/6038",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "6175",
+      "name": "Meebit #6175",
+      "rarity": "1287",
+      "ownedBy": "0x355963335C3d948F691C39b05DEaC4C31d1A7F6B",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/6175",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/6175",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/6175",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "6183",
+      "name": "Meebit #6183",
+      "rarity": "15540",
+      "ownedBy": "0x8D8B9c79196f32161BcB2A9728D274B3b45eB9AF",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/6183",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/6183",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/6183",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "6245",
+      "name": "Meebit #6245",
+      "rarity": "5662",
+      "ownedBy": "0xF857935c5802f1E0AEDA660D8b0132ea1B9709A4",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/6245",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/6245",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/6245",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "6331",
+      "name": "Meebit #6331",
+      "rarity": "12628",
+      "ownedBy": "0x8FaD9c07E4B3357073Bf62EF7d091BCFF4Ef4011",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/6331",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/6331",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/6331",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "6348",
+      "name": "Meebit #6348",
+      "rarity": "10351",
+      "ownedBy": "0xA99A76dDdBB9678bc33F39919Bc76d279C680C89",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/6348",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/6348",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/6348",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "6462",
+      "name": "Meebit #6462",
+      "rarity": "4971",
+      "ownedBy": "0x27f15D958D53D2a14A678e870ff68E13D242C561",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/6462",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/6462",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/6462",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected",
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "6512",
+      "name": "Meebit #6512",
+      "rarity": "111",
+      "ownedBy": "0xb9496AC2481148724b245529A436301058FC39c8",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/6512",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/6512",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/6512",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "6626",
+      "name": "Meebit #6626",
+      "rarity": "5914",
+      "ownedBy": "0x26a3c82bD8Ba454dc0f8DB8F98BBf406153ca33a",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/6626",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/6626",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/6626",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "6684",
+      "name": "Meebit #6684",
+      "rarity": "10991",
+      "ownedBy": "0x426F58199cC12a1b2E07d2D8e5BAE14A003aA252",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/6684",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/6684",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/6684",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected",
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "6744",
+      "name": "Meebit #6744",
+      "rarity": "16857",
+      "ownedBy": "0x5C0B2674cE5bb26807636386630b63F030409915",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/6744",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/6744",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/6744",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected",
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "6807",
+      "name": "Meebit #6807",
+      "rarity": "17756",
+      "ownedBy": "0x700111242c69e8a45E35c08D305eFAD52688839D",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/6807",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/6807",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/6807",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "6833",
+      "name": "Meebit #6833",
+      "rarity": "18303",
+      "ownedBy": "0x734f38e321Bf5360A47e2619Ba5D17d29dDf21b7",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/6833",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/6833",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/6833",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "6915",
+      "name": "Meebit #6915",
+      "rarity": "16445",
+      "ownedBy": "0xe89d94C740edF02FAAd9432003c5C81196864383",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/6915",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/6915",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/6915",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "6917",
+      "name": "Meebit #6917",
+      "rarity": "19679",
+      "ownedBy": "0x3aF65E3EdEB4E8d88c249A8B4666D2f204c2F888",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/6917",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/6917",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/6917",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected",
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "6918",
+      "name": "Meebit #6918",
+      "rarity": "5817",
+      "ownedBy": "0x740C569F20076F1D96be1222240d55A5eED29Df5",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/6918",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/6918",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/6918",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "6979",
+      "name": "Meebit #6979",
+      "rarity": "15801",
+      "ownedBy": "0xCC0D6F4767eA6e305e947b4fea6c609Cd9395d7b",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/6979",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/6979",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/6979",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "7057",
+      "name": "Meebit #7057",
+      "rarity": "8767",
+      "ownedBy": "0xf518b0e433CE317f8f5531C851afC65018C3F2F5",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/7057",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/7057",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/7057",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "7081",
+      "name": "Meebit #7081",
+      "rarity": "19021",
+      "ownedBy": "0x1BD330dd2cd274166B9eeC79ea7A8A0Faa729889",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/7081",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/7081",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/7081",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "7151",
+      "name": "Meebit #7151",
+      "rarity": "19860",
+      "ownedBy": "0x196FBE6fe43710D48C248771B06EC57eb49EaFC3",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/7151",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/7151",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/7151",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "7219",
+      "name": "Meebit #7219",
+      "rarity": "5804",
+      "ownedBy": "0xb9Da169Dc7145B3C04FfD26D428b188A35963F5A",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/7219",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/7219",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/7219",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected",
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "7370",
+      "name": "Meebit #7370",
+      "rarity": "7172",
+      "ownedBy": "0x056AE0aF53895bF0064825B332425ABBDcDE249c",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/7370",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/7370",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/7370",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "7385",
+      "name": "Meebit #7385",
+      "rarity": "13493",
+      "ownedBy": "0x81a7b6b651BAEC763804703a3A7BEc03BE81f9ef",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/7385",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/7385",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/7385",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "7451",
+      "name": "Meebit #7451",
+      "rarity": "7174",
+      "ownedBy": "0xd8c6C3D184D434E6420a93848d42Cbdbcda2c6F5",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/7451",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/7451",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/7451",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "7501",
+      "name": "Meebit #7501",
+      "rarity": "18907",
+      "ownedBy": "0x641927E970222B10b2E8CDBC96b1B4F427316f16",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/7501",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/7501",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/7501",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "7541",
+      "name": "Meebit #7541",
+      "rarity": "8570",
+      "ownedBy": "0x62DD6b618AF98236b826245b0DD95347f5640d88",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/7541",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/7541",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/7541",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "7638",
+      "name": "Meebit #7638",
+      "rarity": "4096",
+      "ownedBy": "0x7FEe302A14D6B945c0EB6dA9C4426c8D75d38a73",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/7638",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/7638",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/7638",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "7641",
+      "name": "Meebit #7641",
+      "rarity": "10674",
+      "ownedBy": "0x4789F41a2174EDdB4A1371458e9E0cee48124562",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/7641",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/7641",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/7641",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "7659",
+      "name": "Meebit #7659",
+      "rarity": "9916",
+      "ownedBy": "0xF857935c5802f1E0AEDA660D8b0132ea1B9709A4",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/7659",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/7659",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/7659",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "7670",
+      "name": "Meebit #7670",
+      "rarity": "17691",
+      "ownedBy": "0x0Ea5CaD50F13B9E792E6416B70D8c15E50FD14eD",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/7670",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/7670",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/7670",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "7775",
+      "name": "Meebit #7775",
+      "rarity": "18024",
+      "ownedBy": "0x3d47B9CB9Be340563EDd413811c68f828130c3B0",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/7775",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/7775",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/7775",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "7814",
+      "name": "Meebit #7814",
+      "rarity": "19136",
+      "ownedBy": "0x5a150E37ea82254f05b90Aa3a6eD903b03eBF2e4",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/7814",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/7814",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/7814",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected",
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "7934",
+      "name": "Meebit #7934",
+      "rarity": "19800",
+      "ownedBy": "0x4FC2c2B2A742984aaB9F8Dfd982d7afc2b9A7d2D",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/7934",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/7934",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/7934",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "7936",
+      "name": "Meebit #7936",
+      "rarity": "8836",
+      "ownedBy": "0x1f4Dff5a5C4d8a96E2A599ac4a95267f3797873c",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/7936",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/7936",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/7936",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "7962",
+      "name": "Meebit #7962",
+      "rarity": "11223",
+      "ownedBy": "0x1434a4d4b7427d7748D61eC45515299fEf7eD4cd",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/7962",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/7962",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/7962",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "8092",
+      "name": "Meebit #8092",
+      "rarity": "1472",
+      "ownedBy": "0x56178626332FC530561535eEAa914B863aA455F2",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/8092",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/8092",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/8092",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "8109",
+      "name": "Meebit #8109",
+      "rarity": "11931",
+      "ownedBy": "0x63B135a7dfFd00dd92FE4bD58378Cf4b0110f362",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/8109",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/8109",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/8109",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "8149",
+      "name": "Meebit #8149",
+      "rarity": "10942",
+      "ownedBy": "0x399D07303275719fb83aCB468249a9a26ae2f674",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/8149",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/8149",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/8149",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "8319",
+      "name": "Meebit #8319",
+      "rarity": "18099",
+      "ownedBy": "0xd145a82A5F0b3098f16B4E6B6BE6Ea7cff581422",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/8319",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/8319",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/8319",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "8373",
+      "name": "Meebit #8373",
+      "rarity": "17754",
+      "ownedBy": "0x3CD5419B2e22Dd509975A7763B2736b015442559",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/8373",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/8373",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/8373",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "8475",
+      "name": "Meebit #8475",
+      "rarity": "10715",
+      "ownedBy": "0x8C0B5A9D8d0e4808C3d70340dF3BAe8f156fb043",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/8475",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/8475",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/8475",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "8575",
+      "name": "Meebit #8575",
+      "rarity": "19852",
+      "ownedBy": "0xAb91d9c33d4CdB203E79702409184a4E63a6dCeD",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/8575",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/8575",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/8575",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "8645",
+      "name": "Meebit #8645",
+      "rarity": "9969",
+      "ownedBy": "0xa3b174922E03cc9125a8fa480871615306A711D6",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/8645",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/8645",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/8645",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "8654",
+      "name": "Meebit #8654",
+      "rarity": "7000",
+      "ownedBy": "0x7E338a9d851bFCAdD9b2c99e93126952767852Bf",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/8654",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/8654",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/8654",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "8770",
+      "name": "Meebit #8770",
+      "rarity": "16170",
+      "ownedBy": "0x4dCbB1fE5983ad5b44DC661273a4f11CA812f8B8",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/8770",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/8770",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/8770",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "8876",
+      "name": "Meebit #8876",
+      "rarity": "16301",
+      "ownedBy": "0xc6bd8DaEb774d276E686d394d3b431AE6876d711",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/8876",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/8876",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/8876",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "8954",
+      "name": "Meebit #8954",
+      "rarity": "17082",
+      "ownedBy": "0x60bD57C9E170e44b68D81bd4088245cED7f3170b",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/8954",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/8954",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/8954",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected",
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "9028",
+      "name": "Meebit #9028",
+      "rarity": "12531",
+      "ownedBy": "0x91a93532125B8c13e52a682919972312226b2cAD",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/9028",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/9028",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/9028",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "9185",
+      "name": "Meebit #9185",
+      "rarity": "18631",
+      "ownedBy": "0x7138CBAAB4748AF9ea32365A816Ee152212306b0",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/9185",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/9185",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/9185",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "9228",
+      "name": "Meebit #9228",
+      "rarity": "19709",
+      "ownedBy": "0x8CE0d9060263B1B5ad3Eff2e1E21736b5Ef36936",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/9228",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/9228",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/9228",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected",
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "9278",
+      "name": "Meebit #9278",
+      "rarity": "9560",
+      "ownedBy": "0x963f9D1e916FdE498Ea969C99Fb3498204494310",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/9278",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/9278",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/9278",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "9377",
+      "name": "Meebit #9377",
+      "rarity": "10840",
+      "ownedBy": "0x22B8dC8c75629F0EF8244c6fa9c6f54de66Efd9C",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/9377",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/9377",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/9377",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "9384",
+      "name": "Meebit #9384",
+      "rarity": "5062",
+      "ownedBy": "0x720b808C6835d825d45d1680A75909C797Fcaa28",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/9384",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/9384",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/9384",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected",
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "9542",
+      "name": "Meebit #9542",
+      "rarity": "18211",
+      "ownedBy": "0xf0fC7c875F87aC76C3b02aC2b5087E0B2BEb81aB",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/9542",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/9542",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/9542",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "9711",
+      "name": "Meebit #9711",
+      "rarity": "1618",
+      "ownedBy": "0xA99A76dDdBB9678bc33F39919Bc76d279C680C89",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/9711",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/9711",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/9711",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "9723",
+      "name": "Meebit #9723",
+      "rarity": "17687",
+      "ownedBy": "0xd3e2e76e4Ab0322614fe7aaA3be0B04beD83d0D0",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/9723",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/9723",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/9723",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "9764",
+      "name": "Meebit #9764",
+      "rarity": "16058",
+      "ownedBy": "0xaC5a04ceD2a8AD8Bd6f74b2bfF0733B1Ad87586a",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/9764",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/9764",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/9764",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected",
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "9886",
+      "name": "Meebit #9886",
+      "rarity": "1259",
+      "ownedBy": "0xCacb997125E65b2582114dFa34FF948AA8557356",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/9886",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/9886",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/9886",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "9926",
+      "name": "Meebit #9926",
+      "rarity": "18305",
+      "ownedBy": "0x99F4b356608fb98294BBFb5a0Ded30817eE4f626",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/md/9926",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/9926",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7/metadata/9926",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    }
+  ]
+}

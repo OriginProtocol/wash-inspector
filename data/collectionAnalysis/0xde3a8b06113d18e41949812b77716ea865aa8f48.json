@@ -1,0 +1,35 @@
+{
+  "trades": 53,
+  "washTrades": 49,
+  "volume": 13.179,
+  "washVolume": 12.606,
+  "address": "0xDe3a8b06113D18E41949812B77716EA865aa8f48",
+  "washTradedNfts": [
+    {
+      "tokenId": "2865",
+      "name": "FoxyHound #2865",
+      "rarity": "3681",
+      "ownedBy": "0x1bc16F4BB0f2685a49BCA4589C37ba699ED5fB9E",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xDe3a8b06113D18E41949812B77716EA865aa8f48/md/2865",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xDe3a8b06113D18E41949812B77716EA865aa8f48/2865",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xDe3a8b06113D18E41949812B77716EA865aa8f48/metadata/2865",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "5824",
+      "name": "FoxyHound #5824",
+      "rarity": "634",
+      "ownedBy": "0xe0B03Fc5365677ba0A438811d84600051cBb1abD",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xDe3a8b06113D18E41949812B77716EA865aa8f48/md/5824",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xDe3a8b06113D18E41949812B77716EA865aa8f48/5824",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xDe3a8b06113D18E41949812B77716EA865aa8f48/metadata/5824",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    }
+  ]
+}

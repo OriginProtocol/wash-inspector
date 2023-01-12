@@ -1,0 +1,620 @@
+{
+  "trades": 433,
+  "washTrades": 109,
+  "volume": 84.20999258518499,
+  "washVolume": 23.690004422163796,
+  "address": "0x524cAB2ec69124574082676e6F654a18df49A048",
+  "washTradedNfts": [
+    {
+      "tokenId": "726",
+      "name": "Lil Pudgy #726",
+      "rarity": "14522",
+      "ownedBy": "0xf451B864c422910b9125A1Cd2B2864D617E2a978",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/md/726",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/726",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x524cAB2ec69124574082676e6F654a18df49A048/metadata/726",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "1070",
+      "name": "Lil Pudgy #1070",
+      "rarity": "14708",
+      "ownedBy": "0x46CB54227E031d8dF8e5D45c24B2A717e8A7ba94",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/md/1070",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/1070",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x524cAB2ec69124574082676e6F654a18df49A048/metadata/1070",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1354",
+      "name": "Lil Pudgy #1354",
+      "rarity": "15665",
+      "ownedBy": "0x79E70AC77f01fAae7Ac1acC870d95BFd1f09071E",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/md/1354",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/1354",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x524cAB2ec69124574082676e6F654a18df49A048/metadata/1354",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1436",
+      "name": "Lil Pudgy #1436",
+      "rarity": "1463",
+      "ownedBy": "0xcF3A43765250cC13792642bAeD5881FB9EfAcec8",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/md/1436",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/1436",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x524cAB2ec69124574082676e6F654a18df49A048/metadata/1436",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1606",
+      "name": "Lil Pudgy #1606",
+      "rarity": "19947",
+      "ownedBy": "0xc39372B6D61b7E7038296ff91A91351Ab3b1df51",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/md/1606",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/1606",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x524cAB2ec69124574082676e6F654a18df49A048/metadata/1606",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "1720",
+      "name": "Lil Pudgy #1720",
+      "rarity": "17687",
+      "ownedBy": "0x2797eA5CB0F027B85fe6D1cdb06c43e8D16c2664",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/md/1720",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/1720",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x524cAB2ec69124574082676e6F654a18df49A048/metadata/1720",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "2023",
+      "name": "Lil Pudgy #2023",
+      "rarity": "12022",
+      "ownedBy": "0x55016D5d800b17f18244f94817E81B7F88f86c3a",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/md/2023",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/2023",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x524cAB2ec69124574082676e6F654a18df49A048/metadata/2023",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "2043",
+      "name": "Lil Pudgy #2043",
+      "rarity": "4433",
+      "ownedBy": "0x9eAeC4D4296D3cd7C59847cDbf5c28C2C0ad0BC3",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/md/2043",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/2043",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x524cAB2ec69124574082676e6F654a18df49A048/metadata/2043",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "2102",
+      "name": "Lil Pudgy #2102",
+      "rarity": "19709",
+      "ownedBy": "0x4dd6ed4D4Ae27462Cf9ebcD97A274DDe33365E38",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/md/2102",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/2102",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x524cAB2ec69124574082676e6F654a18df49A048/metadata/2102",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "2272",
+      "name": "Lil Pudgy #2272",
+      "rarity": "11550",
+      "ownedBy": "0x9359301a9649b9Fb9f29609848DA3DBD7FE13Fa1",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/md/2272",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/2272",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x524cAB2ec69124574082676e6F654a18df49A048/metadata/2272",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "2361",
+      "name": "Lil Pudgy #2361",
+      "rarity": "8850",
+      "ownedBy": "0xABB754Ab91Ff62fE32D713414D017D1E2685247F",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/md/2361",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/2361",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x524cAB2ec69124574082676e6F654a18df49A048/metadata/2361",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "3905",
+      "name": "Lil Pudgy #3905",
+      "rarity": "15612",
+      "ownedBy": "0xf055f2D206DaEa10D017a4097d8B0d2D6bBF0b71",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/md/3905",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/3905",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x524cAB2ec69124574082676e6F654a18df49A048/metadata/3905",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4512",
+      "name": "Lil Pudgy #4512",
+      "rarity": "9789",
+      "ownedBy": "0xc05936e6B40e47656F3a300A2650e931cbd116F2",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/md/4512",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/4512",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x524cAB2ec69124574082676e6F654a18df49A048/metadata/4512",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4791",
+      "name": "Lil Pudgy #4791",
+      "rarity": "5113",
+      "ownedBy": "0x34F2d6DEaaE729B5448B4b5e938374913dc62170",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/md/4791",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/4791",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x524cAB2ec69124574082676e6F654a18df49A048/metadata/4791",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "5051",
+      "name": "Lil Pudgy #5051",
+      "rarity": "13335",
+      "ownedBy": "0x370BE233673e88171aB834505e7a75203178392D",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/md/5051",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/5051",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x524cAB2ec69124574082676e6F654a18df49A048/metadata/5051",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "5066",
+      "name": "Lil Pudgy #5066",
+      "rarity": "10472",
+      "ownedBy": "0x57f54aA18D6871149C4d160814be0193666Bc9B0",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/md/5066",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/5066",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x524cAB2ec69124574082676e6F654a18df49A048/metadata/5066",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "5127",
+      "name": "Lil Pudgy #5127",
+      "rarity": "17207",
+      "ownedBy": "0xd42fab871e708308A178798Edd7EaF63638CE519",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/md/5127",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/5127",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x524cAB2ec69124574082676e6F654a18df49A048/metadata/5127",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "5188",
+      "name": "Lil Pudgy #5188",
+      "rarity": "19354",
+      "ownedBy": "0x11360F0c5552443b33720a44408aba01a809905e",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/md/5188",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/5188",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x524cAB2ec69124574082676e6F654a18df49A048/metadata/5188",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "5317",
+      "name": "Lil Pudgy #5317",
+      "rarity": "6035",
+      "ownedBy": "0x2BFe66759f0331066F3E7D57b3DC9a96bfC17927",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/md/5317",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/5317",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x524cAB2ec69124574082676e6F654a18df49A048/metadata/5317",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "5321",
+      "name": "Lil Pudgy #5321",
+      "rarity": "7448",
+      "ownedBy": "0xbcb4972c64b57E5944825A88C2cA053c9Fc8985A",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/md/5321",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/5321",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x524cAB2ec69124574082676e6F654a18df49A048/metadata/5321",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "5359",
+      "name": "Lil Pudgy #5359",
+      "rarity": "20547",
+      "ownedBy": "0xc55ba66cab0298B3A67e1D0bf6A1613907941B09",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/md/5359",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/5359",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x524cAB2ec69124574082676e6F654a18df49A048/metadata/5359",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "5441",
+      "name": "Lil Pudgy #5441",
+      "rarity": "19597",
+      "ownedBy": "0x47923342988F3fD29EE6292Ad9A440728440ce4C",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/md/5441",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/5441",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x524cAB2ec69124574082676e6F654a18df49A048/metadata/5441",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "5609",
+      "name": "Lil Pudgy #5609",
+      "rarity": "20467",
+      "ownedBy": "0x17E1d2D3Aa4B586B4F1A198dbb48776eEdd6410C",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/md/5609",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/5609",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x524cAB2ec69124574082676e6F654a18df49A048/metadata/5609",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "5610",
+      "name": "Lil Pudgy #5610",
+      "rarity": "2422",
+      "ownedBy": "0x1E66072cb0D2d1D17e187036819221Eca3de681F",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/md/5610",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/5610",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x524cAB2ec69124574082676e6F654a18df49A048/metadata/5610",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "5623",
+      "name": "Lil Pudgy #5623",
+      "rarity": "17639",
+      "ownedBy": "0x6e1d9ac48F065Dd02997e5dA3f0e2DFD9687cB9F",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/md/5623",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/5623",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x524cAB2ec69124574082676e6F654a18df49A048/metadata/5623",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "5705",
+      "name": "Lil Pudgy #5705",
+      "rarity": "8036",
+      "ownedBy": "0x10E1FBC2aB045dc3e1bCB5F7b6B80f763A16BF64",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/md/5705",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/5705",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x524cAB2ec69124574082676e6F654a18df49A048/metadata/5705",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "6017",
+      "name": "Lil Pudgy #6017",
+      "rarity": "13687",
+      "ownedBy": "0x1A88100071B5f3044494204E3C51b59f814e0B2A",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/md/6017",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/6017",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x524cAB2ec69124574082676e6F654a18df49A048/metadata/6017",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "6371",
+      "name": "Lil Pudgy #6371",
+      "rarity": "17177",
+      "ownedBy": "0x8889EBB11295F456541901f50BCB5f382047cAaC",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/md/6371",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/6371",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x524cAB2ec69124574082676e6F654a18df49A048/metadata/6371",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "6461",
+      "name": "Lil Pudgy #6461",
+      "rarity": "14624",
+      "ownedBy": "0xcEe3b14323dCf58a895Ad78FA7797af73009F401",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/md/6461",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/6461",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x524cAB2ec69124574082676e6F654a18df49A048/metadata/6461",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "6523",
+      "name": "Lil Pudgy #6523",
+      "rarity": "20738",
+      "ownedBy": "0x2299cdAa37016608552A94C6dded0832EA204af7",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/md/6523",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/6523",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x524cAB2ec69124574082676e6F654a18df49A048/metadata/6523",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "6766",
+      "name": "Lil Pudgy #6766",
+      "rarity": "16538",
+      "ownedBy": "0xdb6C92a9CCAa27B394F4f496557C319dC22eBc67",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/md/6766",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/6766",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x524cAB2ec69124574082676e6F654a18df49A048/metadata/6766",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "7004",
+      "name": "Lil Pudgy #7004",
+      "rarity": "15655",
+      "ownedBy": "0x7A7427E8f54b09B41E1B269de54FB8CEF6801f62",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/md/7004",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/7004",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x524cAB2ec69124574082676e6F654a18df49A048/metadata/7004",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "7137",
+      "name": "Lil Pudgy #7137",
+      "rarity": "16708",
+      "ownedBy": "0xa2cCB81De6fA4eEB4e81b702d1cfa368C82a4a9b",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/md/7137",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/7137",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x524cAB2ec69124574082676e6F654a18df49A048/metadata/7137",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "7238",
+      "name": "Lil Pudgy #7238",
+      "rarity": "15162",
+      "ownedBy": "0x658d177Dc9AbBEf28Ca7D947dE09A86aB5B7a22E",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/md/7238",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/7238",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x524cAB2ec69124574082676e6F654a18df49A048/metadata/7238",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "7554",
+      "name": "Lil Pudgy #7554",
+      "rarity": "9294",
+      "ownedBy": "0x29D6c8BB01ed030cC920745AE0C2D516c10F2F50",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/md/7554",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/7554",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x524cAB2ec69124574082676e6F654a18df49A048/metadata/7554",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "7650",
+      "name": "Lil Pudgy #7650",
+      "rarity": "6096",
+      "ownedBy": "0xd7Df465c5223e4EDAC8fdE5B3dcD97A107659a94",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/md/7650",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/7650",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x524cAB2ec69124574082676e6F654a18df49A048/metadata/7650",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "8226",
+      "name": "Lil Pudgy #8226",
+      "rarity": "8186",
+      "ownedBy": "0xbFE384D79969Bcb583B8A0e5FEDC314Aee480E7e",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/md/8226",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/8226",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x524cAB2ec69124574082676e6F654a18df49A048/metadata/8226",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "8321",
+      "name": "Lil Pudgy #8321",
+      "rarity": "20381",
+      "ownedBy": "0xa0FcD6DF8A83B449c2Fc6Cb829318282F95A288E",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/md/8321",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/8321",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x524cAB2ec69124574082676e6F654a18df49A048/metadata/8321",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "8951",
+      "name": "Lil Pudgy #8951",
+      "rarity": "8405",
+      "ownedBy": "0x2d844a4b9A7BF73Af56AF8382a605015935e88E9",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/md/8951",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/8951",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x524cAB2ec69124574082676e6F654a18df49A048/metadata/8951",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "8965",
+      "name": "Lil Pudgy #8965",
+      "rarity": "13248",
+      "ownedBy": "0x986337be72166510Cc5cC4017cdBaCdF9BF0FFf1",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/md/8965",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/8965",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x524cAB2ec69124574082676e6F654a18df49A048/metadata/8965",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "9004",
+      "name": "Lil Pudgy #9004",
+      "rarity": "11839",
+      "ownedBy": "0x69d3158A17e11FBbdB2a0E7E8Bd05aC3628e3630",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/md/9004",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/9004",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x524cAB2ec69124574082676e6F654a18df49A048/metadata/9004",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "9165",
+      "name": "Lil Pudgy #9165",
+      "rarity": "2341",
+      "ownedBy": "0xF55Bd3dE9399A9B2F57435AE54EE8e4217E91347",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/md/9165",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/9165",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x524cAB2ec69124574082676e6F654a18df49A048/metadata/9165",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "9189",
+      "name": "Lil Pudgy #9189",
+      "rarity": "15973",
+      "ownedBy": "0xe9282fc1b078BBBe9E3CD1cF362743355E14C5Ae",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/md/9189",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/9189",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x524cAB2ec69124574082676e6F654a18df49A048/metadata/9189",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "9431",
+      "name": "Lil Pudgy #9431",
+      "rarity": "9397",
+      "ownedBy": "0xa47AF4174e109b7eccD182729f067B6d8D3d91D9",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/md/9431",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/9431",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x524cAB2ec69124574082676e6F654a18df49A048/metadata/9431",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "9437",
+      "name": "Lil Pudgy #9437",
+      "rarity": "14992",
+      "ownedBy": "0x09fDdBBAf37b19Ca477649Aeef6f4bB46B3Dfb7B",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/md/9437",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/9437",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x524cAB2ec69124574082676e6F654a18df49A048/metadata/9437",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "9708",
+      "name": "Lil Pudgy #9708",
+      "rarity": "16477",
+      "ownedBy": "0xEF994cfBb484f1cECE3A99aD7978510644AE3E95",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/md/9708",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/9708",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x524cAB2ec69124574082676e6F654a18df49A048/metadata/9708",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "9971",
+      "name": "Lil Pudgy #9971",
+      "rarity": "19455",
+      "ownedBy": "0xC63A62744A75A60cb4277Dca20feB90ACA10e696",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/md/9971",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x524cAB2ec69124574082676e6F654a18df49A048/9971",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x524cAB2ec69124574082676e6F654a18df49A048/metadata/9971",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    }
+  ]
+}

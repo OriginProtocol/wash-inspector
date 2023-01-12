@@ -1,0 +1,87 @@
+{
+  "trades": 18,
+  "washTrades": 6,
+  "volume": 8.6161,
+  "washVolume": 4.2261,
+  "address": "0x2C88aA0956bC9813505d73575f653F69ADa60923",
+  "washTradedNfts": [
+    {
+      "tokenId": "478",
+      "name": "Genesis Land #478",
+      "rarity": "7386",
+      "ownedBy": "0x3bCa1Bd239954fD9D5854dF7A43adFA206972626",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x2C88aA0956bC9813505d73575f653F69ADa60923/md/478",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x2C88aA0956bC9813505d73575f653F69ADa60923/478",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x2C88aA0956bC9813505d73575f653F69ADa60923/metadata/478",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "1669",
+      "name": "Genesis Land #1669",
+      "rarity": "18163",
+      "ownedBy": "0x6F69F79cEA418024b9E0acfD18bD8DE26f9BBE39",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x2C88aA0956bC9813505d73575f653F69ADa60923/md/1669",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x2C88aA0956bC9813505d73575f653F69ADa60923/1669",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x2C88aA0956bC9813505d73575f653F69ADa60923/metadata/1669",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "2032",
+      "name": "Genesis Land #2032",
+      "rarity": "4386",
+      "ownedBy": "0x52fb532AB324A3689bAa07AB5742EDbc4c31a85e",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x2C88aA0956bC9813505d73575f653F69ADa60923/md/2032",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x2C88aA0956bC9813505d73575f653F69ADa60923/2032",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x2C88aA0956bC9813505d73575f653F69ADa60923/metadata/2032",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "2421",
+      "name": "Genesis Land #2421",
+      "rarity": "734",
+      "ownedBy": "0xFbb63846776982dAcD4BA710501F93c3073040fC",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x2C88aA0956bC9813505d73575f653F69ADa60923/md/2421",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x2C88aA0956bC9813505d73575f653F69ADa60923/2421",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x2C88aA0956bC9813505d73575f653F69ADa60923/metadata/2421",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "3595",
+      "name": "Genesis Land #3595",
+      "rarity": "16193",
+      "ownedBy": "0xAae8C50d76c76fb8947C9A203103d28b55862977",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x2C88aA0956bC9813505d73575f653F69ADa60923/md/3595",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x2C88aA0956bC9813505d73575f653F69ADa60923/3595",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x2C88aA0956bC9813505d73575f653F69ADa60923/metadata/3595",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "3605",
+      "name": "Genesis Land #3605",
+      "rarity": "919",
+      "ownedBy": "0x3AafaBec90ab6DFd9402fF8F7afdE1d03bA14235",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x2C88aA0956bC9813505d73575f653F69ADa60923/md/3605",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x2C88aA0956bC9813505d73575f653F69ADa60923/3605",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x2C88aA0956bC9813505d73575f653F69ADa60923/metadata/3605",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    }
+  ]
+}

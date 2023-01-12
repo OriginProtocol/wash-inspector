@@ -1,0 +1,386 @@
+{
+  "trades": 97,
+  "washTrades": 29,
+  "volume": 16.465684348260204,
+  "washVolume": 7.787326744458694,
+  "address": "0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1",
+  "washTradedNfts": [
+    {
+      "tokenId": "434",
+      "name": "Chubbicat #434",
+      "rarity": "797",
+      "ownedBy": "0xBfE334B816404E21577cef84b1d3CF7035637512",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/md/434",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/434",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/metadata/434",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "627",
+      "name": "Chubbicat #627",
+      "rarity": "6936",
+      "ownedBy": "0x6cfAc3Cf77A359D7ce28C14F2D53de48981e0F04",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/md/627",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/627",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/metadata/627",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "901",
+      "name": "Chubbipig #901",
+      "rarity": "4028",
+      "ownedBy": "0xEF30fA2138A725523451688279b11216B0505E98",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/md/901",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/901",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/metadata/901",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "1127",
+      "name": "Chubbikun #1127",
+      "rarity": "8040",
+      "ownedBy": "0xBacD968d1c00aB08dAc5Fe16CFB5dF818DfAF908",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/md/1127",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/1127",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/metadata/1127",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1278",
+      "name": "Chubbicat #1278",
+      "rarity": "6124",
+      "ownedBy": "0x327B5d89D54863d932d8cfF1FA6e924e9C830aD7",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/md/1278",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/1278",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/metadata/1278",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "1281",
+      "name": "Chubbiwhal #1281",
+      "rarity": "4476",
+      "ownedBy": "0x80529ca83349FAc888FD4dFD8e045a3296B66e54",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/md/1281",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/1281",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/metadata/1281",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "1656",
+      "name": "Chubbicat #1656",
+      "rarity": "4243",
+      "ownedBy": "0x542064A6Fdc1dADDe25758480638eEF4F030078a",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/md/1656",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/1656",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/metadata/1656",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "1700",
+      "name": "Chubbipig #1700",
+      "rarity": "5680",
+      "ownedBy": "0x55016D5d800b17f18244f94817E81B7F88f86c3a",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/md/1700",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/1700",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/metadata/1700",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "1834",
+      "name": "Chubbicat #1834",
+      "rarity": "2898",
+      "ownedBy": "0xa0FcD6DF8A83B449c2Fc6Cb829318282F95A288E",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/md/1834",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/1834",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/metadata/1834",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "2439",
+      "name": "Chubbiwhal #2439",
+      "rarity": "8419",
+      "ownedBy": "0x729AefA54C7825f89c155683a133d60e7167e528",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/md/2439",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/2439",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/metadata/2439",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "2864",
+      "name": "Chubbiwhal #2864",
+      "rarity": "1191",
+      "ownedBy": "0x926d2562Cd25E2a8988449F61271c19fF65d2C04",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/md/2864",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/2864",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/metadata/2864",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "2910",
+      "name": "Chubbikun #2910",
+      "rarity": "8148",
+      "ownedBy": "0x729AefA54C7825f89c155683a133d60e7167e528",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/md/2910",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/2910",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/metadata/2910",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "3034",
+      "name": "Chubbiwhal #3034",
+      "rarity": "7804",
+      "ownedBy": "0x3B7de0CBc5a48433AFB6789Ef7F598F0385382b7",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/md/3034",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/3034",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/metadata/3034",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "3056",
+      "name": "Chubbiwhal #3056",
+      "rarity": "8296",
+      "ownedBy": "0xB135B0Ac8eD1658e89eec65396f97fB10bD4899b",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/md/3056",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/3056",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/metadata/3056",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "3213",
+      "name": "Chubbikun #3213",
+      "rarity": "7104",
+      "ownedBy": "0x542064A6Fdc1dADDe25758480638eEF4F030078a",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/md/3213",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/3213",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/metadata/3213",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "3328",
+      "name": "Chubbipig #3328",
+      "rarity": "6615",
+      "ownedBy": "0x542064A6Fdc1dADDe25758480638eEF4F030078a",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/md/3328",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/3328",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/metadata/3328",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "3577",
+      "name": "Chubbikun #3577",
+      "rarity": "4736",
+      "ownedBy": "0xcE070617FF2F135bCE5Dcb336d5b0B6f70864cfe",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/md/3577",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/3577",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/metadata/3577",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3697",
+      "name": "Chubbicat #3697",
+      "rarity": "6895",
+      "ownedBy": "0xA4E5DB7566f2E24dCf2E6bd4c3BCBD88Ceae35b7",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/md/3697",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/3697",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/metadata/3697",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "3702",
+      "name": "Chubbicat #3702",
+      "rarity": "7536",
+      "ownedBy": "0xF5C5546040BC32e23FC0102bE0Df33f64847aC2D",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/md/3702",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/3702",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/metadata/3702",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3722",
+      "name": "Chubbicat #3722",
+      "rarity": "6525",
+      "ownedBy": "0xe16c0E1Bf3B75F67E83C9e47B9c0Eb8Bf1B99CCd",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/md/3722",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/3722",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/metadata/3722",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "4060",
+      "name": "Chubbikun #4060",
+      "rarity": "3678",
+      "ownedBy": "0x00935C528D520b0091B4CAd9da987fE021E7Ac51",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/md/4060",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/4060",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/metadata/4060",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4164",
+      "name": "Chubbiwhal #4164",
+      "rarity": "5235",
+      "ownedBy": "0x7f5674bc1CfD438Af00DdE5A02df3CdC345eAD5a",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/md/4164",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/4164",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/metadata/4164",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4776",
+      "name": "Chubbiwhal #4776",
+      "rarity": "2804",
+      "ownedBy": "0x8E067af15a1413A81a4cbB37Aad5D570C1100C49",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/md/4776",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/4776",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/metadata/4776",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "5523",
+      "name": "Chubbipig #5523",
+      "rarity": "2412",
+      "ownedBy": "0x51EDb6E986c31D13838f165737Fe3FbA9F689F38",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/md/5523",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/5523",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/metadata/5523",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "6150",
+      "name": "Chubbipig #6150",
+      "rarity": "7486",
+      "ownedBy": "0x543d42C66527bFE8dD0BC948baCAe850d5AF82Dc",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/md/6150",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/6150",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/metadata/6150",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "6188",
+      "name": "Chubbikun #6188",
+      "rarity": "2255",
+      "ownedBy": "0xbad2e817Af781B6F1573d65409ddEF24d9656f8b",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/md/6188",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/6188",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/metadata/6188",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "6195",
+      "name": "Chubbikun #6195",
+      "rarity": "5457",
+      "ownedBy": "0xF7C23Ee9D0E036147136EC9D0089b00D33D7532D",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/md/6195",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/6195",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/metadata/6195",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "7049",
+      "name": "Chubbicat #7049",
+      "rarity": "3702",
+      "ownedBy": "0x4d384f08017B647554B8b8416682444aB3C09062",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/md/7049",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/7049",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/metadata/7049",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "7593",
+      "name": "Chubbicat #7593",
+      "rarity": "8050",
+      "ownedBy": "0x9194475aa359B758CfA01Dc8478176aeFA3998B0",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/md/7593",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/7593",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x42f1654B8eeB80C96471451B1106b63D0B1a9fe1/metadata/7593",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    }
+  ]
+}

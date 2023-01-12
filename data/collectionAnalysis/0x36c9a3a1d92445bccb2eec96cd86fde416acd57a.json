@@ -1,0 +1,22 @@
+{
+  "trades": 3,
+  "washTrades": 1,
+  "volume": 0.22,
+  "washVolume": 0.02,
+  "address": "0x36c9A3a1D92445BCCb2eEc96CD86fDE416ACD57A",
+  "washTradedNfts": [
+    {
+      "tokenId": "331",
+      "name": "Martian #0331",
+      "rarity": "5688",
+      "ownedBy": "0x1F93669Cc3A85f4d8E093Ff5E00AD462139aED47",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x36c9A3a1D92445BCCb2eEc96CD86fDE416ACD57A/md/331",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x36c9A3a1D92445BCCb2eEc96CD86fDE416ACD57A/331",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x36c9A3a1D92445BCCb2eEc96CD86fDE416ACD57A/metadata/331",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    }
+  ]
+}

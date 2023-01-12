@@ -1,0 +1,87 @@
+{
+  "trades": 18,
+  "washTrades": 6,
+  "volume": 5.3809,
+  "washVolume": 0.991,
+  "address": "0x73883743Dd9894bd2D43e975465b50DF8d3aF3B2",
+  "washTradedNfts": [
+    {
+      "tokenId": "400",
+      "name": "PUPPY #400",
+      "rarity": "5088",
+      "ownedBy": "0xf2BBA16c16bef2D7e0ECAD594F71AA2748560971",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x73883743Dd9894bd2D43e975465b50DF8d3aF3B2/md/400",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x73883743Dd9894bd2D43e975465b50DF8d3aF3B2/400",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x73883743Dd9894bd2D43e975465b50DF8d3aF3B2/metadata/400",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1674",
+      "name": "PUPPY #1674",
+      "rarity": "8162",
+      "ownedBy": "0x2Cf84928261F655A47d04EC714D3Bedf9375De46",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x73883743Dd9894bd2D43e975465b50DF8d3aF3B2/md/1674",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x73883743Dd9894bd2D43e975465b50DF8d3aF3B2/1674",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x73883743Dd9894bd2D43e975465b50DF8d3aF3B2/metadata/1674",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "2300",
+      "name": "PUPPY #2300",
+      "rarity": "7424",
+      "ownedBy": "0xfa035742F8E0318a09b95A4791090Ee1b077bb8e",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x73883743Dd9894bd2D43e975465b50DF8d3aF3B2/md/2300",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x73883743Dd9894bd2D43e975465b50DF8d3aF3B2/2300",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x73883743Dd9894bd2D43e975465b50DF8d3aF3B2/metadata/2300",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4683",
+      "name": "PUPPY #4683",
+      "rarity": "6125",
+      "ownedBy": "0xB519b4d10210Bf1f2a1b5Fa8805e7eBd9aB3F455",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x73883743Dd9894bd2D43e975465b50DF8d3aF3B2/md/4683",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x73883743Dd9894bd2D43e975465b50DF8d3aF3B2/4683",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x73883743Dd9894bd2D43e975465b50DF8d3aF3B2/metadata/4683",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "5600",
+      "name": "PUPPY #5600",
+      "rarity": "1957",
+      "ownedBy": "0x4FD2B19BAfF47bbc9da41453F134F016C094C729",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x73883743Dd9894bd2D43e975465b50DF8d3aF3B2/md/5600",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x73883743Dd9894bd2D43e975465b50DF8d3aF3B2/5600",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x73883743Dd9894bd2D43e975465b50DF8d3aF3B2/metadata/5600",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "6369",
+      "name": "PUPPY #6369",
+      "rarity": "6214",
+      "ownedBy": "0x706BA8097516eF1E9B8fAb656E4BeBB3fF0891e3",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x73883743Dd9894bd2D43e975465b50DF8d3aF3B2/md/6369",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x73883743Dd9894bd2D43e975465b50DF8d3aF3B2/6369",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x73883743Dd9894bd2D43e975465b50DF8d3aF3B2/metadata/6369",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    }
+  ]
+}

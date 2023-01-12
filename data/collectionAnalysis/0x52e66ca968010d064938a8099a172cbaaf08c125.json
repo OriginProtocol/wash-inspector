@@ -1,0 +1,35 @@
+{
+  "trades": 3,
+  "washTrades": 2,
+  "volume": 1.208,
+  "washVolume": 0.808,
+  "address": "0x52E66cA968010d064938A8099a172CBAaf08c125",
+  "washTradedNfts": [
+    {
+      "tokenId": "1183",
+      "name": "#1183",
+      "rarity": "2903",
+      "ownedBy": "0xfDa18CB678b8e52972800279487a517552b0790a",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x52E66cA968010d064938A8099a172CBAaf08c125/md/1183",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x52E66cA968010d064938A8099a172CBAaf08c125/1183",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x52E66cA968010d064938A8099a172CBAaf08c125/metadata/1183",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "2059",
+      "name": "#2059",
+      "rarity": "3219",
+      "ownedBy": "0x0b743fCE295e9267cFa4287e32Bf97FD6BAE4265",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x52E66cA968010d064938A8099a172CBAaf08c125/md/2059",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x52E66cA968010d064938A8099a172CBAaf08c125/2059",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x52E66cA968010d064938A8099a172CBAaf08c125/metadata/2059",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    }
+  ]
+}
