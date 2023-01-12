@@ -3,6 +3,8 @@ import type { NextApiRequest, NextApiResponse } from 'next'
 import useAlchemy from "../../src/hooks/useAlchemy"
 import useEtherscan from "../../src/hooks/useEtherscan"
 import { transferHistory } from "../../src/data/nftTransactions"
+import { uniq, reduce } from "lodash"
+import { utils, BigNumber } from "ethers"
 const nftList = require("./nftList.json");
 const fs = require('fs');
 
@@ -11,6 +13,22 @@ export default async function handler(
   res: NextApiResponse<Data>
 ) {
   let { address } = req.query;
+
+  for (let i = 0; i < nftList.length; i++) {
+    const address = nftList[i].address
+    const name = nftList[i].name
+    console.log(`Processing ${i}/${nftList.length} name: ${name} address: ${address}`)
+    try {
+      await processNft(address)
+    } catch (e) {
+      console.error(`Failed processing name: ${name} address: ${address}`, e)
+    }
+  }
+  res.status(200).json({ "status":"Done" })
+}
+
+async function processNft(address) {
+
   const alchemy = useAlchemy()
 
   const metadata = await alchemy.nft
@@ -20,10 +38,21 @@ export default async function handler(
   const batchSize = 10;
   let batchedPromises = []
   let washTradedNfts = []
+  const stats = {
+    trades: 0,
+    washTrades: 0,
+    volume: BigNumber.from("0"),
+    washVolume: BigNumber.from("0")
+  }
 
   for(let i = 1; i <= parseInt(metadata.totalSupply); i++) {
     if (i % 50 === 0) {
-      console.log(`processed ${i} items`)
+      console.log(`processed ${i}/${metadata.totalSupply} items`)
+    }
+
+    // do not process more than 10k items
+    if (i > 10000) {
+      break;
     }
 
     batchedPromises.push(transferHistory(address, i.toString()))
@@ -37,12 +66,45 @@ export default async function handler(
       }
 
       batchedPromises = []
-      washTradedNfts = [...washTradedNfts, ...results.filter(r => r.washTraded === true)]
+      const cleanResults = results.filter(r => r.washTraded === true).map(r => {
+        stats.trades = stats.trades + r.activity.filter(a => a.event === "Sale").length
+        stats.washTrades = stats.washTrades + r.washTrades.length
+
+        const getSalesVolume = (iteratee) => {
+          return reduce(iteratee.filter(a => 
+            a.event === "Sale" &&
+            (a.currency === "0x0000000000000000000000000000000000000000" || 
+             a.currency === "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2") // WETH
+          ), (aggregator, sale) => {
+            return aggregator.add(BigNumber.from(sale.amount))
+          }, BigNumber.from("0"))
+        }
+
+        stats.volume = BigNumber.from(stats.volume).add(getSalesVolume(r.activity))
+        // the first transaction is the one representing the sale
+        stats.washVolume = BigNumber.from(stats.washVolume).add(getSalesVolume(r.washTrades.map(trade => trade.transactions[0])))
+        
+
+        return {
+          tokenId: r.tokenId,
+          name: r.name,
+          rarity: r.rarity,
+          ownedBy: r.ownedBy,
+          image: r.image,
+          imageSrc: r.imageSrc,
+          metadataSrc: r.metadataSrc,
+          washTraded: r.washTraded,
+          washTrades: uniq(r.washTrades.map(trade => trade.washTradeType))
+        }
+      })
+
+      washTradedNfts = [...washTradedNfts, ...cleanResults]
     }
   }
 
-  fs.writeFileSync(`${process.cwd()}/data/collectionAnalysis/${address.toLowerCase()}.json`, JSON.stringify(washTradedNfts, null, 2));
-
-
-  res.status(200).json({ "status":"Done" })
+  stats.volume = parseFloat(utils.formatUnits(stats.volume, 18))
+  stats.address = address
+  stats.washVolume = parseFloat(utils.formatUnits(stats.washVolume, 18))
+  stats.washTradedNfts = washTradedNfts
+  fs.writeFileSync(`${process.cwd()}/data/collectionAnalysis/${address.toLowerCase()}.json`, JSON.stringify(stats, null, 2));
 }
