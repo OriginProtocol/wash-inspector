@@ -15,19 +15,21 @@ export default function Home() {
   const [contract, setContract] = useState(false)
   const [nftId, setNftId] = useState(false)
 
-  // workaround for: https://github.com/vercel/next.js/issues/43585
-  useEffect(() => {
-    if (window) {
-      const queryVars = window.location.search.substring(1).split('&')
-      queryVars.forEach(pair => {
-        const [variable, value] = pair.split('=')
-        if (variable === 'address')
-          setContract(value)
-        else if (variable === 'nftId')
-          setNftId(value)
-      })
-    }
-  },[window.location.search])
+  if (typeof window !== 'undefined') {
+    // workaround for: https://github.com/vercel/next.js/issues/43585
+    useEffect(() => {
+      if (window) {
+        const queryVars = window.location.search.substring(1).split('&')
+        queryVars.forEach(pair => {
+          const [variable, value] = pair.split('=')
+          if (variable === 'address')
+            setContract(value)
+          else if (variable === 'nftId')
+            setNftId(value)
+        })
+      }
+    },[window.location.search])
+  }
 
   const nftCollectionMetadata = useNftCollectionMetadata(contract)
   const nftMetadata = useNftMetadata(contract, nftId)
