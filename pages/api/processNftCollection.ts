@@ -5,7 +5,7 @@ import useEtherscan from "../../src/hooks/useEtherscan"
 import { transferHistory } from "../../src/data/nftTransactions"
 import { uniq, reduce } from "lodash"
 import { utils, BigNumber } from "ethers"
-const nftList = require("./nftList.json");
+const nftList = require("../../data/collectionsdata.js");
 const fs = require('fs');
 
 export default async function handler(
@@ -15,8 +15,8 @@ export default async function handler(
   let { address } = req.query;
 
   for (let i = 0; i < nftList.length; i++) {
-    const address = nftList[i].address
-    const name = nftList[i].name
+    const address = nftList[i].gsiSortKey
+    const name = nftList[i].contractInfo.name
     console.log(`Processing ${i}/${nftList.length} name: ${name} address: ${address}`)
     try {
       await processNft(address)

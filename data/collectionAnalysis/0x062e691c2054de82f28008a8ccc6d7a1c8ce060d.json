@@ -1,0 +1,218 @@
+{
+  "trades": 86,
+  "washTrades": 17,
+  "volume": 22.57520124324508,
+  "washVolume": 5.50727704533403,
+  "address": "0x062E691c2054dE82F28008a8CCC6d7A1c8ce060D",
+  "washTradedNfts": [
+    {
+      "tokenId": "194",
+      "name": "Genesis Pudgy Rod #194",
+      "rarity": "4229",
+      "ownedBy": "0xBe4d67913C693f5c0d6E95be56feE9145f51B894",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x062E691c2054dE82F28008a8CCC6d7A1c8ce060D/md/194",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x062E691c2054dE82F28008a8CCC6d7A1c8ce060D/194",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x062E691c2054dE82F28008a8CCC6d7A1c8ce060D/metadata/194",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "259",
+      "name": "Genesis Pudgy Rod #259",
+      "rarity": "4229",
+      "ownedBy": "0x22e05B4520390BFfAD12B011bc303c9aA48ce39d",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x062E691c2054dE82F28008a8CCC6d7A1c8ce060D/md/259",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x062E691c2054dE82F28008a8CCC6d7A1c8ce060D/259",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x062E691c2054dE82F28008a8CCC6d7A1c8ce060D/metadata/259",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "383",
+      "name": "Genesis Pudgy Rod #383",
+      "rarity": "4229",
+      "ownedBy": "0x02608803A2c3625bB388e9Bd9FCf6CA0Ce04C8c9",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x062E691c2054dE82F28008a8CCC6d7A1c8ce060D/md/383",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x062E691c2054dE82F28008a8CCC6d7A1c8ce060D/383",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x062E691c2054dE82F28008a8CCC6d7A1c8ce060D/metadata/383",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "398",
+      "name": "Genesis Pudgy Rod #398",
+      "rarity": "2012",
+      "ownedBy": "0x7e8d0FEB529c21D992Bf02294Fcb4a2E013bA01d",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x062E691c2054dE82F28008a8CCC6d7A1c8ce060D/md/398",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x062E691c2054dE82F28008a8CCC6d7A1c8ce060D/398",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x062E691c2054dE82F28008a8CCC6d7A1c8ce060D/metadata/398",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "752",
+      "name": "Genesis Pudgy Rod #752",
+      "rarity": "8",
+      "ownedBy": "0xc29C5347FFfe59C63C61f9c26E9815b25D6e8B8a",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x062E691c2054dE82F28008a8CCC6d7A1c8ce060D/md/752",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x062E691c2054dE82F28008a8CCC6d7A1c8ce060D/752",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x062E691c2054dE82F28008a8CCC6d7A1c8ce060D/metadata/752",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "892",
+      "name": "Genesis Pudgy Rod #892",
+      "rarity": "2012",
+      "ownedBy": "0xF15bE774d5ec538dA94fc7548d74A6A52f8df925",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x062E691c2054dE82F28008a8CCC6d7A1c8ce060D/md/892",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x062E691c2054dE82F28008a8CCC6d7A1c8ce060D/892",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x062E691c2054dE82F28008a8CCC6d7A1c8ce060D/metadata/892",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "1474",
+      "name": "Genesis Pudgy Rod #1474",
+      "rarity": "4229",
+      "ownedBy": "0x9A15342876e19052C3FAbceF9BAd8507B9623c12",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x062E691c2054dE82F28008a8CCC6d7A1c8ce060D/md/1474",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x062E691c2054dE82F28008a8CCC6d7A1c8ce060D/1474",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x062E691c2054dE82F28008a8CCC6d7A1c8ce060D/metadata/1474",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected",
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "2025",
+      "name": "Genesis Pudgy Rod #2025",
+      "rarity": "4229",
+      "ownedBy": "0xBe4d67913C693f5c0d6E95be56feE9145f51B894",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x062E691c2054dE82F28008a8CCC6d7A1c8ce060D/md/2025",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x062E691c2054dE82F28008a8CCC6d7A1c8ce060D/2025",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x062E691c2054dE82F28008a8CCC6d7A1c8ce060D/metadata/2025",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "2435",
+      "name": "Genesis Pudgy Rod #2435",
+      "rarity": "4229",
+      "ownedBy": "0xd57e799118342a8255fED2bEAD4fF34511168cF7",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x062E691c2054dE82F28008a8CCC6d7A1c8ce060D/md/2435",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x062E691c2054dE82F28008a8CCC6d7A1c8ce060D/2435",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x062E691c2054dE82F28008a8CCC6d7A1c8ce060D/metadata/2435",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "2959",
+      "name": "Genesis Pudgy Rod #2959",
+      "rarity": "560",
+      "ownedBy": "0x2884885673769543B0bB4BbB11959B01E504Ab4C",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x062E691c2054dE82F28008a8CCC6d7A1c8ce060D/md/2959",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x062E691c2054dE82F28008a8CCC6d7A1c8ce060D/2959",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x062E691c2054dE82F28008a8CCC6d7A1c8ce060D/metadata/2959",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "3224",
+      "name": "Genesis Pudgy Rod #3224",
+      "rarity": "4229",
+      "ownedBy": "0x7a22bA24f4d60618AAaeeD95c854Bd008C0a4170",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x062E691c2054dE82F28008a8CCC6d7A1c8ce060D/md/3224",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x062E691c2054dE82F28008a8CCC6d7A1c8ce060D/3224",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x062E691c2054dE82F28008a8CCC6d7A1c8ce060D/metadata/3224",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3683",
+      "name": "Genesis Pudgy Rod #3683",
+      "rarity": "4229",
+      "ownedBy": "0xa7b9c7CB5dfaf482Ce2d3166b955E685e080cBbc",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x062E691c2054dE82F28008a8CCC6d7A1c8ce060D/md/3683",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x062E691c2054dE82F28008a8CCC6d7A1c8ce060D/3683",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x062E691c2054dE82F28008a8CCC6d7A1c8ce060D/metadata/3683",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "4190",
+      "name": "Genesis Pudgy Rod #4190",
+      "rarity": "2012",
+      "ownedBy": "0xa0FcD6DF8A83B449c2Fc6Cb829318282F95A288E",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x062E691c2054dE82F28008a8CCC6d7A1c8ce060D/md/4190",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x062E691c2054dE82F28008a8CCC6d7A1c8ce060D/4190",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x062E691c2054dE82F28008a8CCC6d7A1c8ce060D/metadata/4190",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "4724",
+      "name": "Genesis Pudgy Rod #4724",
+      "rarity": "560",
+      "ownedBy": "0xF034d2dC3F0586F3bf92d224D2A7C4b551337Dc5",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x062E691c2054dE82F28008a8CCC6d7A1c8ce060D/md/4724",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x062E691c2054dE82F28008a8CCC6d7A1c8ce060D/4724",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x062E691c2054dE82F28008a8CCC6d7A1c8ce060D/metadata/4724",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "6184",
+      "name": "Genesis Pudgy Rod #6184",
+      "rarity": "4229",
+      "ownedBy": "0xEF30fA2138A725523451688279b11216B0505E98",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x062E691c2054dE82F28008a8CCC6d7A1c8ce060D/md/6184",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x062E691c2054dE82F28008a8CCC6d7A1c8ce060D/6184",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x062E691c2054dE82F28008a8CCC6d7A1c8ce060D/metadata/6184",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "7133",
+      "name": "Genesis Pudgy Rod #7133",
+      "rarity": "2012",
+      "ownedBy": "0x02608803A2c3625bB388e9Bd9FCf6CA0Ce04C8c9",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x062E691c2054dE82F28008a8CCC6d7A1c8ce060D/md/7133",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x062E691c2054dE82F28008a8CCC6d7A1c8ce060D/7133",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x062E691c2054dE82F28008a8CCC6d7A1c8ce060D/metadata/7133",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    }
+  ]
+}

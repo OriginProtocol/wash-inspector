@@ -1,6 +1,5 @@
 // Next.js API route support: https://nextjs.org/docs/api-routes/introduction
 import type { NextApiRequest, NextApiResponse } from "next";
-const nftList = require("./nftList.json");
 const fs = require('fs');
 
 export default async function handler(
