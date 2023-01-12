@@ -1,8 +1,7 @@
 import type { FunctionComponent } from "react";
-import Link from "next/link";
-import { useCollectionTransactionData } from "../../../hooks/useCollectionTransactions";
+import { useCollectionTransactionData } from "../../../../hooks/useCollectionTransactions";
 
-interface TransactionsTableProps {
+interface TransactionsDetailTableProps {
   collection: {};
 }
 
@@ -30,9 +29,9 @@ const fakeTransactions = [
   },
 ];
 
-const TransactionsTable: FunctionComponent<TransactionsTableProps> = ({
-  collection,
-}) => {
+const TransactionsDetailTable: FunctionComponent<
+  TransactionsDetailTableProps
+> = ({ collection }) => {
   const { collectionTransactionData, loading } = useCollectionTransactionData(
     collection.contractAddress
   );
@@ -75,13 +74,7 @@ const TransactionsTable: FunctionComponent<TransactionsTableProps> = ({
                     </div>
                   </div>
                   <div>
-                    <div className="font-bold">
-                      <Link
-                        href={`/collection/${collection.contractAddress}/${transaction.token}`}
-                      >
-                        Token {transaction.token}
-                      </Link>
-                    </div>
+                    <div className="font-bold">Token {transaction.token}</div>
                     {/* <div className="text-sm opacity-50">United States</div> */}
                   </div>
                 </div>
@@ -114,4 +107,4 @@ const TransactionsTable: FunctionComponent<TransactionsTableProps> = ({
   );
 };
 
-export { TransactionsTable };
+export { TransactionsDetailTable };

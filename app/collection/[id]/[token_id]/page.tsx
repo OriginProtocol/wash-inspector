@@ -1,27 +1,21 @@
 "use client";
 
 import type { NextPage } from "next";
-import { Seo } from "../../../ui/Seo";
-import { PageHeader } from "../../../ui/PageHeader";
-import { PageTitle } from "../../../ui/PageTitle";
-import { PageDescription } from "../../../ui/PageDescription";
-import collections from "../../../data/nipCollections";
-import { TransactionsTable } from "./TransactionsTable";
+import { Seo } from "../../../../ui/Seo";
+import { PageHeader } from "../../../../ui/PageHeader";
+import { PageTitle } from "../../../../ui/PageTitle";
+import { PageDescription } from "../../../../ui/PageDescription";
+import collections from "../../../../data/nipCollections";
+import { TransactionsDetailTable } from "./TransactionsDetailTable";
 
-// export const getStaticProps: GetStaticProps = async ({ params }) => {
-//   return {
-//     props: {
-//       collection: collections.find(
-//         (collection) => collection.contractAddress === params?.["id"]
-//       ),
-//     },
-//   };
-// };
+const Index: NextPage = ({ params: { id, tokenId } }) => {
+  console.log(id);
 
-const Index: NextPage = ({ params: { id } }) => {
   const collection = collections.find(
     (collection) => collection.contractAddress === id
   );
+
+  console.log(collection);
 
   return (
     <>
@@ -106,7 +100,7 @@ const Index: NextPage = ({ params: { id } }) => {
             </div>
           </div>
           <div className="flex-3">
-            <TransactionsTable collection={collection} />
+            <TransactionsDetailTable collection={collection} />
           </div>
         </div>
       </div>

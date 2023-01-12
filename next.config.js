@@ -15,6 +15,14 @@ const nextConfig = {
       },
     ],
   },
+  async rewrites() {
+    return [
+      {
+        source: "/api/nip/:path*",
+        destination: "https://nip.ogn-review.net/v1/:path*",
+      },
+    ];
+  },
 };
 
 module.exports = nextConfig;
