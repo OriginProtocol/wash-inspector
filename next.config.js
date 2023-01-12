@@ -1,10 +1,11 @@
-require('dotenv')
+require("dotenv");
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
+  swcMinify: true,
   experimental: {
-    appDir: true
+    appDir: true,
   },
   images: {
     remotePatterns: [
@@ -13,7 +14,7 @@ const nextConfig = {
         hostname: "**",
       },
     ],
-  }
-}
+  },
+};
 
-module.exports = nextConfig
+module.exports = nextConfig;
