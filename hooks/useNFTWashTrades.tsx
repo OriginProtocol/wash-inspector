@@ -3,39 +3,36 @@
 import { useEffect, useState } from "react";
 import { API_COLLECTIONS_URL } from "../lib/api";
 
-const useCollectionTransactionData = (address: string, tokenId: string) => {
+const useNFTWashTrades = (address: string, tokenId: string) => {
   const [loading, setLoading] = useState(true);
-  const [collectionTransactionData, setCollectionTransactionData] = useState(
-    {}
-  );
+  const [nftWashTrades, setNFTWashTrades] = useState({});
 
   useEffect(() => {
     setLoading(true);
     const fetchTransactions = async () => {
-      let collectionTransactionData = {};
+      let nftWashTrades = {};
       try {
-        const contractStats = await fetch(
-          `api/inspectNft?address=${address}&tokenId=${tokenId}}`
+        const nftData = await fetch(
+          `/api/inspectNft?address=${address}&tokenId=${tokenId}`
         );
-        const contractStatsJson = await contractStats.json();
-        console.log(contractStatsJson);
-        collectionTransactionData = {
-          ...collectionTransactionData,
-          contractStats: contractStatsJson?.stats,
+        const json = await nftData.json();
+        nftWashTrades = {
+          data: json,
+          success: true,
         };
       } catch (e) {
-        collectionTransactionData = {
+        nftWashTrades = {
           success: false,
           error: e,
         };
       }
-      setCollectionTransactionData(collectionTransactionData);
+      setNFTWashTrades(nftWashTrades);
       setLoading(false);
     };
     fetchTransactions();
-  }, [address]);
+  }, [address, tokenId]);
 
-  return { collectionTransactionData, loading };
+  return { nftWashTrades, loading };
 };
 
-export { useCollectionTransactionData };
+export { useNFTWashTrades };

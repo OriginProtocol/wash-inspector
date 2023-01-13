@@ -1,3 +1,5 @@
+"use client";
+
 import { Fragment, useState, useEffect } from "react";
 import SearchCollection from "../src/components/SearchCollection";
 import useNftCollectionMetadata from "../src/hooks/useNftCollectionMetadata";

@@ -28,6 +28,7 @@
     "ethers": "^5.7.2",
     "etherscan-api": "^10.3.0",
     "hardhat": "^2.12.5",
+    "javascript-time-ago": "^2.5.9",
     "lodash": "^4.17.21",
     "next": "13.1.1",
     "postcss": "^8.4.21",

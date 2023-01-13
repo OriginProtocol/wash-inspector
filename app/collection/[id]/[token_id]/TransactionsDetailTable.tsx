@@ -1,8 +1,8 @@
 import type { FunctionComponent } from "react";
-import { useCollectionTransactionData } from "../../../../hooks/useCollectionTransactions";
 
 interface TransactionsDetailTableProps {
   collection: {};
+  tokenId: string;
 }
 
 const fakeTransactions = [
@@ -31,14 +31,7 @@ const fakeTransactions = [
 
 const TransactionsDetailTable: FunctionComponent<
   TransactionsDetailTableProps
-> = ({ collection }) => {
-  const { collectionTransactionData, loading } = useCollectionTransactionData(
-    collection.contractAddress
-  );
-
-  console.log(loading);
-  console.log(collectionTransactionData);
-
+> = ({ collection, tokenId }) => {
   return (
     <div className="overflow-x-auto">
       <table className="table w-full">

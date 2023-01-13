@@ -3,7 +3,7 @@ import Head from "next/head";
 
 interface SeoProps {
   title: string;
-  ogTitle: string;
+  ogTitle?: string;
   description: string;
   contractA?: string;
   contractB?: string;
