@@ -1,0 +1,82 @@
+{
+    "washTradedNfts": [
+        {
+            "tokenId": "2176",
+            "name": "Sappy Seal #2176",
+            "rarity": "6663",
+            "ownedBy": "0xae805B9eaa5A04F307b439484eD881e75D36Ac73",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/2176",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/2176",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/2176",
+            "washTraded": true,
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "2900",
+            "name": "Sappy Seal #2900",
+            "rarity": "4286",
+            "ownedBy": "0xae805B9eaa5A04F307b439484eD881e75D36Ac73",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/2900",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/2900",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/2900",
+            "washTraded": true,
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "9617",
+            "name": "Sappy Seal #9617",
+            "rarity": "5393",
+            "ownedBy": "0xae805B9eaa5A04F307b439484eD881e75D36Ac73",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/9617",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/9617",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/9617",
+            "washTraded": true,
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "536",
+            "name": "RENGA #536",
+            "rarity": "4303",
+            "ownedBy": "0xae805B9eaa5A04F307b439484eD881e75D36Ac73",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x394E3d3044fC89fCDd966D3cb35Ac0B32B0Cda91/md/536",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x394E3d3044fC89fCDd966D3cb35Ac0B32B0Cda91/536",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x394E3d3044fC89fCDd966D3cb35Ac0B32B0Cda91/metadata/536",
+            "washTraded": true,
+            "washTrades": [
+                "back_and_forth"
+            ]
+        },
+        {
+            "tokenId": "6215",
+            "name": "0N1 #6215",
+            "rarity": "7515",
+            "ownedBy": "0xae805B9eaa5A04F307b439484eD881e75D36Ac73",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x3bf2922f4520a8BA0c2eFC3D2a1539678DaD5e9D/md/6215",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x3bf2922f4520a8BA0c2eFC3D2a1539678DaD5e9D/6215",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x3bf2922f4520a8BA0c2eFC3D2a1539678DaD5e9D/metadata/6215",
+            "washTraded": true,
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "6591",
+            "name": "0N1 #6591",
+            "rarity": "4776",
+            "ownedBy": "0xae805B9eaa5A04F307b439484eD881e75D36Ac73",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x3bf2922f4520a8BA0c2eFC3D2a1539678DaD5e9D/md/6591",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x3bf2922f4520a8BA0c2eFC3D2a1539678DaD5e9D/6591",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x3bf2922f4520a8BA0c2eFC3D2a1539678DaD5e9D/metadata/6591",
+            "washTraded": true,
+            "washTrades": [
+                "back_and_forth"
+            ]
+        }
+    ]
+}

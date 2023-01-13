@@ -99,11 +99,7 @@ const Index: NextPage = ({ params: { id, token_id: tokenId } }) => {
             <div className="bg-gray-50 md:px-2 py-3 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-6">
               <dt className="text-sm font-medium text-gray-500">Owned By</dt>
               <dd className="mt-1 text-sm text-gray-900 sm:col-span-2 sm:mt-0">
-                <Link
-                  target="_blank"
-                  className="link"
-                  href={`https://etherscan.io/address/${washDetails.ownedBy}`}
-                >
+                <Link className="link" href={`/wallet/${washDetails.ownedBy}`}>
                   {washDetails.ownedBy}
                 </Link>
               </dd>

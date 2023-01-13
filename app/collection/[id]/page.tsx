@@ -4,10 +4,8 @@ import type { NextPage } from "next";
 import Link from "next/link";
 import type { CollectionWashTradeDetails } from "../../../types/CollectionWashTrade";
 import { Seo } from "../../../ui/Seo";
-import { PageHeader } from "../../../ui/PageHeader";
 import { Breadcrumbs } from "../../../ui/Breadcrumbs";
 import { PageTitle } from "../../../ui/PageTitle";
-import { PageDescription } from "../../../ui/PageDescription";
 import collections from "../../../data/nipCollections";
 import { useCollectionWashTrades } from "../../../hooks/useCollectionWashTrades";
 import { WashedTokensTable } from "./WashedTokensTable";
@@ -34,97 +32,93 @@ const Index: NextPage = ({ params: { id } }) => {
   );
 
   return (
-    <>
-      <div className="container my-12 mx-auto px-4 md:px-12">
-        <Breadcrumbs
-          crumbs={[{ text: collection.title, uri: `/collections/${id}` }]}
-        />
-        <Seo
-          title="NFT Wash Trading Detect0r | Data by Origin Protocol"
-          description="See if wash trading is detected for NFTs in your collection"
-        />
-        <PageTitle>{collection.title}</PageTitle>
-        <div className="-mx-1 lg:-mx-4">
-          <div className="stats shadow my-6">
-            <div className="stat">
-              <div className="stat-figure text-secondary">
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  fill="none"
-                  viewBox="0 0 24 24"
-                  className="inline-block w-8 h-8 stroke-current"
-                >
-                  <path
-                    strokeLinecap="round"
-                    strokeLinejoin="round"
-                    strokeWidth="2"
-                    d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
-                  ></path>
-                </svg>
-              </div>
-              <div className="stat-title">Wash Trades Percentage</div>
-              <div className="stat-value">{washTradesPercentage}%</div>
-              <div className="stat-desc">
-                {details.washTrades} suspicious trades
-              </div>
+    <div className="container my-12 mx-auto px-4 md:px-12">
+      <Breadcrumbs
+        crumbs={[{ text: collection.title, uri: `/collection/${id}` }]}
+      />
+      <Seo
+        title="NFT Wash Trading Detect0r | Data by Origin Protocol"
+        description="See if wash trading is detected for NFTs in your collection"
+      />
+      <PageTitle>{collection.title}</PageTitle>
+      <div className="-mx-1 lg:-mx-4">
+        <div className="stats shadow my-6">
+          <div className="stat">
+            <div className="stat-figure text-secondary">
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                fill="none"
+                viewBox="0 0 24 24"
+                className="inline-block w-8 h-8 stroke-current"
+              >
+                <path
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                  strokeWidth="2"
+                  d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
+                ></path>
+              </svg>
             </div>
-
-            <div className="stat">
-              <div className="stat-figure text-secondary">
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  fill="none"
-                  viewBox="0 0 24 24"
-                  className="inline-block w-8 h-8 stroke-current"
-                >
-                  <path
-                    strokeLinecap="round"
-                    strokeLinejoin="round"
-                    strokeWidth="2"
-                    d="M12 6V4m0 2a2 2 0 100 4m0-4a2 2 0 110 4m-6 8a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4m6 6v10m6-2a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4"
-                  ></path>
-                </svg>
-              </div>
-              <div className="stat-title">Wash Traded NFTs</div>
-              <div className="stat-value">{details.washTradedNfts.length}</div>
-              <div className="stat-desc">suspected wash traded</div>
-            </div>
-
-            <div className="stat">
-              <div className="stat-figure text-secondary">
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  fill="none"
-                  viewBox="0 0 24 24"
-                  className="inline-block w-8 h-8 stroke-current"
-                >
-                  <path
-                    strokeLinecap="round"
-                    strokeLinejoin="round"
-                    strokeWidth="2"
-                    d="M5 8h14M5 8a2 2 0 110-4h14a2 2 0 110 4M5 8v10a2 2 0 002 2h10a2 2 0 002-2V8m-9 4h4"
-                  ></path>
-                </svg>
-              </div>
-              <div className="stat-title">Wash Trade Volume</div>
-              <div className="stat-value">
-                {Math.round(details.washVolume)} ETH
-              </div>
-              <div className="stat-desc">
-                out of {Math.round(details.volume)} ETH (
-                {Math.round((details.washVolume / details.volume) * 100)}%)
-              </div>
+            <div className="stat-title">Wash Trades Percentage</div>
+            <div className="stat-value">{washTradesPercentage}%</div>
+            <div className="stat-desc">
+              {details.washTrades} suspicious trades
             </div>
           </div>
-          <div>
-            <PageSubTitle className="my-4">
-              Suspected Washed Tokens:
-            </PageSubTitle>
-            <WashedTokensTable {...details} />
+
+          <div className="stat">
+            <div className="stat-figure text-secondary">
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                fill="none"
+                viewBox="0 0 24 24"
+                className="inline-block w-8 h-8 stroke-current"
+              >
+                <path
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                  strokeWidth="2"
+                  d="M12 6V4m0 2a2 2 0 100 4m0-4a2 2 0 110 4m-6 8a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4m6 6v10m6-2a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4"
+                ></path>
+              </svg>
+            </div>
+            <div className="stat-title">Wash Traded NFTs</div>
+            <div className="stat-value">{details.washTradedNfts.length}</div>
+            <div className="stat-desc">suspected wash traded</div>
+          </div>
+
+          <div className="stat">
+            <div className="stat-figure text-secondary">
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                fill="none"
+                viewBox="0 0 24 24"
+                className="inline-block w-8 h-8 stroke-current"
+              >
+                <path
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                  strokeWidth="2"
+                  d="M5 8h14M5 8a2 2 0 110-4h14a2 2 0 110 4M5 8v10a2 2 0 002 2h10a2 2 0 002-2V8m-9 4h4"
+                ></path>
+              </svg>
+            </div>
+            <div className="stat-title">Wash Trade Volume</div>
+            <div className="stat-value">
+              {Math.round(details.washVolume)} ETH
+            </div>
+            <div className="stat-desc">
+              out of {Math.round(details.volume)} ETH (
+              {Math.round((details.washVolume / details.volume) * 100)}%)
+            </div>
           </div>
         </div>
+        <div>
+          <PageSubTitle className="my-4">Suspected Washed Tokens:</PageSubTitle>
+          <WashedTokensTable {...details} />
+        </div>
       </div>
-    </>
+    </div>
   );
 };
 

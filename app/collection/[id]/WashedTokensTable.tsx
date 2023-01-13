@@ -86,7 +86,7 @@ const Table: FunctionComponent<TransactionsTableProps> = ({
             <th>
               <span className="badge badge-ghost badge-sm">
                 Owner:{" "}
-                <Link className="link" href="">
+                <Link className="link" href={`/wallet/${nft.ownedBy}`}>
                   {shortenAddress(nft.ownedBy)}
                 </Link>
               </span>
@@ -94,13 +94,15 @@ const Table: FunctionComponent<TransactionsTableProps> = ({
           </tr>
         ))}
       </tbody>
-      <tfoot>
-        <tr>
-          <th>Token</th>
-          <th>Analysis</th>
-          <th>Details</th>
-        </tr>
-      </tfoot>
+      {washTradedNfts.length > 10 && (
+        <tfoot>
+          <tr>
+            <th>Token</th>
+            <th>Analysis</th>
+            <th>Details</th>
+          </tr>
+        </tfoot>
+      )}
     </table>
   );
 };

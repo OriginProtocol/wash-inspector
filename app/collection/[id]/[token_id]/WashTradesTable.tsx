@@ -71,20 +71,14 @@ const WashTradesTable: FunctionComponent<WashTradesProps> = ({
                 <tr key={`${transaction.blockNumber}-${index}`}>
                   <td>{transaction.blockNumber}</td>
                   <td>
-                    <Link
-                      target="_blank"
-                      href={`https://etherscan.io/address/${transaction.from}`}
-                    >
+                    <Link href={`/wallet/${transaction.from}`}>
                       <button className="btn btn-ghost btn-xs">
                         {shortenAddress(transaction.from)}
                       </button>
                     </Link>
                   </td>
                   <td>
-                    <Link
-                      target="_blank"
-                      href={`https://etherscan.io/address/${transaction.to}`}
-                    >
+                    <Link href={`/wallet/${transaction.to}`}>
                       <button className="btn btn-ghost btn-xs">
                         {shortenAddress(transaction.to)}
                       </button>

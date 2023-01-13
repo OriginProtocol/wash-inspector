@@ -1,0 +1,17 @@
+{
+    "washTradedNfts": [
+        {
+            "tokenId": "1876",
+            "name": "Tony Hawk",
+            "rarity": "8856",
+            "ownedBy": "0xeA3b5dE7314496c0E203B60dabA45F385Df1f3Be",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x08E795c30476bac6052b28fcDa04e44792C7151f/md/1876",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x08E795c30476bac6052b28fcDa04e44792C7151f/1876",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x08E795c30476bac6052b28fcDa04e44792C7151f/metadata/1876",
+            "washTraded": true,
+            "washTrades": [
+                "wallets_connected"
+            ]
+        }
+    ]
+}

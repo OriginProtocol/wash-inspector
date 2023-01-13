@@ -1,0 +1,17 @@
+{
+    "washTradedNfts": [
+        {
+            "tokenId": "657",
+            "name": "Moonrunners #657",
+            "rarity": "1435",
+            "ownedBy": "0x5295B32b371abD61b7365C598Cbbf84b20f84Ad5",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x1485297e942ce64E0870EcE60179dFda34b4C625/md/657",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x1485297e942ce64E0870EcE60179dFda34b4C625/657",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x1485297e942ce64E0870EcE60179dFda34b4C625/metadata/657",
+            "washTraded": true,
+            "washTrades": [
+                "back_and_forth"
+            ]
+        }
+    ]
+}

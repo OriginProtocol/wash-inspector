@@ -25,12 +25,12 @@ const Index: NextPage = () => (
       title="NFT Wash Trading Detect0r | Data by Origin Protocol"
       description="See if wash trading is detected for NFTs in your collection"
     />
-    <PageHeader>
+    {/* <PageHeader>
       <PageTitle>NFT Wash Trading Detect0r</PageTitle>
       <PageDescription>
         See if wash trading is detected for NFTs in your collection
       </PageDescription>
-    </PageHeader>
+    </PageHeader> */}
     <section className="space-y-4 mx-auto px-6 mt-12">
       <div className="flex">
         <div className="flex-1 flex-wrap">
@@ -42,7 +42,9 @@ const Index: NextPage = () => (
             Connect your wallet to find out if any of your NFTs have indicators
             of wash trading
           </p>
-          <button className="btn btn-lg">Connect Wallet</button>
+          <Link href="/wallet/0x534c8bC9781a8072b524B853147A69BC6Bf2B552">
+            <button className="btn btn-lg">Connect Wallet</button>
+          </Link>
         </div>
       </div>
     </section>

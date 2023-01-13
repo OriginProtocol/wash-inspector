@@ -1,76 +1,116 @@
 // Next.js API route support: https://nextjs.org/docs/api-routes/introduction
-import type { NextApiRequest, NextApiResponse } from 'next'
-import { transferHistory } from "../../src/data/nftTransactions"
-import useAlchemy from "../../src/hooks/useAlchemy"
-import { uniq } from "lodash"
+import type { NextApiRequest, NextApiResponse } from "next";
+import { transferHistory } from "../../src/data/nftTransactions";
+import useAlchemy from "../../src/hooks/useAlchemy";
+import { uniq } from "lodash";
+import fs from "fs";
 const nftList = require("./nftList.json");
+
+//horrid little hack to make demo faster
+const cache = {};
+
+//tries to read from the walletAnalysis cache dir
+const readCache = async (address) => {
+  try {
+    const data = await fs.promises.readFile(
+      `${process.cwd()}/data/walletAnalysis/${address}.json`,
+      "utf8"
+    );
+    console.log(`Cache hit on ${address}`);
+    return JSON.parse(data);
+  } catch (e) {
+    console.log(`Cache miss on ${address}`);
+    return null;
+  }
+};
+
+const writeCache = async (address, data) => {
+  try {
+    await fs.promises.writeFile(
+      `${process.cwd()}/data/walletAnalysis/${address}.json`,
+      JSON.stringify(data, null, 4)
+    );
+  } catch (e) {
+    console.error(`Failed to write cache for ${address}`, e);
+  }
+};
 
 export default async function handler(
   req: NextApiRequest,
   res: NextApiResponse<Data>
 ) {
   let { address } = req.query;
-  const alchemy = useAlchemy()
-    
-  let nfts = []
-  let pageKey = false
-  let fetches = 0
+  const cached = await readCache(address);
+
+  if (cached) {
+    return res.status(200).json(cached);
+  }
+
+  const alchemy = useAlchemy();
+
+  let nfts = [];
+  let pageKey = false;
+  let fetches = 0;
   do {
-    const opts = {}
+    const opts = {};
     if (pageKey) {
-      opts.pageKey = pageKey
+      opts.pageKey = pageKey;
     }
-    const nftsResponse = await alchemy.nft.getNftsForOwner(address, opts)
+    const nftsResponse = await alchemy.nft.getNftsForOwner(address, opts);
 
-    nfts = [...nfts, ...nftsResponse.ownedNfts]
-    pageKey = nftsResponse.pageKey
-    fetches++
+    nfts = [...nfts, ...nftsResponse.ownedNfts];
+    pageKey = nftsResponse.pageKey;
+    fetches++;
 
-    if(fetches > 10)
-      break;
-  } while (pageKey)
+    if (fetches > 10) break;
+  } while (pageKey);
 
   const batchSize = 20;
-  let batchedPromises = []
-  let washTradedNfts = []
-  
-  for(let i = 0; i < nfts.length; i++) {
+  let batchedPromises = [];
+  let washTradedNfts = [];
+
+  for (let i = 0; i < nfts.length; i++) {
     if (i % 20 === 0) {
-      console.log(`processed ${i}/${nfts.length - 1} items`)
+      console.log(`processed ${i}/${nfts.length - 1} items`);
     }
 
     const nftAddress = nfts[i].contract.address;
     const nftId = nfts[i].tokenId;
 
-    batchedPromises.push(transferHistory(nftAddress, nftId))
+    batchedPromises.push(transferHistory(nftAddress, nftId));
     if (batchedPromises.length >= batchSize || i === nfts.length - 1) {
-      let results = []
+      let results = [];
       try {
-        results = await Promise.all(batchedPromises)
+        results = await Promise.all(batchedPromises);
       } catch (e) {
-        console.error(`Batch at nftId ${i - batchSize}-${i} failed: `, e)
+        console.error(`Batch at nftId ${i - batchSize}-${i} failed: `, e);
         // just skip batch
       }
 
-      batchedPromises = []
+      batchedPromises = [];
 
-      const cleanResults = results.filter(r => r.washTraded === true).map(r => {
-        return {
-          tokenId: r.tokenId,
-          name: r.name,
-          rarity: r.rarity,
-          ownedBy: r.ownedBy,
-          image: r.image,
-          imageSrc: r.imageSrc,
-          metadataSrc: r.metadataSrc,
-          washTraded: r.washTraded,
-          washTrades: uniq(r.washTrades.map(trade => trade.washTradeType))
-        }
-      })
+      const cleanResults = results
+        .filter((r) => r.washTraded === true)
+        .map((r) => {
+          return {
+            tokenId: r.tokenId,
+            name: r.name,
+            rarity: r.rarity,
+            ownedBy: r.ownedBy,
+            image: r.image,
+            imageSrc: r.imageSrc,
+            metadataSrc: r.metadataSrc,
+            washTraded: r.washTraded,
+            washTrades: uniq(r.washTrades.map((trade) => trade.washTradeType)),
+          };
+        });
 
-      washTradedNfts = [...washTradedNfts, ...cleanResults]
+      washTradedNfts = [...washTradedNfts, ...cleanResults];
     }
   }
 
-  res.status(200).json({ washTradedNfts })
+  const data = { washTradedNfts };
+  await writeCache(address, data);
+
+  res.status(200).json(data);
 }
