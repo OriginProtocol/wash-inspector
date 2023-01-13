@@ -7,7 +7,7 @@ import { Seo } from "../../../../ui/Seo";
 import { PageSubTitle } from "../../../../ui/PageSubTitle";
 import { Breadcrumbs } from "../../../../ui/Breadcrumbs";
 import { useNFTWashTrades } from "../../../../hooks/useNFTWashTrades";
-import { WashTradesTable } from "./WashTradesTable";
+import WashTrades from "./WashTrades";
 import collections from "../../../../data/nipCollections";
 
 import { Loading } from "../../../../ui/Loading";
@@ -116,7 +116,7 @@ const Index: NextPage = ({ params: { id, token_id: tokenId } }) => {
           <PageSubTitle className="my-3">
             Recent Suspected Wash Trades
           </PageSubTitle>
-          <WashTradesTable washTrades={washDetails.washTrades} />
+          <WashTrades washTrades={washDetails.washTrades} />
         </div>
       </div>
     </div>

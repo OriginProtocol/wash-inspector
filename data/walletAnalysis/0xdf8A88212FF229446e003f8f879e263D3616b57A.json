@@ -1,0 +1,1864 @@
+{
+    "washTradedNfts": [
+        {
+            "tokenId": "196",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #196",
+            "rarity": "6879",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/196",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/196",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/196",
+            "washTraded": true,
+            "ethPrice": "0.5133",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "204",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #204",
+            "rarity": "6146",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/204",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/204",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/204",
+            "washTraded": true,
+            "ethPrice": "1.17",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "236",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #236",
+            "rarity": "4532",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/236",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/236",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/236",
+            "washTraded": true,
+            "ethPrice": "0.91",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "374",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #374",
+            "rarity": "5528",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/374",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/374",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/374",
+            "washTraded": true,
+            "ethPrice": "1.17",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "379",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #379",
+            "rarity": "2292",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/379",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/379",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/379",
+            "washTraded": true,
+            "ethPrice": "1.15",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "439",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #439",
+            "rarity": "5931",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/439",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/439",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/439",
+            "washTraded": true,
+            "ethPrice": "0.73",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "522",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #522",
+            "rarity": "9275",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/522",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/522",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/522",
+            "washTraded": true,
+            "ethPrice": "0.793",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "638",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #638",
+            "rarity": "6360",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/638",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/638",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/638",
+            "washTraded": true,
+            "ethPrice": "0.389",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "649",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #649",
+            "rarity": "3797",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/649",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/649",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/649",
+            "washTraded": true,
+            "ethPrice": "1.43",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "743",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #743",
+            "rarity": "6557",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/743",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/743",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/743",
+            "washTraded": true,
+            "ethPrice": "1.35",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "1011",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #1011",
+            "rarity": "5295",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/1011",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/1011",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/1011",
+            "washTraded": true,
+            "ethPrice": "0.245",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "1032",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #1032",
+            "rarity": "5844",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/1032",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/1032",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/1032",
+            "washTraded": true,
+            "ethPrice": "0.919",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "1078",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #1078",
+            "rarity": "9066",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/1078",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/1078",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/1078",
+            "washTraded": true,
+            "ethPrice": "0.32",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "1241",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #1241",
+            "rarity": "8370",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/1241",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/1241",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/1241",
+            "washTraded": true,
+            "ethPrice": "0.75",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "1248",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #1248",
+            "rarity": "7508",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/1248",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/1248",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/1248",
+            "washTraded": true,
+            "ethPrice": "0.75",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "1300",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #1300",
+            "rarity": "7019",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/1300",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/1300",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/1300",
+            "washTraded": true,
+            "ethPrice": "2.0",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "1372",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #1372",
+            "rarity": "6655",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/1372",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/1372",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/1372",
+            "washTraded": true,
+            "ethPrice": "0.929",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "1377",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #1377",
+            "rarity": "3618",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/1377",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/1377",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/1377",
+            "washTraded": true,
+            "ethPrice": "0.6399",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "1387",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #1387",
+            "rarity": "5508",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/1387",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/1387",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/1387",
+            "washTraded": true,
+            "ethPrice": "0.38",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "1403",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #1403",
+            "rarity": "5756",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/1403",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/1403",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/1403",
+            "washTraded": true,
+            "ethPrice": "0.7",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "1452",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #1452",
+            "rarity": "2468",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/1452",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/1452",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/1452",
+            "washTraded": true,
+            "ethPrice": "0.19",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "1548",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #1548",
+            "rarity": "6159",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/1548",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/1548",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/1548",
+            "washTraded": true,
+            "ethPrice": "0.95",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "1648",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #1648",
+            "rarity": "1544",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/1648",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/1648",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/1648",
+            "washTraded": true,
+            "ethPrice": "0.95",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "1708",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #1708",
+            "rarity": "4243",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/1708",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/1708",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/1708",
+            "washTraded": true,
+            "ethPrice": "0.72",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "1736",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #1736",
+            "rarity": "2237",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/1736",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/1736",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/1736",
+            "washTraded": true,
+            "ethPrice": "1.6",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "1743",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #1743",
+            "rarity": "9748",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/1743",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/1743",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/1743",
+            "washTraded": true,
+            "ethPrice": "0.285",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "1820",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #1820",
+            "rarity": "6160",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/1820",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/1820",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/1820",
+            "washTraded": true,
+            "ethPrice": "0.879",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "1824",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #1824",
+            "rarity": "5188",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/1824",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/1824",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/1824",
+            "washTraded": true,
+            "ethPrice": "0.9",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "1864",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #1864",
+            "rarity": "7624",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/1864",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/1864",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/1864",
+            "washTraded": true,
+            "ethPrice": "0.24",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "1879",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #1879",
+            "rarity": "7487",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/1879",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/1879",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/1879",
+            "washTraded": true,
+            "ethPrice": "0.789",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "2165",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #2165",
+            "rarity": "4688",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/2165",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/2165",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/2165",
+            "washTraded": true,
+            "ethPrice": "0.87",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "2167",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #2167",
+            "rarity": "8950",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/2167",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/2167",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/2167",
+            "washTraded": true,
+            "ethPrice": "0.95",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "2277",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #2277",
+            "rarity": "7240",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/2277",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/2277",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/2277",
+            "washTraded": true,
+            "ethPrice": "1.78",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "2301",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #2301",
+            "rarity": "5444",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/2301",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/2301",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/2301",
+            "washTraded": true,
+            "ethPrice": "0.69",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "2340",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #2340",
+            "rarity": "5546",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/2340",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/2340",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/2340",
+            "washTraded": true,
+            "ethPrice": "0.48",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "2353",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #2353",
+            "rarity": "1978",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/2353",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/2353",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/2353",
+            "washTraded": true,
+            "ethPrice": "0.98",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "2479",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #2479",
+            "rarity": "3423",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/2479",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/2479",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/2479",
+            "washTraded": true,
+            "ethPrice": "0.8",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "2649",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #2649",
+            "rarity": "8979",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/2649",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/2649",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/2649",
+            "washTraded": true,
+            "ethPrice": "0.888",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "2698",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #2698",
+            "rarity": "218",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/2698",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/2698",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/2698",
+            "washTraded": true,
+            "ethPrice": "1.33",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "2709",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #2709",
+            "rarity": "4618",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/2709",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/2709",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/2709",
+            "washTraded": true,
+            "ethPrice": "1.7",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "2736",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #2736",
+            "rarity": "9751",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/2736",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/2736",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/2736",
+            "washTraded": true,
+            "ethPrice": "0.815",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "2750",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #2750",
+            "rarity": "6067",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/2750",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/2750",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/2750",
+            "washTraded": true,
+            "ethPrice": "0.9",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "2857",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #2857",
+            "rarity": "4788",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/2857",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/2857",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/2857",
+            "washTraded": true,
+            "ethPrice": "0.325",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "3005",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #3005",
+            "rarity": "5202",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/3005",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/3005",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/3005",
+            "washTraded": true,
+            "ethPrice": "0.84",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "3104",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #3104",
+            "rarity": "2890",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/3104",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/3104",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/3104",
+            "washTraded": true,
+            "ethPrice": "1.099",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "3169",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #3169",
+            "rarity": "5599",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/3169",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/3169",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/3169",
+            "washTraded": true,
+            "ethPrice": "0.879",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "3216",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #3216",
+            "rarity": "3395",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/3216",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/3216",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/3216",
+            "washTraded": true,
+            "ethPrice": "1.09",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "3271",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #3271",
+            "rarity": "990",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/3271",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/3271",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/3271",
+            "washTraded": true,
+            "ethPrice": "1.39",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "3274",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #3274",
+            "rarity": "4488",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/3274",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/3274",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/3274",
+            "washTraded": true,
+            "ethPrice": "0.989",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "3347",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #3347",
+            "rarity": "5488",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/3347",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/3347",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/3347",
+            "washTraded": true,
+            "ethPrice": "1.29",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "3475",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #3475",
+            "rarity": "7803",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/3475",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/3475",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/3475",
+            "washTraded": true,
+            "ethPrice": "0.89",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "3530",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #3530",
+            "rarity": "8710",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/3530",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/3530",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/3530",
+            "washTraded": true,
+            "ethPrice": "0.7",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "3633",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #3633",
+            "rarity": "3977",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/3633",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/3633",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/3633",
+            "washTraded": true,
+            "ethPrice": "0.655",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "3701",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #3701",
+            "rarity": "6329",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/3701",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/3701",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/3701",
+            "washTraded": true,
+            "ethPrice": "0.375",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "3720",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #3720",
+            "rarity": "4992",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/3720",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/3720",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/3720",
+            "washTraded": true,
+            "ethPrice": "0.73",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "4014",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #4014",
+            "rarity": "9764",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/4014",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/4014",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/4014",
+            "washTraded": true,
+            "ethPrice": "0.7",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "4065",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #4065",
+            "rarity": "5761",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/4065",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/4065",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/4065",
+            "washTraded": true,
+            "ethPrice": "1.85",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "4535",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #4535",
+            "rarity": "8842",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/4535",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/4535",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/4535",
+            "washTraded": true,
+            "ethPrice": "0.56",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "4737",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #4737",
+            "rarity": "3367",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/4737",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/4737",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/4737",
+            "washTraded": true,
+            "ethPrice": "0.295",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "4806",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #4806",
+            "rarity": "3113",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/4806",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/4806",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/4806",
+            "washTraded": true,
+            "ethPrice": "0.7",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "4812",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #4812",
+            "rarity": "3646",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/4812",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/4812",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/4812",
+            "washTraded": true,
+            "ethPrice": "0.33",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "4874",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #4874",
+            "rarity": "9915",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/4874",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/4874",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/4874",
+            "washTraded": true,
+            "ethPrice": "0.99",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "4905",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #4905",
+            "rarity": "1407",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/4905",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/4905",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/4905",
+            "washTraded": true,
+            "ethPrice": "0.69",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "5077",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #5077",
+            "rarity": "6576",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/5077",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/5077",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/5077",
+            "washTraded": true,
+            "ethPrice": "0.514",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "5581",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #5581",
+            "rarity": "3403",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/5581",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/5581",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/5581",
+            "washTraded": true,
+            "ethPrice": "1.19",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "5589",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #5589",
+            "rarity": "9098",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/5589",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/5589",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/5589",
+            "washTraded": true,
+            "ethPrice": "1.27",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "5634",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #5634",
+            "rarity": "4096",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/5634",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/5634",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/5634",
+            "washTraded": true,
+            "ethPrice": "1.31",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "5646",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #5646",
+            "rarity": "6277",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/5646",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/5646",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/5646",
+            "washTraded": true,
+            "ethPrice": "0.59",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "5697",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #5697",
+            "rarity": "3827",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/5697",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/5697",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/5697",
+            "washTraded": true,
+            "ethPrice": "1.08",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "5844",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #5844",
+            "rarity": "7869",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/5844",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/5844",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/5844",
+            "washTraded": true,
+            "ethPrice": "1.15",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "5929",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #5929",
+            "rarity": "9241",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/5929",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/5929",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/5929",
+            "washTraded": true,
+            "ethPrice": "0.87",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "6037",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #6037",
+            "rarity": "2268",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/6037",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/6037",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/6037",
+            "washTraded": true,
+            "ethPrice": "0.4",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "6100",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #6100",
+            "rarity": "1598",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/6100",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/6100",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/6100",
+            "washTraded": true,
+            "ethPrice": "0.95",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "6239",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #6239",
+            "rarity": "7231",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/6239",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/6239",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/6239",
+            "washTraded": true,
+            "ethPrice": "0.741",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "6290",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #6290",
+            "rarity": "5209",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/6290",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/6290",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/6290",
+            "washTraded": true,
+            "ethPrice": "0.92",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "6376",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #6376",
+            "rarity": "4514",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/6376",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/6376",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/6376",
+            "washTraded": true,
+            "ethPrice": "1.38",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "6551",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #6551",
+            "rarity": "4032",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/6551",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/6551",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/6551",
+            "washTraded": true,
+            "ethPrice": "0.88",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "6615",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #6615",
+            "rarity": "7677",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/6615",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/6615",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/6615",
+            "washTraded": true,
+            "ethPrice": "0.239",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "6636",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #6636",
+            "rarity": "5346",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/6636",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/6636",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/6636",
+            "washTraded": true,
+            "ethPrice": "0.125",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "6681",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #6681",
+            "rarity": "6145",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/6681",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/6681",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/6681",
+            "washTraded": true,
+            "ethPrice": "1.5",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "6840",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #6840",
+            "rarity": "5930",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/6840",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/6840",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/6840",
+            "washTraded": true,
+            "ethPrice": "1.0",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "6871",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #6871",
+            "rarity": "4386",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/6871",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/6871",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/6871",
+            "washTraded": true,
+            "ethPrice": "0.9",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "7024",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #7024",
+            "rarity": "4536",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/7024",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/7024",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/7024",
+            "washTraded": true,
+            "ethPrice": "1.1499",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "7042",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #7042",
+            "rarity": "5042",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/7042",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/7042",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/7042",
+            "washTraded": true,
+            "ethPrice": "1.15",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "7140",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #7140",
+            "rarity": "4116",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/7140",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/7140",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/7140",
+            "washTraded": true,
+            "ethPrice": "0.638",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "7160",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #7160",
+            "rarity": "2913",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/7160",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/7160",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/7160",
+            "washTraded": true,
+            "ethPrice": "0.83",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "7227",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #7227",
+            "rarity": "8270",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/7227",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/7227",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/7227",
+            "washTraded": true,
+            "ethPrice": "0.4689",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "7282",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #7282",
+            "rarity": "9009",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/7282",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/7282",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/7282",
+            "washTraded": true,
+            "ethPrice": "1.03",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "7460",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #7460",
+            "rarity": "1878",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/7460",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/7460",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/7460",
+            "washTraded": true,
+            "ethPrice": "0.5",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "7469",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #7469",
+            "rarity": "4277",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/7469",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/7469",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/7469",
+            "washTraded": true,
+            "ethPrice": "0.4",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "7502",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #7502",
+            "rarity": "8590",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/7502",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/7502",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/7502",
+            "washTraded": true,
+            "ethPrice": "0.8",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "7522",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #7522",
+            "rarity": "1213",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/7522",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/7522",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/7522",
+            "washTraded": true,
+            "ethPrice": "1.7",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "7841",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #7841",
+            "rarity": "8115",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/7841",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/7841",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/7841",
+            "washTraded": true,
+            "ethPrice": "0.349",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "8019",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #8019",
+            "rarity": "7354",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/8019",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/8019",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/8019",
+            "washTraded": true,
+            "ethPrice": "1.35",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "8052",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #8052",
+            "rarity": "4111",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/8052",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/8052",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/8052",
+            "washTraded": true,
+            "ethPrice": "0.69",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "8122",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #8122",
+            "rarity": "4087",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/8122",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/8122",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/8122",
+            "washTraded": true,
+            "ethPrice": "0.565",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "8227",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #8227",
+            "rarity": "166",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/8227",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/8227",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/8227",
+            "washTraded": true,
+            "ethPrice": "2.5",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "8241",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #8241",
+            "rarity": "4106",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/8241",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/8241",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/8241",
+            "washTraded": true,
+            "ethPrice": "0.97",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "8313",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #8313",
+            "rarity": "8974",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/8313",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/8313",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/8313",
+            "washTraded": true,
+            "ethPrice": "0.79",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "8357",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #8357",
+            "rarity": "8997",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/8357",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/8357",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/8357",
+            "washTraded": true,
+            "ethPrice": "0.777",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "8360",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #8360",
+            "rarity": "8185",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/8360",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/8360",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/8360",
+            "washTraded": true,
+            "ethPrice": "0.815",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "8371",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #8371",
+            "rarity": "9739",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/8371",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/8371",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/8371",
+            "washTraded": true,
+            "ethPrice": "0.75",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "8507",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #8507",
+            "rarity": "4421",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/8507",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/8507",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/8507",
+            "washTraded": true,
+            "ethPrice": "0.585",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "8567",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #8567",
+            "rarity": "7166",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/8567",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/8567",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/8567",
+            "washTraded": true,
+            "ethPrice": "1.11",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "8604",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #8604",
+            "rarity": "6148",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/8604",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/8604",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/8604",
+            "washTraded": true,
+            "ethPrice": "0.267",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "8653",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #8653",
+            "rarity": "5835",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/8653",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/8653",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/8653",
+            "washTraded": true,
+            "ethPrice": "0.699",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "8678",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #8678",
+            "rarity": "2495",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/8678",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/8678",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/8678",
+            "washTraded": true,
+            "ethPrice": "0.66",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "8695",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #8695",
+            "rarity": "9345",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/8695",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/8695",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/8695",
+            "washTraded": true,
+            "ethPrice": "1.34",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "8816",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #8816",
+            "rarity": "5070",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/8816",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/8816",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/8816",
+            "washTraded": true,
+            "ethPrice": "0.585",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "9040",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #9040",
+            "rarity": "757",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/9040",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/9040",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/9040",
+            "washTraded": true,
+            "ethPrice": "0.75",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "9046",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #9046",
+            "rarity": "7786",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/9046",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/9046",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/9046",
+            "washTraded": true,
+            "ethPrice": "0.56",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "9090",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #9090",
+            "rarity": "2822",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/9090",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/9090",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/9090",
+            "washTraded": true,
+            "ethPrice": "0.177",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "9128",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #9128",
+            "rarity": "6029",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/9128",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/9128",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/9128",
+            "washTraded": true,
+            "ethPrice": "0.85",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "9187",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #9187",
+            "rarity": "7581",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/9187",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/9187",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/9187",
+            "washTraded": true,
+            "ethPrice": "0.52999999",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "9301",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #9301",
+            "rarity": "8664",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/9301",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/9301",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/9301",
+            "washTraded": true,
+            "ethPrice": "0.46",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "9403",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #9403",
+            "rarity": "8428",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/9403",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/9403",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/9403",
+            "washTraded": true,
+            "ethPrice": "0.76",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "9588",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #9588",
+            "rarity": "4086",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/9588",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/9588",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/9588",
+            "washTraded": true,
+            "ethPrice": "0.7469",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "9597",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #9597",
+            "rarity": "9968",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/9597",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/9597",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/9597",
+            "washTraded": true,
+            "ethPrice": "1.52",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "9632",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #9632",
+            "rarity": "8247",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/9632",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/9632",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/9632",
+            "washTraded": true,
+            "ethPrice": "0.57",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "9644",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #9644",
+            "rarity": "9853",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/9644",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/9644",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/9644",
+            "washTraded": true,
+            "ethPrice": "0.75",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "9656",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #9656",
+            "rarity": "5372",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/9656",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/9656",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/9656",
+            "washTraded": true,
+            "ethPrice": "0.533",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "9888",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #9888",
+            "rarity": "9009",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/9888",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/9888",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/9888",
+            "washTraded": true,
+            "ethPrice": "0.879",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "9893",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #9893",
+            "rarity": "2676",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/9893",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/9893",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/9893",
+            "washTraded": true,
+            "ethPrice": "0.44",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        },
+        {
+            "tokenId": "9972",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
+            "name": "Sappy Seal #9972",
+            "rarity": "9611",
+            "ownedBy": "0xdf8A88212FF229446e003f8f879e263D3616b57A",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/md/9972",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/9972",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/9972",
+            "washTraded": true,
+            "ethPrice": "0.3069",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        }
+    ]
+}
