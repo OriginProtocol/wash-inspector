@@ -11,9 +11,12 @@ const Header: FunctionComponent = () => (
           <Image src={logo} alt="Rinse" width={120} height={30} />
         </Link>
       </div>
-      <div className="flex-none mr-4">
+      <div className="flex-none pr-2 mr-2 text-sm border-r border-gray-500">
+        <Link href="/about">About</Link>
+      </div>
+      <div className="flex-none mr-4 text-sm">
         <p className="text-neutral font-medium">Data by </p>
-        <a
+        <Link
           className="text-black"
           href="https://originprotocol.com"
           title="Origin Protocol"
@@ -26,7 +29,7 @@ const Header: FunctionComponent = () => (
             height={20}
             style={{ width: "80px", height: "20px" }}
           />
-        </a>
+        </Link>
       </div>
       <div className="flex-none gap-2">
         {/* <div className="form-control">

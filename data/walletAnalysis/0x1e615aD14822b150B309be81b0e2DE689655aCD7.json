@@ -1,0 +1,20 @@
+{
+    "washTradedNfts": [
+        {
+            "tokenId": "769",
+            "contractAddress": "0x11450058d796B02EB53e65374be59cFf65d3FE7f",
+            "projectName": "SHIBOSHIS - Official Collection",
+            "name": "#769",
+            "rarity": "9976",
+            "ownedBy": "0x1e615aD14822b150B309be81b0e2DE689655aCD7",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x11450058d796B02EB53e65374be59cFf65d3FE7f/md/769",
+            "imageSrc": "partner-assets-orig/ethereum-1/0x11450058d796B02EB53e65374be59cFf65d3FE7f/769",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x11450058d796B02EB53e65374be59cFf65d3FE7f/metadata/769",
+            "washTraded": true,
+            "ethPrice": "5.0",
+            "washTrades": [
+                "wallets_connected"
+            ]
+        }
+    ]
+}
