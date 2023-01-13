@@ -10,6 +10,7 @@ import collections from "../../../data/nipCollections";
 import { useCollectionWashTrades } from "../../../hooks/useCollectionWashTrades";
 import { WashedTokensTable } from "./WashedTokensTable";
 import { PageSubTitle } from "../../../ui/PageSubTitle";
+import { Loading } from "../../../ui/Loading";
 
 const Index: NextPage = ({ params: { id } }) => {
   const collection = collections.find(
@@ -19,7 +20,7 @@ const Index: NextPage = ({ params: { id } }) => {
   const { loading, collectionWashTrades } = useCollectionWashTrades(id);
 
   if (loading) {
-    return "Loading...";
+    return <Loading />;
   }
 
   console.log(loading);

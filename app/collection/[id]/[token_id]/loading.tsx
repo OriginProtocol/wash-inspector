@@ -1,4 +1,4 @@
-import { Loading } from "../../../ui/Loading";
+import { Loading } from "../../../../ui/Loading";
 
 export default function LoadingPage() {
   return <Loading />;

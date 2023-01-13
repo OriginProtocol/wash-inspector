@@ -7,12 +7,13 @@ import { Breadcrumbs } from "../../../ui/Breadcrumbs";
 import { useWalletWashTrades } from "../../../hooks/useWalletWashTrades";
 import { WashedTokensTable } from "../../collection/[id]/WashedTokensTable";
 import { PageSubTitle } from "../../../ui/PageSubTitle";
+import { Loading } from "../../../ui/Loading";
 
 const Index: NextPage = ({ params: { address } }) => {
   const { loading, walletWashTrades } = useWalletWashTrades(address);
 
   if (loading) {
-    return "Loading...";
+    return <Loading />;
   }
 
   const details: CollectionWashTradeDetails = walletWashTrades?.data;
@@ -23,10 +24,7 @@ const Index: NextPage = ({ params: { address } }) => {
         crumbs={[{ text: `Wallet ${address}`, uri: `/wallet/${address}` }]}
       />
       <PageSubTitle>Wallet</PageSubTitle>
-      <WashedTokensTable
-        contractAddressWithinNFT={true}
-        {...details}
-      />
+      <WashedTokensTable contractAddressWithinNFT={true} {...details} />
     </div>
   );
 };

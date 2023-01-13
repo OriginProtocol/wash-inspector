@@ -10,6 +10,8 @@ import { useNFTWashTrades } from "../../../../hooks/useNFTWashTrades";
 import { WashTradesTable } from "./WashTradesTable";
 import collections from "../../../../data/nipCollections";
 
+import { Loading } from "../../../../ui/Loading";
+
 const Index: NextPage = ({ params: { id, token_id: tokenId } }) => {
   console.log("id: " + id);
   console.log("tokenId: " + tokenId);
@@ -21,7 +23,7 @@ const Index: NextPage = ({ params: { id, token_id: tokenId } }) => {
   );
 
   if (loading) {
-    return null;
+    return <Loading />;
   }
 
   const washDetails: NFTWashDetails = nftWashTrades.data.history;
