@@ -76,7 +76,7 @@ const Stats = ({ trades, volume, washTrades, washVolume }) => (
         {Math.round(washVolume)} ETH
       </div>
       <div className="stat-desc text-secondary">
-        ↗︎ ({Math.round(washVolume / volume)}%)
+        ({Math.round((washVolume / volume) * 100)}%)
       </div>
     </div>
   </div>

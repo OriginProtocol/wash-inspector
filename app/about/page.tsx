@@ -49,7 +49,7 @@ function Features() {
       <div className="mt-20 max-w-lg sm:mx-auto md:max-w-none">
         <div className="space-y-5 mb-10 sm:space-y-4 md:max-w-xl lg:max-w-3xl xl:max-w-none">
           <h2 className="text-3xl font-bold tracking-tight sm:text-4xl">
-            Features
+            How the magic works
           </h2>
           <p className="text-xl text-gray-500">
             A few of the techniques we use to detect wash trading:

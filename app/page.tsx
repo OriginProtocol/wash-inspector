@@ -70,7 +70,7 @@ const Index: NextPage = () => {
         </PageDescription>
       </PageHeader> */}
       <section className="space-y-4 mx-auto px-6 mt-12">
-        <PageTitle className="text-center">Overall Market Stats</PageTitle>
+        <PageTitle className="text-center">NFT Wash Trading</PageTitle>
         <GlobalStats stats={!loading ? homepageNfts.data.result : []} />
       </section>
       <CheckMyNFTs />

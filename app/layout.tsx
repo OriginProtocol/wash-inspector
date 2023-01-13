@@ -28,7 +28,7 @@ export default function RootLayout({
     <html lang="en">
       <head>
         <link rel="stylesheet" href="https://rsms.me/inter/inter.css" />
-        <title>Wash Trade Inspect0r</title>
+        <title>rinse.io | Wash Trade Inspect0r</title>
         <meta name="description" content="" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />

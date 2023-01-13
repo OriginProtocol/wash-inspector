@@ -45,7 +45,7 @@ const GlobalStats: FunctionComponent<GlobalStatsProps> = ({ stats }) => (
       </div>
       <div className="stat-title">Suspicious trades</div>
       <div className="stat-value">
-        {Math.round((stats.totalWashTrades / stats.totalTrades) * 100, 2)}%
+        {Math.round((stats.totalWashTrades / stats.totalTrades) * 100)}%
       </div>
       <div className="stat-desc">↗︎ 12% in the last month</div>
     </div>
@@ -67,7 +67,7 @@ const GlobalStats: FunctionComponent<GlobalStatsProps> = ({ stats }) => (
         </svg>
       </div>
       <div className="stat-title">Total Volume</div>
-      <div className="stat-value">{Math.round(stats.totalVolume, 2)} ETH</div>
+      <div className="stat-value">{Math.round(stats.totalVolume)} ETH</div>
       <div className="stat-desc">total NFT trade volume</div>
     </div>
 
@@ -89,10 +89,10 @@ const GlobalStats: FunctionComponent<GlobalStatsProps> = ({ stats }) => (
       </div>
       <div className="stat-title">Wash Trade Volume</div>
       <div className="stat-value">
-        {Math.round((stats.totalWashVolume / stats.totalVolume) * 100, 2)}%
+        {Math.round((stats.totalWashVolume / stats.totalVolume) * 100)}%
       </div>
       <div className="stat-desc">
-        Percentage of Total Volume that represents was trades
+        Percentage of Total Volume that represents wash trades
       </div>
     </div>
   </div>

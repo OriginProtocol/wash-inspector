@@ -1,0 +1,19 @@
+{
+    "washTradedNfts": [
+        {
+            "tokenId": "3555",
+            "contractAddress": "0xBC4CA0EdA7647A8aB7C2061c2E118A18a936f13D",
+            "name": "#3555",
+            "rarity": "2747",
+            "ownedBy": "0xBe1db1dc16341f7eD608753D94583c458fF4098F",
+            "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBC4CA0EdA7647A8aB7C2061c2E118A18a936f13D/md/3555",
+            "imageSrc": "partner-assets-orig/ethereum-1/0xBC4CA0EdA7647A8aB7C2061c2E118A18a936f13D/3555",
+            "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBC4CA0EdA7647A8aB7C2061c2E118A18a936f13D/metadata/3555",
+            "washTraded": true,
+            "ethPrice": "84.999",
+            "washTrades": [
+                "back_and_forth"
+            ]
+        }
+    ]
+}
