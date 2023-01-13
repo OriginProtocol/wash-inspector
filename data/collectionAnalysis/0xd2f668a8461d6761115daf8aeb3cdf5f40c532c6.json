@@ -1,0 +1,153 @@
+{
+  "trades": 71,
+  "washTrades": 12,
+  "volume": 237.36510000001,
+  "washVolume": 10.6888,
+  "address": "0xd2F668a8461D6761115dAF8Aeb3cDf5F40C532C6",
+  "washTradedNfts": [
+    {
+      "tokenId": "754",
+      "name": "Otan #754",
+      "ownedBy": "0x08FaAee45aA843a601a740ee720458a26c047860",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xd2F668a8461D6761115dAF8Aeb3cDf5F40C532C6/md/754",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xd2F668a8461D6761115dAF8Aeb3cDf5F40C532C6/754",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xd2F668a8461D6761115dAF8Aeb3cDf5F40C532C6/metadata/754",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "1322",
+      "name": "Futo #1322",
+      "ownedBy": "0x88D957ACDC463Cc61a4C5186b4DD9dCc54738960",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xd2F668a8461D6761115dAF8Aeb3cDf5F40C532C6/md/1322",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xd2F668a8461D6761115dAF8Aeb3cDf5F40C532C6/1322",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xd2F668a8461D6761115dAF8Aeb3cDf5F40C532C6/metadata/1322",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "2387",
+      "name": "Uzachi #2387",
+      "ownedBy": "0x9a008BCca303d603A0aAE8D29873710D33257A49",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xd2F668a8461D6761115dAF8Aeb3cDf5F40C532C6/md/2387",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xd2F668a8461D6761115dAF8Aeb3cDf5F40C532C6/2387",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xd2F668a8461D6761115dAF8Aeb3cDf5F40C532C6/metadata/2387",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3379",
+      "name": "Otan #3379",
+      "ownedBy": "0x511F1BCc1F153DbFc589f5688CC3Fce8AD6f3523",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xd2F668a8461D6761115dAF8Aeb3cDf5F40C532C6/md/3379",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xd2F668a8461D6761115dAF8Aeb3cDf5F40C532C6/3379",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xd2F668a8461D6761115dAF8Aeb3cDf5F40C532C6/metadata/3379",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3458",
+      "name": "Kuyaku #3458",
+      "ownedBy": "0xD51Ce9bE4a1cb6185B76Ba825C59236a6Cf5ca2A",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xd2F668a8461D6761115dAF8Aeb3cDf5F40C532C6/md/3458",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xd2F668a8461D6761115dAF8Aeb3cDf5F40C532C6/3458",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xd2F668a8461D6761115dAF8Aeb3cDf5F40C532C6/metadata/3458",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3613",
+      "name": "Ka Rian #3613",
+      "ownedBy": "0x2334Fd2C0010fB428724E31D8cfB0De030b3045C",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xd2F668a8461D6761115dAF8Aeb3cDf5F40C532C6/md/3613",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xd2F668a8461D6761115dAF8Aeb3cDf5F40C532C6/3613",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xd2F668a8461D6761115dAF8Aeb3cDf5F40C532C6/metadata/3613",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3868",
+      "name": "Uzachi #3868",
+      "ownedBy": "0x08461D342c2161997f62E1383Ba32877A3bc50a4",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xd2F668a8461D6761115dAF8Aeb3cDf5F40C532C6/md/3868",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xd2F668a8461D6761115dAF8Aeb3cDf5F40C532C6/3868",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xd2F668a8461D6761115dAF8Aeb3cDf5F40C532C6/metadata/3868",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "4021",
+      "name": "Kuyaku #4021",
+      "ownedBy": "0xe307D2D94c1B84F0171344C2B29c5fdf8e69c0A1",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xd2F668a8461D6761115dAF8Aeb3cDf5F40C532C6/md/4021",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xd2F668a8461D6761115dAF8Aeb3cDf5F40C532C6/4021",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xd2F668a8461D6761115dAF8Aeb3cDf5F40C532C6/metadata/4021",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4137",
+      "name": "Uzachi #4137",
+      "ownedBy": "0x88D957ACDC463Cc61a4C5186b4DD9dCc54738960",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xd2F668a8461D6761115dAF8Aeb3cDf5F40C532C6/md/4137",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xd2F668a8461D6761115dAF8Aeb3cDf5F40C532C6/4137",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xd2F668a8461D6761115dAF8Aeb3cDf5F40C532C6/metadata/4137",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "4202",
+      "name": "Kuyaku #4202",
+      "ownedBy": "0x8Da2bEbE1BE9384AfABeba0Fb4e394163c43AD7F",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xd2F668a8461D6761115dAF8Aeb3cDf5F40C532C6/md/4202",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xd2F668a8461D6761115dAF8Aeb3cDf5F40C532C6/4202",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xd2F668a8461D6761115dAF8Aeb3cDf5F40C532C6/metadata/4202",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "4263",
+      "name": "Shi'rai #4263",
+      "ownedBy": "0x2a29A979a04db21629af5b0f084Ac62Db1b50f42",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xd2F668a8461D6761115dAF8Aeb3cDf5F40C532C6/md/4263",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xd2F668a8461D6761115dAF8Aeb3cDf5F40C532C6/4263",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xd2F668a8461D6761115dAF8Aeb3cDf5F40C532C6/metadata/4263",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4480",
+      "name": "Kiba #4480",
+      "ownedBy": "0xCbCD0df9091eD3707DF4E4a7d6c6Ec09BDd040EC",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xd2F668a8461D6761115dAF8Aeb3cDf5F40C532C6/md/4480",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xd2F668a8461D6761115dAF8Aeb3cDf5F40C532C6/4480",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xd2F668a8461D6761115dAF8Aeb3cDf5F40C532C6/metadata/4480",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    }
+  ]
+}

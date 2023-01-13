@@ -1,0 +1,61 @@
+{
+  "trades": 4,
+  "washTrades": 4,
+  "volume": 0.375,
+  "washVolume": 0.375,
+  "address": "0xFCc57058Ec232a5234D495d95Fb7e593E31756Bd",
+  "washTradedNfts": [
+    {
+      "tokenId": "336",
+      "name": "Praise Pals #336",
+      "rarity": "722",
+      "ownedBy": "0xCAFA2a44C5fe87Deb52779480b689B858f49C29b",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xFCc57058Ec232a5234D495d95Fb7e593E31756Bd/md/336",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xFCc57058Ec232a5234D495d95Fb7e593E31756Bd/336",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xFCc57058Ec232a5234D495d95Fb7e593E31756Bd/metadata/336",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "1150",
+      "name": "Praise Pals #1150",
+      "rarity": "2037",
+      "ownedBy": "0x028B322e9D2A86Eb7517514C827f281d4436C39a",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xFCc57058Ec232a5234D495d95Fb7e593E31756Bd/md/1150",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xFCc57058Ec232a5234D495d95Fb7e593E31756Bd/1150",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xFCc57058Ec232a5234D495d95Fb7e593E31756Bd/metadata/1150",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "1152",
+      "name": "Praise Pals #1152",
+      "rarity": "1955",
+      "ownedBy": "0x076B9095EF620081568853F8E8405DFC5e13695b",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xFCc57058Ec232a5234D495d95Fb7e593E31756Bd/md/1152",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xFCc57058Ec232a5234D495d95Fb7e593E31756Bd/1152",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xFCc57058Ec232a5234D495d95Fb7e593E31756Bd/metadata/1152",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "1348",
+      "name": "Praise Pals #1348",
+      "rarity": "983",
+      "ownedBy": "0x028B322e9D2A86Eb7517514C827f281d4436C39a",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xFCc57058Ec232a5234D495d95Fb7e593E31756Bd/md/1348",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xFCc57058Ec232a5234D495d95Fb7e593E31756Bd/1348",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xFCc57058Ec232a5234D495d95Fb7e593E31756Bd/metadata/1348",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    }
+  ]
+}

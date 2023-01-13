@@ -1,0 +1,22 @@
+{
+  "trades": 4,
+  "washTrades": 2,
+  "volume": 0.0049,
+  "washVolume": 0.002,
+  "address": "0x5fc045f01A83bd0bfa755815cfc1238F6a0f7D1D",
+  "washTradedNfts": [
+    {
+      "tokenId": "5073",
+      "name": "Leveling Up Heroes - PFP #5073",
+      "rarity": "10043",
+      "ownedBy": "0xFB5dA9AAB03806353687010E9A5623b448F555F4",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x5fc045f01A83bd0bfa755815cfc1238F6a0f7D1D/md/5073",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x5fc045f01A83bd0bfa755815cfc1238F6a0f7D1D/5073",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x5fc045f01A83bd0bfa755815cfc1238F6a0f7D1D/metadata/5073",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    }
+  ]
+}

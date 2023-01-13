@@ -1,0 +1,126 @@
+{
+  "trades": 31,
+  "washTrades": 9,
+  "volume": 2.153498,
+  "washVolume": 0.453649,
+  "address": "0x3ed0814bE6C0679A89Ca6Ed323E475ca66a73743",
+  "washTradedNfts": [
+    {
+      "tokenId": "338",
+      "name": "Oscar Haley 338",
+      "rarity": "764",
+      "ownedBy": "0x59dED71c0e0B81432Ba2F399F0F5FB5cF5320545",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x3ed0814bE6C0679A89Ca6Ed323E475ca66a73743/md/338",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x3ed0814bE6C0679A89Ca6Ed323E475ca66a73743/338",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x3ed0814bE6C0679A89Ca6Ed323E475ca66a73743/metadata/338",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "1187",
+      "name": "Oscar Haley 1187",
+      "rarity": "2378",
+      "ownedBy": "0x59dED71c0e0B81432Ba2F399F0F5FB5cF5320545",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x3ed0814bE6C0679A89Ca6Ed323E475ca66a73743/md/1187",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x3ed0814bE6C0679A89Ca6Ed323E475ca66a73743/1187",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x3ed0814bE6C0679A89Ca6Ed323E475ca66a73743/metadata/1187",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "1236",
+      "name": "Oscar Haley 1236",
+      "rarity": "303",
+      "ownedBy": "0x59dED71c0e0B81432Ba2F399F0F5FB5cF5320545",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x3ed0814bE6C0679A89Ca6Ed323E475ca66a73743/md/1236",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x3ed0814bE6C0679A89Ca6Ed323E475ca66a73743/1236",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x3ed0814bE6C0679A89Ca6Ed323E475ca66a73743/metadata/1236",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "1433",
+      "name": "Oscar Haley 1433",
+      "rarity": "1243",
+      "ownedBy": "0x59dED71c0e0B81432Ba2F399F0F5FB5cF5320545",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x3ed0814bE6C0679A89Ca6Ed323E475ca66a73743/md/1433",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x3ed0814bE6C0679A89Ca6Ed323E475ca66a73743/1433",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x3ed0814bE6C0679A89Ca6Ed323E475ca66a73743/metadata/1433",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "1496",
+      "name": "Oscar Haley 1496",
+      "rarity": "2041",
+      "ownedBy": "0x3AEE99F7c9EA441E13A87EFB20911f8E94B1C610",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x3ed0814bE6C0679A89Ca6Ed323E475ca66a73743/md/1496",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x3ed0814bE6C0679A89Ca6Ed323E475ca66a73743/1496",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x3ed0814bE6C0679A89Ca6Ed323E475ca66a73743/metadata/1496",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1497",
+      "name": "Oscar Haley 1497",
+      "rarity": "2564",
+      "ownedBy": "0x4AeDfDCbe1c3f3BF2c5E7cf98cAf7FF12Dbd4882",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x3ed0814bE6C0679A89Ca6Ed323E475ca66a73743/md/1497",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x3ed0814bE6C0679A89Ca6Ed323E475ca66a73743/1497",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x3ed0814bE6C0679A89Ca6Ed323E475ca66a73743/metadata/1497",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "2152",
+      "name": "Oscar Haley 2152",
+      "rarity": "957",
+      "ownedBy": "0x59dED71c0e0B81432Ba2F399F0F5FB5cF5320545",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x3ed0814bE6C0679A89Ca6Ed323E475ca66a73743/md/2152",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x3ed0814bE6C0679A89Ca6Ed323E475ca66a73743/2152",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x3ed0814bE6C0679A89Ca6Ed323E475ca66a73743/metadata/2152",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "2405",
+      "name": "Oscar Haley 2405",
+      "rarity": "2324",
+      "ownedBy": "0xC0938f53861cE90c18631E11d2340f3C7B0e6413",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x3ed0814bE6C0679A89Ca6Ed323E475ca66a73743/md/2405",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x3ed0814bE6C0679A89Ca6Ed323E475ca66a73743/2405",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x3ed0814bE6C0679A89Ca6Ed323E475ca66a73743/metadata/2405",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "2808",
+      "name": "Oscar Haley 2808",
+      "rarity": "1378",
+      "ownedBy": "0xaf54FF1B68F570074f0C0D1E1184dFb23257f993",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x3ed0814bE6C0679A89Ca6Ed323E475ca66a73743/md/2808",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x3ed0814bE6C0679A89Ca6Ed323E475ca66a73743/2808",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x3ed0814bE6C0679A89Ca6Ed323E475ca66a73743/metadata/2808",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    }
+  ]
+}

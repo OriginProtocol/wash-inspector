@@ -1,0 +1,204 @@
+{
+  "trades": 100,
+  "washTrades": 58,
+  "volume": 513.6070166599267,
+  "washVolume": 431.55011999326,
+  "address": "0x518bA36F1ca6DfE3Bb1B098B8dD0444030e79D9f",
+  "washTradedNfts": [
+    {
+      "tokenId": "619",
+      "name": "Wonky Stonk #619",
+      "rarity": "5075",
+      "ownedBy": "0x1433a5f5a2f9576d1c3BB4c09f0FF4A66FCC5267",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x518bA36F1ca6DfE3Bb1B098B8dD0444030e79D9f/md/619",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x518bA36F1ca6DfE3Bb1B098B8dD0444030e79D9f/619",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x518bA36F1ca6DfE3Bb1B098B8dD0444030e79D9f/metadata/619",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "682",
+      "name": "Wonky Stonk #682",
+      "rarity": "5404",
+      "ownedBy": "0x92EC8dFaeCc357C5b44F6f822c3D3ed0a34f0789",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x518bA36F1ca6DfE3Bb1B098B8dD0444030e79D9f/md/682",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x518bA36F1ca6DfE3Bb1B098B8dD0444030e79D9f/682",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x518bA36F1ca6DfE3Bb1B098B8dD0444030e79D9f/metadata/682",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "710",
+      "name": "Wonky Stonk #710",
+      "rarity": "5774",
+      "ownedBy": "0xeB6678D6836456B68Ff62e4fFfFD45Bb546c84D5",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x518bA36F1ca6DfE3Bb1B098B8dD0444030e79D9f/md/710",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x518bA36F1ca6DfE3Bb1B098B8dD0444030e79D9f/710",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x518bA36F1ca6DfE3Bb1B098B8dD0444030e79D9f/metadata/710",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "769",
+      "name": "Wonky Stonk #769",
+      "rarity": "1458",
+      "ownedBy": "0x95D6c79a345c1a3C7B6541a158098c79D9C60546",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x518bA36F1ca6DfE3Bb1B098B8dD0444030e79D9f/md/769",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x518bA36F1ca6DfE3Bb1B098B8dD0444030e79D9f/769",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x518bA36F1ca6DfE3Bb1B098B8dD0444030e79D9f/metadata/769",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "2569",
+      "name": "Wonky Stonk #2569",
+      "rarity": "3029",
+      "ownedBy": "0x1Eef0618341Ba89fDC03b37a33faEE35586042Ef",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x518bA36F1ca6DfE3Bb1B098B8dD0444030e79D9f/md/2569",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x518bA36F1ca6DfE3Bb1B098B8dD0444030e79D9f/2569",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x518bA36F1ca6DfE3Bb1B098B8dD0444030e79D9f/metadata/2569",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3287",
+      "name": "Wonky Stonk #3287",
+      "rarity": "7351",
+      "ownedBy": "0xC746Fe78b267b5cCa0d1B6d3049CBCb9e45CCCd6",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x518bA36F1ca6DfE3Bb1B098B8dD0444030e79D9f/md/3287",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x518bA36F1ca6DfE3Bb1B098B8dD0444030e79D9f/3287",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x518bA36F1ca6DfE3Bb1B098B8dD0444030e79D9f/metadata/3287",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "4515",
+      "name": "Wonky Stonk #4515",
+      "rarity": "7463",
+      "ownedBy": "0x7c764b26BE1bfedC1729AB12fD86815B8093EF69",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x518bA36F1ca6DfE3Bb1B098B8dD0444030e79D9f/md/4515",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x518bA36F1ca6DfE3Bb1B098B8dD0444030e79D9f/4515",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x518bA36F1ca6DfE3Bb1B098B8dD0444030e79D9f/metadata/4515",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "5857",
+      "name": "Wonky Stonk #5857",
+      "rarity": "7300",
+      "ownedBy": "0x6d53C339D2F0Ef9698E77ff5Bc55961BD53e2C5b",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x518bA36F1ca6DfE3Bb1B098B8dD0444030e79D9f/md/5857",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x518bA36F1ca6DfE3Bb1B098B8dD0444030e79D9f/5857",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x518bA36F1ca6DfE3Bb1B098B8dD0444030e79D9f/metadata/5857",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "6199",
+      "name": "Wonky Stonk #6199",
+      "rarity": "6340",
+      "ownedBy": "0x162a64E9988479a960D943418479152c58e0c884",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x518bA36F1ca6DfE3Bb1B098B8dD0444030e79D9f/md/6199",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x518bA36F1ca6DfE3Bb1B098B8dD0444030e79D9f/6199",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x518bA36F1ca6DfE3Bb1B098B8dD0444030e79D9f/metadata/6199",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "7209",
+      "name": "Wonky Stonk #7209",
+      "rarity": "5485",
+      "ownedBy": "0xE10570CF6202Efa21b569dB7A22A859Bb6B5B13C",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x518bA36F1ca6DfE3Bb1B098B8dD0444030e79D9f/md/7209",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x518bA36F1ca6DfE3Bb1B098B8dD0444030e79D9f/7209",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x518bA36F1ca6DfE3Bb1B098B8dD0444030e79D9f/metadata/7209",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "7230",
+      "name": "Wonky Stonk #7230",
+      "rarity": "6029",
+      "ownedBy": "0xF4Fb9FA23edB32215E5284cf7dBfDB5607d51a5b",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x518bA36F1ca6DfE3Bb1B098B8dD0444030e79D9f/md/7230",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x518bA36F1ca6DfE3Bb1B098B8dD0444030e79D9f/7230",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x518bA36F1ca6DfE3Bb1B098B8dD0444030e79D9f/metadata/7230",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "7779",
+      "name": "Wonky Stonk #7779",
+      "rarity": "7596",
+      "ownedBy": "0xb39F3b058148144572c79EBe24b17ba405cE7D9d",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x518bA36F1ca6DfE3Bb1B098B8dD0444030e79D9f/md/7779",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x518bA36F1ca6DfE3Bb1B098B8dD0444030e79D9f/7779",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x518bA36F1ca6DfE3Bb1B098B8dD0444030e79D9f/metadata/7779",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "8028",
+      "name": "Wonky Stonk #8028",
+      "rarity": "3963",
+      "ownedBy": "0x020Cf21cB58942e2c2fa355c4646D61b576e19C0",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x518bA36F1ca6DfE3Bb1B098B8dD0444030e79D9f/md/8028",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x518bA36F1ca6DfE3Bb1B098B8dD0444030e79D9f/8028",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x518bA36F1ca6DfE3Bb1B098B8dD0444030e79D9f/metadata/8028",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "8098",
+      "name": "Wonky Stonk #8098",
+      "rarity": "817",
+      "ownedBy": "0x629ADf41D82B7D98697f0FF5A25fE5C685E38a5F",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x518bA36F1ca6DfE3Bb1B098B8dD0444030e79D9f/md/8098",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x518bA36F1ca6DfE3Bb1B098B8dD0444030e79D9f/8098",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x518bA36F1ca6DfE3Bb1B098B8dD0444030e79D9f/metadata/8098",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "8208",
+      "name": "Wonky Stonk #8208",
+      "rarity": "7782",
+      "ownedBy": "0x9b00D521565307627AcF63abFcEAA19C6bc8ee16",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x518bA36F1ca6DfE3Bb1B098B8dD0444030e79D9f/md/8208",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x518bA36F1ca6DfE3Bb1B098B8dD0444030e79D9f/8208",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x518bA36F1ca6DfE3Bb1B098B8dD0444030e79D9f/metadata/8208",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    }
+  ]
+}

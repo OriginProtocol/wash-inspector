@@ -1,0 +1,334 @@
+{
+  "trades": 103,
+  "washTrades": 25,
+  "volume": 2.8278627999998,
+  "washVolume": 0.6430989999999,
+  "address": "0x532e5EFdeD726C6dDe5228f35d805f531c14B0eB",
+  "washTradedNfts": [
+    {
+      "tokenId": "852",
+      "name": "Cast & Crew  852",
+      "rarity": "1",
+      "ownedBy": "0x5227EC4F558BD83c500E0e9819467d1d7c77fF65",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x532e5EFdeD726C6dDe5228f35d805f531c14B0eB/md/852",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x532e5EFdeD726C6dDe5228f35d805f531c14B0eB/852",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x532e5EFdeD726C6dDe5228f35d805f531c14B0eB/metadata/852",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "952",
+      "name": "Cast & Crew  952",
+      "rarity": "1",
+      "ownedBy": "0x1C2e0D376De9518891a3Ac7a9671E12c2d360cee",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x532e5EFdeD726C6dDe5228f35d805f531c14B0eB/md/952",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x532e5EFdeD726C6dDe5228f35d805f531c14B0eB/952",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x532e5EFdeD726C6dDe5228f35d805f531c14B0eB/metadata/952",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3913",
+      "name": "Cast & Crew  3913",
+      "rarity": "1",
+      "ownedBy": "0x9604B57ef6601A529FD46c25Fe5b4C2b40345922",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x532e5EFdeD726C6dDe5228f35d805f531c14B0eB/md/3913",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x532e5EFdeD726C6dDe5228f35d805f531c14B0eB/3913",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x532e5EFdeD726C6dDe5228f35d805f531c14B0eB/metadata/3913",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3954",
+      "name": "Cast & Crew  3954",
+      "rarity": "1",
+      "ownedBy": "0x5a634098440Af0c1Ee6d5c5c062445280CD3CC53",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x532e5EFdeD726C6dDe5228f35d805f531c14B0eB/md/3954",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x532e5EFdeD726C6dDe5228f35d805f531c14B0eB/3954",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x532e5EFdeD726C6dDe5228f35d805f531c14B0eB/metadata/3954",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3987",
+      "name": "Cast & Crew  3987",
+      "rarity": "1",
+      "ownedBy": "0xFfDA03A768535823F6c7b216e490d58be9BFa22c",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x532e5EFdeD726C6dDe5228f35d805f531c14B0eB/md/3987",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x532e5EFdeD726C6dDe5228f35d805f531c14B0eB/3987",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x532e5EFdeD726C6dDe5228f35d805f531c14B0eB/metadata/3987",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4189",
+      "name": "Cast & Crew  4189",
+      "rarity": "1",
+      "ownedBy": "0x1C2e0D376De9518891a3Ac7a9671E12c2d360cee",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x532e5EFdeD726C6dDe5228f35d805f531c14B0eB/md/4189",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x532e5EFdeD726C6dDe5228f35d805f531c14B0eB/4189",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x532e5EFdeD726C6dDe5228f35d805f531c14B0eB/metadata/4189",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4251",
+      "name": "Cast & Crew  4251",
+      "rarity": "1",
+      "ownedBy": "0x5a634098440Af0c1Ee6d5c5c062445280CD3CC53",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x532e5EFdeD726C6dDe5228f35d805f531c14B0eB/md/4251",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x532e5EFdeD726C6dDe5228f35d805f531c14B0eB/4251",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x532e5EFdeD726C6dDe5228f35d805f531c14B0eB/metadata/4251",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4258",
+      "name": "Cast & Crew  4258",
+      "rarity": "1",
+      "ownedBy": "0x2A79f7236fe739Da701D96561d6dF688f4fb54D2",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x532e5EFdeD726C6dDe5228f35d805f531c14B0eB/md/4258",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x532e5EFdeD726C6dDe5228f35d805f531c14B0eB/4258",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x532e5EFdeD726C6dDe5228f35d805f531c14B0eB/metadata/4258",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4316",
+      "name": "Cast & Crew  4316",
+      "rarity": "1",
+      "ownedBy": "0x3b590598342344096D9a05e3B54891F8A488b9c1",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x532e5EFdeD726C6dDe5228f35d805f531c14B0eB/md/4316",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x532e5EFdeD726C6dDe5228f35d805f531c14B0eB/4316",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x532e5EFdeD726C6dDe5228f35d805f531c14B0eB/metadata/4316",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4473",
+      "name": "Cast & Crew  4473",
+      "rarity": "1",
+      "ownedBy": "0x551545C6aa92Cd6ED0E2fe9487008AC2bD91056A",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x532e5EFdeD726C6dDe5228f35d805f531c14B0eB/md/4473",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x532e5EFdeD726C6dDe5228f35d805f531c14B0eB/4473",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x532e5EFdeD726C6dDe5228f35d805f531c14B0eB/metadata/4473",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4480",
+      "name": "Cast & Crew  4480",
+      "rarity": "1",
+      "ownedBy": "0x551545C6aa92Cd6ED0E2fe9487008AC2bD91056A",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x532e5EFdeD726C6dDe5228f35d805f531c14B0eB/md/4480",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x532e5EFdeD726C6dDe5228f35d805f531c14B0eB/4480",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x532e5EFdeD726C6dDe5228f35d805f531c14B0eB/metadata/4480",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4595",
+      "name": "Cast & Crew  4595",
+      "rarity": "1",
+      "ownedBy": "0x3b590598342344096D9a05e3B54891F8A488b9c1",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x532e5EFdeD726C6dDe5228f35d805f531c14B0eB/md/4595",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x532e5EFdeD726C6dDe5228f35d805f531c14B0eB/4595",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x532e5EFdeD726C6dDe5228f35d805f531c14B0eB/metadata/4595",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4600",
+      "name": "Cast & Crew  4600",
+      "rarity": "1",
+      "ownedBy": "0x3b590598342344096D9a05e3B54891F8A488b9c1",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x532e5EFdeD726C6dDe5228f35d805f531c14B0eB/md/4600",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x532e5EFdeD726C6dDe5228f35d805f531c14B0eB/4600",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x532e5EFdeD726C6dDe5228f35d805f531c14B0eB/metadata/4600",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4711",
+      "name": "Cast & Crew  4711",
+      "rarity": "1",
+      "ownedBy": "0x3b590598342344096D9a05e3B54891F8A488b9c1",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x532e5EFdeD726C6dDe5228f35d805f531c14B0eB/md/4711",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x532e5EFdeD726C6dDe5228f35d805f531c14B0eB/4711",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x532e5EFdeD726C6dDe5228f35d805f531c14B0eB/metadata/4711",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4832",
+      "name": "Cast & Crew  4832",
+      "rarity": "1",
+      "ownedBy": "0x1346108353aEA8559A11189e9d381Ad6d02A86dE",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x532e5EFdeD726C6dDe5228f35d805f531c14B0eB/md/4832",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x532e5EFdeD726C6dDe5228f35d805f531c14B0eB/4832",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x532e5EFdeD726C6dDe5228f35d805f531c14B0eB/metadata/4832",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "5221",
+      "name": "Cast & Crew  5221",
+      "rarity": "1",
+      "ownedBy": "0x3b590598342344096D9a05e3B54891F8A488b9c1",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x532e5EFdeD726C6dDe5228f35d805f531c14B0eB/md/5221",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x532e5EFdeD726C6dDe5228f35d805f531c14B0eB/5221",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x532e5EFdeD726C6dDe5228f35d805f531c14B0eB/metadata/5221",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "5434",
+      "name": "Cast & Crew  5434",
+      "rarity": "1",
+      "ownedBy": "0x1b5CA9cebEAa146307dCf4fa98C6D1227EdB1455",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x532e5EFdeD726C6dDe5228f35d805f531c14B0eB/md/5434",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x532e5EFdeD726C6dDe5228f35d805f531c14B0eB/5434",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x532e5EFdeD726C6dDe5228f35d805f531c14B0eB/metadata/5434",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "5457",
+      "name": "Cast & Crew  5457",
+      "rarity": "1",
+      "ownedBy": "0x3b590598342344096D9a05e3B54891F8A488b9c1",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x532e5EFdeD726C6dDe5228f35d805f531c14B0eB/md/5457",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x532e5EFdeD726C6dDe5228f35d805f531c14B0eB/5457",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x532e5EFdeD726C6dDe5228f35d805f531c14B0eB/metadata/5457",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "5459",
+      "name": "Cast & Crew  5459",
+      "rarity": "1",
+      "ownedBy": "0x3b590598342344096D9a05e3B54891F8A488b9c1",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x532e5EFdeD726C6dDe5228f35d805f531c14B0eB/md/5459",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x532e5EFdeD726C6dDe5228f35d805f531c14B0eB/5459",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x532e5EFdeD726C6dDe5228f35d805f531c14B0eB/metadata/5459",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "5465",
+      "name": "Cast & Crew  5465",
+      "rarity": "1",
+      "ownedBy": "0x3b590598342344096D9a05e3B54891F8A488b9c1",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x532e5EFdeD726C6dDe5228f35d805f531c14B0eB/md/5465",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x532e5EFdeD726C6dDe5228f35d805f531c14B0eB/5465",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x532e5EFdeD726C6dDe5228f35d805f531c14B0eB/metadata/5465",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "5468",
+      "name": "Cast & Crew  5468",
+      "rarity": "1",
+      "ownedBy": "0x3b590598342344096D9a05e3B54891F8A488b9c1",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x532e5EFdeD726C6dDe5228f35d805f531c14B0eB/md/5468",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x532e5EFdeD726C6dDe5228f35d805f531c14B0eB/5468",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x532e5EFdeD726C6dDe5228f35d805f531c14B0eB/metadata/5468",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "5525",
+      "name": "Cast & Crew  5525",
+      "rarity": "1",
+      "ownedBy": "0x3b590598342344096D9a05e3B54891F8A488b9c1",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x532e5EFdeD726C6dDe5228f35d805f531c14B0eB/md/5525",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x532e5EFdeD726C6dDe5228f35d805f531c14B0eB/5525",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x532e5EFdeD726C6dDe5228f35d805f531c14B0eB/metadata/5525",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "5531",
+      "name": "Cast & Crew  5531",
+      "rarity": "1",
+      "ownedBy": "0x3b590598342344096D9a05e3B54891F8A488b9c1",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x532e5EFdeD726C6dDe5228f35d805f531c14B0eB/md/5531",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x532e5EFdeD726C6dDe5228f35d805f531c14B0eB/5531",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x532e5EFdeD726C6dDe5228f35d805f531c14B0eB/metadata/5531",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "5532",
+      "name": "Cast & Crew  5532",
+      "rarity": "1",
+      "ownedBy": "0x3b590598342344096D9a05e3B54891F8A488b9c1",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x532e5EFdeD726C6dDe5228f35d805f531c14B0eB/md/5532",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x532e5EFdeD726C6dDe5228f35d805f531c14B0eB/5532",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x532e5EFdeD726C6dDe5228f35d805f531c14B0eB/metadata/5532",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "5533",
+      "name": "Cast & Crew  5533",
+      "rarity": "1",
+      "ownedBy": "0x3b590598342344096D9a05e3B54891F8A488b9c1",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x532e5EFdeD726C6dDe5228f35d805f531c14B0eB/md/5533",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x532e5EFdeD726C6dDe5228f35d805f531c14B0eB/5533",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x532e5EFdeD726C6dDe5228f35d805f531c14B0eB/metadata/5533",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    }
+  ]
+}

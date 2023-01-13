@@ -1,0 +1,1078 @@
+{
+  "trades": 1425,
+  "washTrades": 217,
+  "volume": 3117.227364514476,
+  "washVolume": 605.4736275953314,
+  "address": "0xBd3531dA5CF5857e7CfAA92426877b022e612cf8",
+  "washTradedNfts": [
+    {
+      "tokenId": "77",
+      "name": "Pudgy Penguin #77",
+      "ownedBy": "0xb11F28625205b9d01c362867B7C1D1a87414f10C",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/77",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/77",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/77",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "78",
+      "name": "Pudgy Penguin #78",
+      "ownedBy": "0x2Fb49280b8e5Fc04fC290eBaBE964c821Daa0444",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/78",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/78",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/78",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "176",
+      "name": "Pudgy Penguin #176",
+      "ownedBy": "0x539631FF5C7FEA110fEf2b026CCd36c2109B8069",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/176",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/176",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/176",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "269",
+      "name": "Pudgy Penguin #269",
+      "ownedBy": "0x96f4C79B32133DF39314fe3f0cac691C6B4c0216",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/269",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/269",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/269",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "274",
+      "name": "Pudgy Penguin #274",
+      "ownedBy": "0x8aBe1E966046Ce636eEe6b57136432db35f5722B",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/274",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/274",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/274",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "286",
+      "name": "Pudgy Penguin #286",
+      "ownedBy": "0x7FEe302A14D6B945c0EB6dA9C4426c8D75d38a73",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/286",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/286",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/286",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "292",
+      "name": "Pudgy Penguin #292",
+      "ownedBy": "0xf8808396A568b7889Ed5207c6201467F88Ea2Dc7",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/292",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/292",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/292",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "320",
+      "name": "Pudgy Penguin #320",
+      "ownedBy": "0x125442956d5e34ee274253A0F32354b945aCf656",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/320",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/320",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/320",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "342",
+      "name": "Pudgy Penguin #342",
+      "ownedBy": "0xA798dfb161176645b441F2DC262f6EB5dC5E255c",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/342",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/342",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/342",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "744",
+      "name": "Pudgy Penguin #744",
+      "ownedBy": "0xc475c0Af0B199239f8162bB5EA71B80d0687ecc1",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/744",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/744",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/744",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "866",
+      "name": "Pudgy Penguin #866",
+      "ownedBy": "0xc6C8AeCb1d9cA59A09d691cDa8539992655dbfB3",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/866",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/866",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/866",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "885",
+      "name": "Pudgy Penguin #885",
+      "ownedBy": "0x30FDe8f77e9C13CB92DF87E99a6e5D5B1A4dfFf6",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/885",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/885",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/885",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1031",
+      "name": "Pudgy Penguin #1031",
+      "ownedBy": "0xB3F039c970bcCF6Bc8b7e2f0C56c517287274531",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/1031",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/1031",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/1031",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1159",
+      "name": "Pudgy Penguin #1159",
+      "ownedBy": "0x5480259E435Fa36E098601525aA1D60Defd43a2F",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/1159",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/1159",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/1159",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "1311",
+      "name": "Pudgy Penguin #1311",
+      "ownedBy": "0x0F9027Bac736804CfC68C0246F6283C4851D43b8",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/1311",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/1311",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/1311",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1362",
+      "name": "Pudgy Penguin #1362",
+      "ownedBy": "0x4182A46C61C3EE40E61304F8B419F813Eeced3b4",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/1362",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/1362",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/1362",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "1421",
+      "name": "Pudgy Penguin #1421",
+      "ownedBy": "0x8694157aD12505792703749874C83C4F5c7b24ED",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/1421",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/1421",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/1421",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "1454",
+      "name": "Pudgy Penguin #1454",
+      "ownedBy": "0x55016D5d800b17f18244f94817E81B7F88f86c3a",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/1454",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/1454",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/1454",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "1835",
+      "name": "Pudgy Penguin #1835",
+      "ownedBy": "0xAbeA7663c472648d674bd3403D94C858dFeEF728",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/1835",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/1835",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/1835",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "1974",
+      "name": "Pudgy Penguin #1974",
+      "ownedBy": "0xE86CDc213Cb6f722099F2cd5776fAB9f091fa96C",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/1974",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/1974",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/1974",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "2042",
+      "name": "Pudgy Penguin #2042",
+      "ownedBy": "0x11e2d827B12ae5796d4FDE6F6429dc2b2F4bF6a5",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/2042",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/2042",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/2042",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "2086",
+      "name": "Pudgy Penguin #2086",
+      "ownedBy": "0x49465b8f1F84F18949c4064C33a6a5345360eFcf",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/2086",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/2086",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/2086",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "2095",
+      "name": "Pudgy Penguin #2095",
+      "ownedBy": "0xBEac51D7B236cd18F18B499Bd97719bfD7907913",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/2095",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/2095",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/2095",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "2109",
+      "name": "Pudgy Penguin #2109",
+      "ownedBy": "0x28473085Ba4aa761Eb541914F50A75Dd685cD47b",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/2109",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/2109",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/2109",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "2166",
+      "name": "Pudgy Penguin #2166",
+      "ownedBy": "0xE22d7289F631cB9533894B478Ead30E1777C5482",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/2166",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/2166",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/2166",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "2206",
+      "name": "Pudgy Penguin #2206",
+      "ownedBy": "0x4341d88e8B4Af27b35f0d1a39c002562739A12d8",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/2206",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/2206",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/2206",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "2219",
+      "name": "Pudgy Penguin #2219",
+      "ownedBy": "0x20b38b163765c3a9afEF81781F06cae22Fef3290",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/2219",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/2219",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/2219",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "2229",
+      "name": "Pudgy Penguin #2229",
+      "ownedBy": "0x1BD330dd2cd274166B9eeC79ea7A8A0Faa729889",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/2229",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/2229",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/2229",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "2430",
+      "name": "Pudgy Penguin #2430",
+      "ownedBy": "0xE9827e11ED5E27eD7Dea736D13e49cbabA0a4555",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/2430",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/2430",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/2430",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "2481",
+      "name": "Pudgy Penguin #2481",
+      "ownedBy": "0x4182A46C61C3EE40E61304F8B419F813Eeced3b4",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/2481",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/2481",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/2481",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "2552",
+      "name": "Pudgy Penguin #2552",
+      "ownedBy": "0xEF30fA2138A725523451688279b11216B0505E98",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/2552",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/2552",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/2552",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "2560",
+      "name": "Pudgy Penguin #2560",
+      "ownedBy": "0x490ba9A1054d1ADbB121b2120612A4ac3A8897d7",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/2560",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/2560",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/2560",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected",
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "2625",
+      "name": "Pudgy Penguin #2625",
+      "ownedBy": "0x370BE233673e88171aB834505e7a75203178392D",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/2625",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/2625",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/2625",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "2697",
+      "name": "Pudgy Penguin #2697",
+      "ownedBy": "0x49da297A5b24248d01702E938005888DE4eE743f",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/2697",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/2697",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/2697",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "2727",
+      "name": "Pudgy Penguin #2727",
+      "ownedBy": "0x6E2895DA30af2c11192A8A5C220aB95AF770A1bE",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/2727",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/2727",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/2727",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "2951",
+      "name": "Pudgy Penguin #2951",
+      "ownedBy": "0xe1D29d0a39962a9a8d2A297ebe82e166F8b8EC18",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/2951",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/2951",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/2951",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "2965",
+      "name": "Pudgy Penguin #2965",
+      "ownedBy": "0xE5Fd9dD5849481D055CeE0F95A2f48388a876c7f",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/2965",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/2965",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/2965",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3135",
+      "name": "Pudgy Penguin #3135",
+      "ownedBy": "0xd6221c879A0870be7F6e6e8F85E90519341259Ca",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/3135",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/3135",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/3135",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3160",
+      "name": "Pudgy Penguin #3160",
+      "ownedBy": "0xbc95E7387236515c9350Faa9f561BB54bC14094B",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/3160",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/3160",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/3160",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "3316",
+      "name": "Pudgy Penguin #3316",
+      "ownedBy": "0x5112D251de57a57aFE8115c4aB76AF684604860C",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/3316",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/3316",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/3316",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "3321",
+      "name": "Pudgy Penguin #3321",
+      "ownedBy": "0xAbeA7663c472648d674bd3403D94C858dFeEF728",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/3321",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/3321",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/3321",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "3405",
+      "name": "Pudgy Penguin #3405",
+      "ownedBy": "0xe12de32DeC9C657183220e8F373dE3F410850829",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/3405",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/3405",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/3405",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "3566",
+      "name": "Pudgy Penguin #3566",
+      "ownedBy": "0x611c67EC71202613DA55D00dDC04cCdB02060Fcc",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/3566",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/3566",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/3566",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "3577",
+      "name": "Pudgy Penguin #3577",
+      "ownedBy": "0xAbeA7663c472648d674bd3403D94C858dFeEF728",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/3577",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/3577",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/3577",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3600",
+      "name": "Pudgy Penguin #3600",
+      "ownedBy": "0x1fF2875cd548EEAe6d22f26bae2D72a50fd143c7",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/3600",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/3600",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/3600",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3624",
+      "name": "Pudgy Penguin #3624",
+      "ownedBy": "0xeaC4824EecC66901Ef40309CB3a4939CfF57FFb9",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/3624",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/3624",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/3624",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3655",
+      "name": "Pudgy Penguin #3655",
+      "ownedBy": "0xDcBAc4d63cb97a6E075fE77E75B06c691D75eBc0",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/3655",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/3655",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/3655",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "3824",
+      "name": "Pudgy Penguin #3824",
+      "ownedBy": "0x7c9C351beb90e27aAf4CCB7a0c4687beBb918f0c",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/3824",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/3824",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/3824",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3896",
+      "name": "Pudgy Penguin #3896",
+      "ownedBy": "0xD3480DBA9a6E999C3B404D5858e76Ed44eB31D4C",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/3896",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/3896",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/3896",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "3915",
+      "name": "Pudgy Penguin #3915",
+      "ownedBy": "0x6BD4A30fbd75B3ffb1B249f3c12AfB9AB233fb48",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/3915",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/3915",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/3915",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4046",
+      "name": "Pudgy Penguin #4046",
+      "ownedBy": "0x8252Df1d8b29057d1Afe3062bf5a64D503152BC8",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/4046",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/4046",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/4046",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4719",
+      "name": "Pudgy Penguin #4719",
+      "ownedBy": "0x4A7B4B2C5be04755b1A9dfEb3990791AE8E38715",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/4719",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/4719",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/4719",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4751",
+      "name": "Pudgy Penguin #4751",
+      "ownedBy": "0x4182A46C61C3EE40E61304F8B419F813Eeced3b4",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/4751",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/4751",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/4751",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4759",
+      "name": "Pudgy Penguin #4759",
+      "ownedBy": "0x01482F571aAD88170391FAF1aFC66F7c54F825f4",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/4759",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/4759",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/4759",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "5009",
+      "name": "Pudgy Penguin #5009",
+      "ownedBy": "0xAbeA7663c472648d674bd3403D94C858dFeEF728",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/5009",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/5009",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/5009",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "5061",
+      "name": "Pudgy Penguin #5061",
+      "ownedBy": "0x5e9B8c326Cb82F7E1Fb6fefb98110509b76e67Ce",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/5061",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/5061",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/5061",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "5075",
+      "name": "Pudgy Penguin #5075",
+      "ownedBy": "0x0b268ed6C35b187E781dBe92D02BA78fbC2ab9b7",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/5075",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/5075",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/5075",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "5106",
+      "name": "Pudgy Penguin #5106",
+      "ownedBy": "0x4182A46C61C3EE40E61304F8B419F813Eeced3b4",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/5106",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/5106",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/5106",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "5131",
+      "name": "Pudgy Penguin #5131",
+      "ownedBy": "0x96f4C79B32133DF39314fe3f0cac691C6B4c0216",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/5131",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/5131",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/5131",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "5253",
+      "name": "Pudgy Penguin #5253",
+      "ownedBy": "0xc31A05dDDC0d0E26435272DA42E39663c1d97A47",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/5253",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/5253",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/5253",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "5296",
+      "name": "Pudgy Penguin #5296",
+      "ownedBy": "0xa3f4F81D8c0bF274109Ee6bcF8EF9F8aC6Efe556",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/5296",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/5296",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/5296",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "5357",
+      "name": "Pudgy Penguin #5357",
+      "ownedBy": "0xc39372B6D61b7E7038296ff91A91351Ab3b1df51",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/5357",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/5357",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/5357",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "5480",
+      "name": "Pudgy Penguin #5480",
+      "ownedBy": "0x73E9f9099497Dd0593C95BBc534bdc30FD19fA86",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/5480",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/5480",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/5480",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "5572",
+      "name": "Pudgy Penguin #5572",
+      "ownedBy": "0x1552102DC5017316f4192A3D9608bA95e9FC3793",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/5572",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/5572",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/5572",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "5787",
+      "name": "Pudgy Penguin #5787",
+      "ownedBy": "0x980738B58E5890D510D1250F26ecA993839A6F18",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/5787",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/5787",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/5787",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "5917",
+      "name": "Pudgy Penguin #5917",
+      "ownedBy": "0x6e3825E5F129427548F6f1D57ed3352c7A147416",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/5917",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/5917",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/5917",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "5954",
+      "name": "Pudgy Penguin #5954",
+      "ownedBy": "0x1552102DC5017316f4192A3D9608bA95e9FC3793",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/5954",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/5954",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/5954",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "5963",
+      "name": "Pudgy Penguin #5963",
+      "ownedBy": "0xC1BD21eCd832ef3c3b1a393a0D66dD2B92c0a944",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/5963",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/5963",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/5963",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "6238",
+      "name": "Pudgy Penguin #6238",
+      "ownedBy": "0x62981B71aC64e667977E0F9BAf56bB9b90940138",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/6238",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/6238",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/6238",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "6314",
+      "name": "Pudgy Penguin #6314",
+      "ownedBy": "0xd67b3B5A22b864A2a6671BC9f1cb5E17109442a2",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/6314",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/6314",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/6314",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "6407",
+      "name": "Pudgy Penguin #6407",
+      "ownedBy": "0x0dA31E622c4Ef5202f7724d23123A62Ea1404F64",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/6407",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/6407",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/6407",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "6512",
+      "name": "Pudgy Penguin #6512",
+      "ownedBy": "0x6e1d9ac48F065Dd02997e5dA3f0e2DFD9687cB9F",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/6512",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/6512",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/6512",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "6778",
+      "name": "Pudgy Penguin #6778",
+      "ownedBy": "0x93107B8D1E61d0be1555e0a095de1647ae5f54b2",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/6778",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/6778",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/6778",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "6812",
+      "name": "Pudgy Penguin #6812",
+      "ownedBy": "0x2f1C5D621120ecB0DA579DF7C06633E56D9C31E7",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/6812",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/6812",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/6812",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "6903",
+      "name": "Pudgy Penguin #6903",
+      "ownedBy": "0x796b157C2A4F01663934B04cC11E61a920711D32",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/6903",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/6903",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/6903",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "7007",
+      "name": "Pudgy Penguin #7007",
+      "ownedBy": "0xE0d751fC845fA0191dA155787Fc62C56490e8686",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/7007",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/7007",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/7007",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "7127",
+      "name": "Pudgy Penguin #7127",
+      "ownedBy": "0x51b384872428FB424d8E193ee8733e960a9256E0",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/7127",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/7127",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/7127",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "7220",
+      "name": "Pudgy Penguin #7220",
+      "ownedBy": "0xA68b320fC23979207a5C68Ad80FB538885e33873",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/7220",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/7220",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/7220",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "7287",
+      "name": "Pudgy Penguin #7287",
+      "ownedBy": "0xBDC2F65bd40cc952fDb4243f8Bb311159856209B",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/7287",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/7287",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/7287",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "7309",
+      "name": "Pudgy Penguin #7309",
+      "ownedBy": "0xCCdeAD94E8cF17de32044d9701c4F5668ad0bEf9",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/7309",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/7309",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/7309",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "7400",
+      "name": "Pudgy Penguin #7400",
+      "ownedBy": "0xC46bfD225AD359f78C7fE84D50619977c6B7f318",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/7400",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/7400",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/7400",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "7459",
+      "name": "Pudgy Penguin #7459",
+      "ownedBy": "0xaf54FF1B68F570074f0C0D1E1184dFb23257f993",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/7459",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/7459",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/7459",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "7517",
+      "name": "Pudgy Penguin #7517",
+      "ownedBy": "0xfCe8Bed4327cB94981fbcBcF396F41431ae14039",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/7517",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/7517",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/7517",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "7778",
+      "name": "Pudgy Penguin #7778",
+      "ownedBy": "0x3df6c1D54ad103233B3c74a12042f67239d69f70",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/7778",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/7778",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/7778",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "7993",
+      "name": "Pudgy Penguin #7993",
+      "ownedBy": "0xC4AEa4B4f86Fbb0B1CBD92c60Ec9eA57494b8aE1",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/7993",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/7993",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/7993",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "8232",
+      "name": "Pudgy Penguin #8232",
+      "ownedBy": "0x160Cf3c2cE2FaF723A50A616D334A0cE92630398",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/8232",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/8232",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/8232",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "8641",
+      "name": "Pudgy Penguin #8641",
+      "ownedBy": "0xcE070617FF2F135bCE5Dcb336d5b0B6f70864cfe",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/8641",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/8641",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/8641",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "8667",
+      "name": "Pudgy Penguin #8667",
+      "ownedBy": "0x8D5c7D8eb3858249BA51c2a43d1fA74E0396d5C4",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/8667",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/8667",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/8667",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "8779",
+      "name": "Pudgy Penguin #8779",
+      "ownedBy": "0x7FEe302A14D6B945c0EB6dA9C4426c8D75d38a73",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/md/8779",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/8779",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/metadata/8779",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    }
+  ]
+}

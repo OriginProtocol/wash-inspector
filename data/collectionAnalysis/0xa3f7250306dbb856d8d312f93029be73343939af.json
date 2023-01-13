@@ -1,0 +1,22 @@
+{
+  "trades": 5,
+  "washTrades": 1,
+  "volume": 0.2275,
+  "washVolume": 0.04496,
+  "address": "0xA3F7250306Dbb856D8d312f93029be73343939aF",
+  "washTradedNfts": [
+    {
+      "tokenId": "3289",
+      "name": "Sheep #3289",
+      "rarity": "1",
+      "ownedBy": "0xD236E36debb1df698EbAa178B3009fE9a7fC1db1",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xA3F7250306Dbb856D8d312f93029be73343939aF/md/3289",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xA3F7250306Dbb856D8d312f93029be73343939aF/3289",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xA3F7250306Dbb856D8d312f93029be73343939aF/metadata/3289",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    }
+  ]
+}

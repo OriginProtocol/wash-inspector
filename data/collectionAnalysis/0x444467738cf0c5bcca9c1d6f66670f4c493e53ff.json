@@ -1,0 +1,48 @@
+{
+  "trades": 9,
+  "washTrades": 3,
+  "volume": 1.17169,
+  "washVolume": 0.52,
+  "address": "0x444467738cf0c5bcCa9C1d6F66670F4c493E53fF",
+  "washTradedNfts": [
+    {
+      "tokenId": "1097",
+      "name": "Foxy #1097",
+      "rarity": "79",
+      "ownedBy": "0x0DeBa57F372dee1A023F240dEF3ec06515f94e3A",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x444467738cf0c5bcCa9C1d6F66670F4c493E53fF/md/1097",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x444467738cf0c5bcCa9C1d6F66670F4c493E53fF/1097",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x444467738cf0c5bcCa9C1d6F66670F4c493E53fF/metadata/1097",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "1559",
+      "name": "Foxy #1559",
+      "rarity": "2970",
+      "ownedBy": "0xCe4a728131A435d7Ef4F5c48B2f28a26206ab123",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x444467738cf0c5bcCa9C1d6F66670F4c493E53fF/md/1559",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x444467738cf0c5bcCa9C1d6F66670F4c493E53fF/1559",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x444467738cf0c5bcCa9C1d6F66670F4c493E53fF/metadata/1559",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "2683",
+      "name": "Foxy #2683",
+      "rarity": "907",
+      "ownedBy": "0xe1C05f90F8dB55F81aFf56A3e394C6bFB1E8A48b",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x444467738cf0c5bcCa9C1d6F66670F4c493E53fF/md/2683",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x444467738cf0c5bcCa9C1d6F66670F4c493E53fF/2683",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x444467738cf0c5bcCa9C1d6F66670F4c493E53fF/metadata/2683",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1650 @@
+{
+  "trades": 947,
+  "washTrades": 197,
+  "volume": 10684.705098114355,
+  "washVolume": 2936.754977653115,
+  "address": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+  "washTradedNfts": [
+    {
+      "tokenId": "303",
+      "name": "Azuki #303",
+      "rarity": "6266",
+      "ownedBy": "0x5fbe01E5882e835954B3ba42D60E1ad75796de1a",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/303",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/303",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/303",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "337",
+      "name": "Azuki #337",
+      "rarity": "9670",
+      "ownedBy": "0xfBC76261FD55cF91b81a97dbcc2B3F6118f2B935",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/337",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/337",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/337",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "444",
+      "name": "Azuki #444",
+      "rarity": "3968",
+      "ownedBy": "0xd46C8648F2ac4Ce1A1aace620460fbd24F640853",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/444",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/444",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/444",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected",
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "584",
+      "name": "Azuki #584",
+      "rarity": "4762",
+      "ownedBy": "0x0022Ca93baD8b263d0ABbe850fB53315C2998301",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/584",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/584",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/584",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "598",
+      "name": "Azuki #598",
+      "rarity": "281",
+      "ownedBy": "0x5600fFF97314dF41eC057B352E0A6061bfFE3C4a",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/598",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/598",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/598",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "699",
+      "name": "Azuki #699",
+      "rarity": "3472",
+      "ownedBy": "0x636a1ddA5AE24e1bb6cb472b7f3C98f458feC738",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/699",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/699",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/699",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "713",
+      "name": "Azuki #713",
+      "rarity": "8879",
+      "ownedBy": "0x03576d59D983436688664926105A4795Def1d381",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/713",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/713",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/713",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "865",
+      "name": "Azuki #865",
+      "rarity": "5952",
+      "ownedBy": "0x7FEe302A14D6B945c0EB6dA9C4426c8D75d38a73",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/865",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/865",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/865",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "883",
+      "name": "Azuki #883",
+      "rarity": "8059",
+      "ownedBy": "0xff3879B8A363AeD92A6EABa8f61f1A96a9EC3c1e",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/883",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/883",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/883",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "943",
+      "name": "Azuki #943",
+      "rarity": "9444",
+      "ownedBy": "0x989Cd4a3A88c86300726Edb5d5516A517eD47599",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/943",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/943",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/943",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "957",
+      "name": "Azuki #957",
+      "rarity": "8936",
+      "ownedBy": "0x75C896c88158ff1CEa9C47B2C2f884782AC3d5d9",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/957",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/957",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/957",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "1018",
+      "name": "Azuki #1018",
+      "rarity": "5537",
+      "ownedBy": "0x95f777dB3866cc7bd2C22dc5DA97325E97eB06f4",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/1018",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/1018",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/1018",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "1117",
+      "name": "Azuki #1117",
+      "rarity": "9849",
+      "ownedBy": "0x76f52Ae7C5C42b4484d2E2aFbd97c858b89c90f2",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/1117",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/1117",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/1117",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "1136",
+      "name": "Azuki #1136",
+      "rarity": "9557",
+      "ownedBy": "0x286a2103DDF789b5414c684a055BCe98847F776E",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/1136",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/1136",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/1136",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1176",
+      "name": "Azuki #1176",
+      "rarity": "838",
+      "ownedBy": "0xf00eb5C4B08fA16b946185e31801bD6871b210a6",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/1176",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/1176",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/1176",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1177",
+      "name": "Azuki #1177",
+      "rarity": "7003",
+      "ownedBy": "0x8Ec1cC2823cd2f7c4d3AD3c2db8809405e83d900",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/1177",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/1177",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/1177",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1339",
+      "name": "Azuki #1339",
+      "rarity": "7593",
+      "ownedBy": "0xa1aafb06268f3396c4683e3F635A4AFf0E040e46",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/1339",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/1339",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/1339",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "1405",
+      "name": "Azuki #1405",
+      "rarity": "7904",
+      "ownedBy": "0x07cc65Ec4de72Fdf7d2B6C39Fd80c4EA4706215B",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/1405",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/1405",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/1405",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1510",
+      "name": "Azuki #1510",
+      "rarity": "9278",
+      "ownedBy": "0xA14964479Ebf9cD336011ad80652b08CD83dFE3A",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/1510",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/1510",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/1510",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "1587",
+      "name": "Azuki #1587",
+      "rarity": "6592",
+      "ownedBy": "0x57099Da19e52784823c0aab1E8D8124E964C4282",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/1587",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/1587",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/1587",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1649",
+      "name": "Azuki #1649",
+      "rarity": "2697",
+      "ownedBy": "0x26aA0A2b5062aD693B9E0f9001752c2DC6F1C1F1",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/1649",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/1649",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/1649",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "1680",
+      "name": "Azuki #1680",
+      "rarity": "7734",
+      "ownedBy": "0xCe75A8A63E9E3F0DD4D81089cf11cf91Cc78cb49",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/1680",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/1680",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/1680",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "1688",
+      "name": "Azuki #1688",
+      "rarity": "4348",
+      "ownedBy": "0xc75b143301cF47A3Ad096ED904f5E3f0831a57Fb",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/1688",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/1688",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/1688",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "1697",
+      "name": "Azuki #1697",
+      "rarity": "9161",
+      "ownedBy": "0xca8CAA44509F2822B9761A2434b08dAC92b83613",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/1697",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/1697",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/1697",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1722",
+      "name": "Azuki #1722",
+      "rarity": "6022",
+      "ownedBy": "0x08Eef29836542cb374819c1208564a4c5b503099",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/1722",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/1722",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/1722",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1747",
+      "name": "Azuki #1747",
+      "rarity": "498",
+      "ownedBy": "0x4199F2400fb5Ad164A065815B1ab386fD09016a0",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/1747",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/1747",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/1747",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1826",
+      "name": "Azuki #1826",
+      "rarity": "1210",
+      "ownedBy": "0x3496f3600070CC01d9665d1057F6F39afC0fe149",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/1826",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/1826",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/1826",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "2094",
+      "name": "Azuki #2094",
+      "rarity": "9485",
+      "ownedBy": "0x915465e9Ce55d5f18A00EF5607331Cb8D8f2B9cb",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/2094",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/2094",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/2094",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "2096",
+      "name": "Azuki #2096",
+      "rarity": "4747",
+      "ownedBy": "0xA32f704d112255D58e2780F357f5cF1049A08662",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/2096",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/2096",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/2096",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "2240",
+      "name": "Azuki #2240",
+      "rarity": "469",
+      "ownedBy": "0x9c49C7c5bb08Ea13DB5E2a5E28D6b32DFef0Be6d",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/2240",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/2240",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/2240",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "2322",
+      "name": "Azuki #2322",
+      "rarity": "3602",
+      "ownedBy": "0x66269854e9DE1D0B5F0c42DC4355DB5ccbAfEE9C",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/2322",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/2322",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/2322",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "2384",
+      "name": "Azuki #2384",
+      "rarity": "7905",
+      "ownedBy": "0x6491bce963FcAe210b7C843c4829202Dc2479C03",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/2384",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/2384",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/2384",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "2406",
+      "name": "Azuki #2406",
+      "rarity": "3684",
+      "ownedBy": "0x0377AA308c44855217A1d900f39828d5d9dEf153",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/2406",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/2406",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/2406",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "2569",
+      "name": "Azuki #2569",
+      "rarity": "4411",
+      "ownedBy": "0x6491bce963FcAe210b7C843c4829202Dc2479C03",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/2569",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/2569",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/2569",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "2574",
+      "name": "Azuki #2574",
+      "rarity": "8099",
+      "ownedBy": "0x07cc65Ec4de72Fdf7d2B6C39Fd80c4EA4706215B",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/2574",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/2574",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/2574",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "2674",
+      "name": "Azuki #2674",
+      "rarity": "8558",
+      "ownedBy": "0x07cc65Ec4de72Fdf7d2B6C39Fd80c4EA4706215B",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/2674",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/2674",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/2674",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "2891",
+      "name": "Azuki #2891",
+      "rarity": "7455",
+      "ownedBy": "0xb0b851bF44499EdeC30795bef7AC4d5f9Dd632d0",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/2891",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/2891",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/2891",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "2946",
+      "name": "Azuki #2946",
+      "rarity": "7475",
+      "ownedBy": "0x96d3B7F663ed680F316781680464045f3458440b",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/2946",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/2946",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/2946",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3056",
+      "name": "Azuki #3056",
+      "rarity": "2833",
+      "ownedBy": "0x7f08d733A2c4E65E88975AEF8F80fa694EF339c1",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/3056",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/3056",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/3056",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3082",
+      "name": "Azuki #3082",
+      "rarity": "2312",
+      "ownedBy": "0x9642b32b657B08b4f18B40561b07A0042c163b42",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/3082",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/3082",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/3082",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "3086",
+      "name": "Azuki #3086",
+      "rarity": "3003",
+      "ownedBy": "0x0Ee0d508d66bb3B815696DB567ffdaCa1cE1d3E2",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/3086",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/3086",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/3086",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "3227",
+      "name": "Azuki #3227",
+      "rarity": "9769",
+      "ownedBy": "0xF6429FaFDb6166D145f30372717a23B966373032",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/3227",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/3227",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/3227",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3529",
+      "name": "Azuki #3529",
+      "rarity": "5663",
+      "ownedBy": "0x6be55C75d61ECaaB7eDf7791C087858269760383",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/3529",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/3529",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/3529",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3572",
+      "name": "Azuki #3572",
+      "rarity": "7969",
+      "ownedBy": "0x8Be35CA7f8CF057eF0857276aCc578C0a2E7A027",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/3572",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/3572",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/3572",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3653",
+      "name": "Azuki #3653",
+      "rarity": "7095",
+      "ownedBy": "0xd46C8648F2ac4Ce1A1aace620460fbd24F640853",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/3653",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/3653",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/3653",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "3762",
+      "name": "Azuki #3762",
+      "rarity": "9411",
+      "ownedBy": "0xF742786D6A9B7E41A43ecFE80f6d7c59Cb916134",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/3762",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/3762",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/3762",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3784",
+      "name": "Azuki #3784",
+      "rarity": "1831",
+      "ownedBy": "0x9c49C7c5bb08Ea13DB5E2a5E28D6b32DFef0Be6d",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/3784",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/3784",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/3784",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4214",
+      "name": "Azuki #4214",
+      "rarity": "9874",
+      "ownedBy": "0xc75b143301cF47A3Ad096ED904f5E3f0831a57Fb",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/4214",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/4214",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/4214",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4490",
+      "name": "Azuki #4490",
+      "rarity": "3767",
+      "ownedBy": "0x604eafD2d3f0d7F74f731E66cb58c1315F18d7b4",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/4490",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/4490",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/4490",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4657",
+      "name": "Azuki #4657",
+      "rarity": "8190",
+      "ownedBy": "0x7E88854a5f2A5e6647FBe67F08A184dC0867a822",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/4657",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/4657",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/4657",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "4801",
+      "name": "Azuki #4801",
+      "rarity": "9172",
+      "ownedBy": "0xD1c56d9Dc18F4cD320c971a08CC20B56264f370D",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/4801",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/4801",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/4801",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "4904",
+      "name": "Azuki #4904",
+      "rarity": "6505",
+      "ownedBy": "0x8ffa85a0c59Cf23967eb31C060B2ca3A920276E1",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/4904",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/4904",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/4904",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "5105",
+      "name": "Azuki #5105",
+      "rarity": "5065",
+      "ownedBy": "0xea4Feb8E55a17EeD317b2804e1F49040d1b43299",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/5105",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/5105",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/5105",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "5148",
+      "name": "Azuki #5148",
+      "rarity": "2531",
+      "ownedBy": "0x5D7aAa862681920Ea4f350a670816b0977c80B37",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/5148",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/5148",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/5148",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "5235",
+      "name": "Azuki #5235",
+      "rarity": "5406",
+      "ownedBy": "0x188C30E9A6527F5F0c3f7fe59B72ac7253C62F28",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/5235",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/5235",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/5235",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "5330",
+      "name": "Azuki #5330",
+      "rarity": "5502",
+      "ownedBy": "0xd46C8648F2ac4Ce1A1aace620460fbd24F640853",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/5330",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/5330",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/5330",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "5725",
+      "name": "Azuki #5725",
+      "rarity": "6286",
+      "ownedBy": "0x1361260F84BB384Bba603Ff622a141BB4EAdF8F3",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/5725",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/5725",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/5725",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "5747",
+      "name": "Azuki #5747",
+      "rarity": "2033",
+      "ownedBy": "0x4C80bC92532225BfC71EbFB0bD75f7F71ab99FC0",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/5747",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/5747",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/5747",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "5865",
+      "name": "Azuki #5865",
+      "rarity": "7341",
+      "ownedBy": "0xcf0B4De4296e768960F04324a390aF94F81192B5",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/5865",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/5865",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/5865",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "6065",
+      "name": "Azuki #6065",
+      "rarity": "1688",
+      "ownedBy": "0x04D7C2ee4cdBAC9A0FC46d3E35e79AbA5CCa471D",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/6065",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/6065",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/6065",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "6094",
+      "name": "Azuki #6094",
+      "rarity": "8150",
+      "ownedBy": "0x440b4a49248F25a9cF514aD8c1557CbF504ED5C4",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/6094",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/6094",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/6094",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "6112",
+      "name": "Azuki #6112",
+      "rarity": "6301",
+      "ownedBy": "0xd46C8648F2ac4Ce1A1aace620460fbd24F640853",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/6112",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/6112",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/6112",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "6190",
+      "name": "Azuki #6190",
+      "rarity": "2099",
+      "ownedBy": "0x59Cd46e19395F381342085D636b338da0dD22077",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/6190",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/6190",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/6190",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "6238",
+      "name": "Azuki #6238",
+      "rarity": "5990",
+      "ownedBy": "0x87821Dd0824E8e8eBFfA57b7a303aaC1259b3Cd9",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/6238",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/6238",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/6238",
+      "washTraded": true,
+      "washTrades": [
+        "buyer_is_seller"
+      ]
+    },
+    {
+      "tokenId": "6448",
+      "name": "Azuki #6448",
+      "rarity": "6820",
+      "ownedBy": "0x285fa6415Ad2Ce046f137279a61D7d97f9b33255",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/6448",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/6448",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/6448",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "6468",
+      "name": "Azuki #6468",
+      "rarity": "1829",
+      "ownedBy": "0xc75b143301cF47A3Ad096ED904f5E3f0831a57Fb",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/6468",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/6468",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/6468",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected",
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "6510",
+      "name": "Azuki #6510",
+      "rarity": "7966",
+      "ownedBy": "0x96d3B7F663ed680F316781680464045f3458440b",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/6510",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/6510",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/6510",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "6665",
+      "name": "Azuki #6665",
+      "rarity": "5859",
+      "ownedBy": "0x031fB2Ee4a2bBAb04Cdc29A64fdbF8F6A4c822b2",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/6665",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/6665",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/6665",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "6826",
+      "name": "Azuki #6826",
+      "rarity": "4920",
+      "ownedBy": "0xB6147e9a878388436c0d56e2cF2e71B7Cab585EC",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/6826",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/6826",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/6826",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "6829",
+      "name": "Azuki #6829",
+      "rarity": "8453",
+      "ownedBy": "0xE8A1edB81B45b8FB8F5049F957faCCE779a45d22",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/6829",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/6829",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/6829",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "6835",
+      "name": "Azuki #6835",
+      "rarity": "6548",
+      "ownedBy": "0x6620d681372AaE611e8505195fDCE137bF7ba515",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/6835",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/6835",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/6835",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "6867",
+      "name": "Azuki #6867",
+      "rarity": "9566",
+      "ownedBy": "0xb11274a37F0db2dC564F84a58950f6806FA3C592",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/6867",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/6867",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/6867",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "6885",
+      "name": "Azuki #6885",
+      "rarity": "2946",
+      "ownedBy": "0x9E74482AfFe86FC5d041d47707D4aCF87B178D71",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/6885",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/6885",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/6885",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "6950",
+      "name": "Azuki #6950",
+      "rarity": "3286",
+      "ownedBy": "0xA68FdB0c7ECdC404637C5C06BAB82A7bf00609f3",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/6950",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/6950",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/6950",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "6980",
+      "name": "Azuki #6980",
+      "rarity": "9963",
+      "ownedBy": "0xb011a3f752e676130f922B22c3327fe22c406AF8",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/6980",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/6980",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/6980",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "7009",
+      "name": "Azuki #7009",
+      "rarity": "7757",
+      "ownedBy": "0xE5B57Dfa75D36189E5254114626b06E79d903a57",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/7009",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/7009",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/7009",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "7038",
+      "name": "Azuki #7038",
+      "rarity": "9815",
+      "ownedBy": "0x07cc65Ec4de72Fdf7d2B6C39Fd80c4EA4706215B",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/7038",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/7038",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/7038",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "7073",
+      "name": "Azuki #7073",
+      "rarity": "6806",
+      "ownedBy": "0x72df1dFFDFB0a81aD4a2055BCdC4376be0588C8E",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/7073",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/7073",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/7073",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "7142",
+      "name": "Azuki #7142",
+      "rarity": "1497",
+      "ownedBy": "0xcbAA6a102b62D6e75E6C69D8463f429867ECb2da",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/7142",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/7142",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/7142",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "7273",
+      "name": "Azuki #7273",
+      "rarity": "3413",
+      "ownedBy": "0xc75b143301cF47A3Ad096ED904f5E3f0831a57Fb",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/7273",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/7273",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/7273",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "7304",
+      "name": "Azuki #7304",
+      "rarity": "7222",
+      "ownedBy": "0x07cc65Ec4de72Fdf7d2B6C39Fd80c4EA4706215B",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/7304",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/7304",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/7304",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "7326",
+      "name": "Azuki #7326",
+      "rarity": "7923",
+      "ownedBy": "0xb0641825B565c0aEEA7AFF6dF9877f524804794D",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/7326",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/7326",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/7326",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "7352",
+      "name": "Azuki #7352",
+      "rarity": "6783",
+      "ownedBy": "0xaa29Cc8080463Bd790c724Ad41C10de94a58286A",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/7352",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/7352",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/7352",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "7405",
+      "name": "Azuki #7405",
+      "rarity": "9558",
+      "ownedBy": "0xE4ae63c74CBa2263842fB187bBAC793Fe60B2069",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/7405",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/7405",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/7405",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "7428",
+      "name": "Azuki #7428",
+      "rarity": "4777",
+      "ownedBy": "0x8D9914FE491BAdEe641c046e1D4aE1C35dF3dfA1",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/7428",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/7428",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/7428",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "7437",
+      "name": "Azuki #7437",
+      "rarity": "9953",
+      "ownedBy": "0xff3879B8A363AeD92A6EABa8f61f1A96a9EC3c1e",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/7437",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/7437",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/7437",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "7446",
+      "name": "Azuki #7446",
+      "rarity": "9890",
+      "ownedBy": "0xfE05fE13B4a2A2B03Bc62958CB95a4DC1137Af97",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/7446",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/7446",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/7446",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "7472",
+      "name": "Azuki #7472",
+      "rarity": "5963",
+      "ownedBy": "0xAc87d95A1391f60B37a51d875666F3c1B9dc6B7E",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/7472",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/7472",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/7472",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "7562",
+      "name": "Azuki #7562",
+      "rarity": "4541",
+      "ownedBy": "0x35f71388EAE9E610a1501Dd4bb0eD18b2A7F5Ab1",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/7562",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/7562",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/7562",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "7578",
+      "name": "Azuki #7578",
+      "rarity": "6625",
+      "ownedBy": "0xe6882e6093a69c47FC21426c2DFdB4A08eB2dEC8",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/7578",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/7578",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/7578",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "7624",
+      "name": "Azuki #7624",
+      "rarity": "2154",
+      "ownedBy": "0x411df20E7144eB166cCB0f5f7fE7508FDc1a9A2a",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/7624",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/7624",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/7624",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "7709",
+      "name": "Azuki #7709",
+      "rarity": "7817",
+      "ownedBy": "0xffE6830eE2e4CAF60911bcb623038c21B49aAab6",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/7709",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/7709",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/7709",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "7763",
+      "name": "Azuki #7763",
+      "rarity": "9523",
+      "ownedBy": "0x6ADFb48Badd780B055BA6da688549D20C4D49438",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/7763",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/7763",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/7763",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "7779",
+      "name": "Azuki #7779",
+      "rarity": "7866",
+      "ownedBy": "0x4FAf6e2dC1C9B8e5EE2b4d1c46D9344a67F7eEf3",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/7779",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/7779",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/7779",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "7883",
+      "name": "Azuki #7883",
+      "rarity": "8811",
+      "ownedBy": "0xC7b72Bb1aCDcE3eB45f9B38F43cD31e4927C725b",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/7883",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/7883",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/7883",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "8004",
+      "name": "Azuki #8004",
+      "rarity": "8297",
+      "ownedBy": "0x098ba9E798902c59f8b893d94fA9198b2B7e89B3",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/8004",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/8004",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/8004",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "8034",
+      "name": "Azuki #8034",
+      "rarity": "2107",
+      "ownedBy": "0xa0fd6c8735984fDBA1403Fb45019e76821d4A8FF",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/8034",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/8034",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/8034",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "8073",
+      "name": "Azuki #8073",
+      "rarity": "2272",
+      "ownedBy": "0xd46C8648F2ac4Ce1A1aace620460fbd24F640853",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/8073",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/8073",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/8073",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "8229",
+      "name": "Azuki #8229",
+      "rarity": "5562",
+      "ownedBy": "0x4269DB194B5B02d0983bf320C1A51cBF84c4d9C4",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/8229",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/8229",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/8229",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "8262",
+      "name": "Azuki #8262",
+      "rarity": "476",
+      "ownedBy": "0x65Cd2C617Bc22BFD319d940f0187C87d480a2387",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/8262",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/8262",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/8262",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "8385",
+      "name": "Azuki #8385",
+      "rarity": "7605",
+      "ownedBy": "0x00641b4F7c7C9a6E6E2f692aa91744cA0ED0b3DE",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/8385",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/8385",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/8385",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected",
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "8410",
+      "name": "Azuki #8410",
+      "rarity": "6976",
+      "ownedBy": "0x235F61a9EC478D1c71F354405479b35FbF34f27D",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/8410",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/8410",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/8410",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "8414",
+      "name": "Azuki #8414",
+      "rarity": "5361",
+      "ownedBy": "0x07cc65Ec4de72Fdf7d2B6C39Fd80c4EA4706215B",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/8414",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/8414",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/8414",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "8481",
+      "name": "Azuki #8481",
+      "rarity": "9515",
+      "ownedBy": "0x0B6aA195d940C6eBE99d99E9161618bF359c03de",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/8481",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/8481",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/8481",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "8485",
+      "name": "Azuki #8485",
+      "rarity": "8243",
+      "ownedBy": "0x1e08fC8648614E991958Cf5563970203E75DFA72",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/8485",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/8485",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/8485",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "8486",
+      "name": "Azuki #8486",
+      "rarity": "6599",
+      "ownedBy": "0xa60f18b7653d363f12A263de60C4d03E12159d15",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/8486",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/8486",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/8486",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "8499",
+      "name": "Azuki #8499",
+      "rarity": "2638",
+      "ownedBy": "0xd46C8648F2ac4Ce1A1aace620460fbd24F640853",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/8499",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/8499",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/8499",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "8552",
+      "name": "Azuki #8552",
+      "rarity": "6958",
+      "ownedBy": "0x6491bce963FcAe210b7C843c4829202Dc2479C03",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/8552",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/8552",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/8552",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "8624",
+      "name": "Azuki #8624",
+      "rarity": "4089",
+      "ownedBy": "0x075008322f5E67D64E15ECA6E8538dD6c07e44FB",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/8624",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/8624",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/8624",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "8659",
+      "name": "Azuki #8659",
+      "rarity": "4468",
+      "ownedBy": "0x29F1ABD903f2293d062307d1ff4e25697a05986F",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/8659",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/8659",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/8659",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "8684",
+      "name": "Azuki #8684",
+      "rarity": "3598",
+      "ownedBy": "0x35A0af9b7D25671eAA27315EecD5c9087Ba2944D",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/8684",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/8684",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/8684",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "8738",
+      "name": "Azuki #8738",
+      "rarity": "6492",
+      "ownedBy": "0xB3025Cc41a643F51B324FA9bE54A87194530B4D6",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/8738",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/8738",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/8738",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "8970",
+      "name": "Azuki #8970",
+      "rarity": "5298",
+      "ownedBy": "0x5D7aAa862681920Ea4f350a670816b0977c80B37",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/8970",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/8970",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/8970",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "8975",
+      "name": "Azuki #8975",
+      "rarity": "5554",
+      "ownedBy": "0x988Afaa75A5DCD699a5C0Cc9D46bEe03e5d004AC",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/8975",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/8975",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/8975",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "9091",
+      "name": "Azuki #9091",
+      "rarity": "9053",
+      "ownedBy": "0x2c7fE46d928D3CD40b46C43d4865a495597D5c4c",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/9091",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/9091",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/9091",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "9176",
+      "name": "Azuki #9176",
+      "rarity": "5082",
+      "ownedBy": "0x2944322EbF133765d420F55cE0c95a7DCbd860cC",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/9176",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/9176",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/9176",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "9234",
+      "name": "Azuki #9234",
+      "rarity": "4775",
+      "ownedBy": "0x863E7aAded2B90a08802d362b7FBf228b65C5Bc9",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/9234",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/9234",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/9234",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "9248",
+      "name": "Azuki #9248",
+      "rarity": "7600",
+      "ownedBy": "0x4116739a3e79e20D59b511d7530B5e84CB1Da17d",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/9248",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/9248",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/9248",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "9372",
+      "name": "Azuki #9372",
+      "rarity": "8962",
+      "ownedBy": "0xE8A1edB81B45b8FB8F5049F957faCCE779a45d22",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/9372",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/9372",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/9372",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "9431",
+      "name": "Azuki #9431",
+      "rarity": "9988",
+      "ownedBy": "0xEACc3ef3Ac9C7105F08a3f3d3515a74Ed9314863",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/9431",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/9431",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/9431",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "9432",
+      "name": "Azuki #9432",
+      "rarity": "6669",
+      "ownedBy": "0x2dC820Ae955AA5a34cD073f72b76E127Cd7bED1D",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/9432",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/9432",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/9432",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "9503",
+      "name": "Azuki #9503",
+      "rarity": "6264",
+      "ownedBy": "0x28D10f75C03215626103Ea6F786787e0228AE503",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/9503",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/9503",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/9503",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "9542",
+      "name": "Azuki #9542",
+      "rarity": "9034",
+      "ownedBy": "0xA9061b9fd4e3Ed12713fb64743c01F72Ab86D30a",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/9542",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/9542",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/9542",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "9650",
+      "name": "Azuki #9650",
+      "rarity": "7254",
+      "ownedBy": "0xdc8E14f864405d58129cCb7978A471907e222734",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/9650",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/9650",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/9650",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "9830",
+      "name": "Azuki #9830",
+      "rarity": "4290",
+      "ownedBy": "0xBFa43bf6E9FB6d5CC253Ff23c31F2b86a739bB98",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/9830",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/9830",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/9830",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "9916",
+      "name": "Azuki #9916",
+      "rarity": "7310",
+      "ownedBy": "0x07cc65Ec4de72Fdf7d2B6C39Fd80c4EA4706215B",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/md/9916",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xED5AF388653567Af2F388E6224dC7C4b3241C544/9916",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xED5AF388653567Af2F388E6224dC7C4b3241C544/metadata/9916",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    }
+  ]
+}

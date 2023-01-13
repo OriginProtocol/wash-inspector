@@ -1,0 +1,33 @@
+{
+  "trades": 2,
+  "washTrades": 2,
+  "volume": 0.0199,
+  "washVolume": 0.0199,
+  "address": "0xc5E395EF8eFA253940D62A8810112565Cc0faE4e",
+  "washTradedNfts": [
+    {
+      "tokenId": "30",
+      "name": "The Face Peeler",
+      "ownedBy": "0x408E16E681a63857Dba0e531ab938E7540d1342D",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xc5E395EF8eFA253940D62A8810112565Cc0faE4e/md/30",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xc5E395EF8eFA253940D62A8810112565Cc0faE4e/30",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xc5E395EF8eFA253940D62A8810112565Cc0faE4e/metadata/30",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "309",
+      "name": "The Face Peeler",
+      "ownedBy": "0xEC6f4A41bcD178C1c3A028d10d15c724c0181035",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0xc5E395EF8eFA253940D62A8810112565Cc0faE4e/md/309",
+      "imageSrc": "partner-assets-orig/ethereum-1/0xc5E395EF8eFA253940D62A8810112565Cc0faE4e/309",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xc5E395EF8eFA253940D62A8810112565Cc0faE4e/metadata/309",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    }
+  ]
+}

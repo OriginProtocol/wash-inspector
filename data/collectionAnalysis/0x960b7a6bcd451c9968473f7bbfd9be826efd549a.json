@@ -1,0 +1,226 @@
+{
+  "trades": 75,
+  "washTrades": 19,
+  "volume": 101.744025,
+  "washVolume": 41.702,
+  "address": "0x960b7a6BCD451c9968473f7bbFd9Be826EFd549A",
+  "washTradedNfts": [
+    {
+      "tokenId": "335",
+      "name": "OnChain Monkey #335",
+      "ownedBy": "0xc3A3f3FE0bCf64C041c02486378d73F94c00fb40",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x960b7a6BCD451c9968473f7bbFd9Be826EFd549A/md/335",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x960b7a6BCD451c9968473f7bbFd9Be826EFd549A/335",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x960b7a6BCD451c9968473f7bbFd9Be826EFd549A/metadata/335",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "510",
+      "name": "OnChain Monkey #510",
+      "ownedBy": "0xE052113bd7D7700d623414a0a4585BCaE754E9d5",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x960b7a6BCD451c9968473f7bbFd9Be826EFd549A/md/510",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x960b7a6BCD451c9968473f7bbFd9Be826EFd549A/510",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x960b7a6BCD451c9968473f7bbFd9Be826EFd549A/metadata/510",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "871",
+      "name": "OnChain Monkey #871",
+      "ownedBy": "0x9C0F199dE713B23E9f54d72D25c631ee543705CC",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x960b7a6BCD451c9968473f7bbFd9Be826EFd549A/md/871",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x960b7a6BCD451c9968473f7bbFd9Be826EFd549A/871",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x960b7a6BCD451c9968473f7bbFd9Be826EFd549A/metadata/871",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected",
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "2191",
+      "name": "OnChain Monkey #2191",
+      "ownedBy": "0x61067CF126D738F52ba6AA48C0f5da861A02Ee06",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x960b7a6BCD451c9968473f7bbFd9Be826EFd549A/md/2191",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x960b7a6BCD451c9968473f7bbFd9Be826EFd549A/2191",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x960b7a6BCD451c9968473f7bbFd9Be826EFd549A/metadata/2191",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "2202",
+      "name": "OnChain Monkey #2202",
+      "ownedBy": "0xFaa5602e9C11A5D7250Fc5C97EE4C61f8280df4D",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x960b7a6BCD451c9968473f7bbFd9Be826EFd549A/md/2202",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x960b7a6BCD451c9968473f7bbFd9Be826EFd549A/2202",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x960b7a6BCD451c9968473f7bbFd9Be826EFd549A/metadata/2202",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "2919",
+      "name": "OnChain Monkey #2919",
+      "ownedBy": "0xA282318c94bD0660943E76540815C54027B2dA78",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x960b7a6BCD451c9968473f7bbFd9Be826EFd549A/md/2919",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x960b7a6BCD451c9968473f7bbFd9Be826EFd549A/2919",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x960b7a6BCD451c9968473f7bbFd9Be826EFd549A/metadata/2919",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "2991",
+      "name": "OnChain Monkey #2991",
+      "ownedBy": "0x21f055920EE3eC1a0123BB5587A063907B6a0f9d",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x960b7a6BCD451c9968473f7bbFd9Be826EFd549A/md/2991",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x960b7a6BCD451c9968473f7bbFd9Be826EFd549A/2991",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x960b7a6BCD451c9968473f7bbFd9Be826EFd549A/metadata/2991",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "3514",
+      "name": "OnChain Monkey #3514",
+      "ownedBy": "0xA282318c94bD0660943E76540815C54027B2dA78",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x960b7a6BCD451c9968473f7bbFd9Be826EFd549A/md/3514",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x960b7a6BCD451c9968473f7bbFd9Be826EFd549A/3514",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x960b7a6BCD451c9968473f7bbFd9Be826EFd549A/metadata/3514",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4003",
+      "name": "OnChain Monkey #4003",
+      "ownedBy": "0x798a07190B529a7bEAA0b64F86865dedE0F33500",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x960b7a6BCD451c9968473f7bbFd9Be826EFd549A/md/4003",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x960b7a6BCD451c9968473f7bbFd9Be826EFd549A/4003",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x960b7a6BCD451c9968473f7bbFd9Be826EFd549A/metadata/4003",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "4274",
+      "name": "OnChain Monkey #4274",
+      "ownedBy": "0xA282318c94bD0660943E76540815C54027B2dA78",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x960b7a6BCD451c9968473f7bbFd9Be826EFd549A/md/4274",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x960b7a6BCD451c9968473f7bbFd9Be826EFd549A/4274",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x960b7a6BCD451c9968473f7bbFd9Be826EFd549A/metadata/4274",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4766",
+      "name": "OnChain Monkey #4766",
+      "ownedBy": "0x4b151b7bFCB9CF5Fd6f0e49071855f1656898e44",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x960b7a6BCD451c9968473f7bbFd9Be826EFd549A/md/4766",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x960b7a6BCD451c9968473f7bbFd9Be826EFd549A/4766",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x960b7a6BCD451c9968473f7bbFd9Be826EFd549A/metadata/4766",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "5012",
+      "name": "OnChain Monkey #5012",
+      "ownedBy": "0x72a5D2595537Aa565a57876835072Ec82a9d8989",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x960b7a6BCD451c9968473f7bbFd9Be826EFd549A/md/5012",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x960b7a6BCD451c9968473f7bbFd9Be826EFd549A/5012",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x960b7a6BCD451c9968473f7bbFd9Be826EFd549A/metadata/5012",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "5433",
+      "name": "OnChain Monkey #5433",
+      "ownedBy": "0x88F1d6858f839b20bF9BF4645CEaBde3319b238F",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x960b7a6BCD451c9968473f7bbFd9Be826EFd549A/md/5433",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x960b7a6BCD451c9968473f7bbFd9Be826EFd549A/5433",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x960b7a6BCD451c9968473f7bbFd9Be826EFd549A/metadata/5433",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "6695",
+      "name": "OnChain Monkey #6695",
+      "ownedBy": "0xf2f4747C4074CC433e9D881529c2eE27584B3256",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x960b7a6BCD451c9968473f7bbFd9Be826EFd549A/md/6695",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x960b7a6BCD451c9968473f7bbFd9Be826EFd549A/6695",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x960b7a6BCD451c9968473f7bbFd9Be826EFd549A/metadata/6695",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "6863",
+      "name": "OnChain Monkey #6863",
+      "ownedBy": "0xbee786d896546E1D6cAc222A2fC8Bf96adb37a5f",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x960b7a6BCD451c9968473f7bbFd9Be826EFd549A/md/6863",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x960b7a6BCD451c9968473f7bbFd9Be826EFd549A/6863",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x960b7a6BCD451c9968473f7bbFd9Be826EFd549A/metadata/6863",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "8018",
+      "name": "OnChain Monkey #8018",
+      "ownedBy": "0xdC27361494E95F566409f379ABd08813E73468eb",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x960b7a6BCD451c9968473f7bbFd9Be826EFd549A/md/8018",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x960b7a6BCD451c9968473f7bbFd9Be826EFd549A/8018",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x960b7a6BCD451c9968473f7bbFd9Be826EFd549A/metadata/8018",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "9104",
+      "name": "OnChain Monkey #9104",
+      "ownedBy": "0xbee786d896546E1D6cAc222A2fC8Bf96adb37a5f",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x960b7a6BCD451c9968473f7bbFd9Be826EFd549A/md/9104",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x960b7a6BCD451c9968473f7bbFd9Be826EFd549A/9104",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x960b7a6BCD451c9968473f7bbFd9Be826EFd549A/metadata/9104",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "9162",
+      "name": "OnChain Monkey #9162",
+      "ownedBy": "0x9b1Df568BcbE52abeB4c9Ea20953f465184916c4",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x960b7a6BCD451c9968473f7bbFd9Be826EFd549A/md/9162",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x960b7a6BCD451c9968473f7bbFd9Be826EFd549A/9162",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x960b7a6BCD451c9968473f7bbFd9Be826EFd549A/metadata/9162",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    }
+  ]
+}

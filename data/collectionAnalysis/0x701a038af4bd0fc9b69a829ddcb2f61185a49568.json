@@ -1,0 +1,646 @@
+{
+  "trades": 383,
+  "washTrades": 86,
+  "volume": 177.49915901253434,
+  "washVolume": 37.12184057454477,
+  "address": "0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568",
+  "washTradedNfts": [
+    {
+      "tokenId": "18",
+      "name": "Kiwami #18",
+      "rarity": "536",
+      "ownedBy": "0xcf2e155FF157494DE3248DdC41CC8FdA936d6040",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/md/18",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/18",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/metadata/18",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "365",
+      "name": "Kiwami #365",
+      "rarity": "9383",
+      "ownedBy": "0x034074cBa45D89eCA920Db1fF4Ead76b8674b463",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/md/365",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/365",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/metadata/365",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "525",
+      "name": "Kiwami #525",
+      "rarity": "8253",
+      "ownedBy": "0x0b8a660a5e23dC5B9F43470ADE668Ed8CC1c5Eb0",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/md/525",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/525",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/metadata/525",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "695",
+      "name": "Kiwami #695",
+      "rarity": "9896",
+      "ownedBy": "0x22C8247ce664d6d739a2772ec2974B1e39c397D0",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/md/695",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/695",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/metadata/695",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "764",
+      "name": "Kiwami #764",
+      "rarity": "5854",
+      "ownedBy": "0xff6E680815D56A492378bF746bEB739BaF17a60d",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/md/764",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/764",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/metadata/764",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1604",
+      "name": "Kiwami #1604",
+      "rarity": "8990",
+      "ownedBy": "0x812421f100f1a1c95365140da54DcE079d6827fe",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/md/1604",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/1604",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/metadata/1604",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1619",
+      "name": "Kiwami #1619",
+      "rarity": "3034",
+      "ownedBy": "0x034074cBa45D89eCA920Db1fF4Ead76b8674b463",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/md/1619",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/1619",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/metadata/1619",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "2001",
+      "name": "Kiwami #2001",
+      "rarity": "8477",
+      "ownedBy": "0x6Ef85dF8fD2cB29Dd958c94dDE3644406d63D264",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/md/2001",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/2001",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/metadata/2001",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "2237",
+      "name": "Kiwami #2237",
+      "rarity": "7850",
+      "ownedBy": "0x525d4AFe04716f23A9261df0d191d39e9496F54b",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/md/2237",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/2237",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/metadata/2237",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "2242",
+      "name": "Kiwami #2242",
+      "rarity": "8050",
+      "ownedBy": "0x8F0494791fd37633fF820788999214b8Afa71CFd",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/md/2242",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/2242",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/metadata/2242",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "2310",
+      "name": "Kiwami #2310",
+      "rarity": "3643",
+      "ownedBy": "0x3Fa5822bbeC7c54191d046bA24eb825726eEf055",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/md/2310",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/2310",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/metadata/2310",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "2351",
+      "name": "Kiwami #2351",
+      "rarity": "9800",
+      "ownedBy": "0x69778DEaE1C5a3244145708E6f0F03b00c7dE859",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/md/2351",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/2351",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/metadata/2351",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "2706",
+      "name": "Kiwami #2706",
+      "rarity": "1761",
+      "ownedBy": "0x4a53Bf8F68CC1A7eB8D429abb2d0B58324680fA1",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/md/2706",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/2706",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/metadata/2706",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "2745",
+      "name": "Kiwami #2745",
+      "rarity": "2263",
+      "ownedBy": "0x22a1789dD5Ee19151356a05cD715d73081D833F8",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/md/2745",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/2745",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/metadata/2745",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "2969",
+      "name": "Kiwami #2969",
+      "rarity": "3172",
+      "ownedBy": "0x3Fa5822bbeC7c54191d046bA24eb825726eEf055",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/md/2969",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/2969",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/metadata/2969",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3129",
+      "name": "Kiwami #3129",
+      "rarity": "6509",
+      "ownedBy": "0x4DE8dB65EDD11b300Ad943416Db30856e2bBDfE3",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/md/3129",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/3129",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/metadata/3129",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "3250",
+      "name": "Kiwami #3250",
+      "rarity": "8243",
+      "ownedBy": "0xE19a76c6659E34F099441e84BffA638aD6a3Ab25",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/md/3250",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/3250",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/metadata/3250",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3376",
+      "name": "Kiwami #3376",
+      "rarity": "7435",
+      "ownedBy": "0x724Fe6b6a2b634809b1F0068EbCCf7AE572a9b93",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/md/3376",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/3376",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/metadata/3376",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3598",
+      "name": "Kiwami #3598",
+      "rarity": "8091",
+      "ownedBy": "0xcd81917ff5313d02d7Da3d47a9Afcd3f635c36e3",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/md/3598",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/3598",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/metadata/3598",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3722",
+      "name": "Kiwami #3722",
+      "rarity": "4344",
+      "ownedBy": "0x408983Dab0597a407c97d5a5C7D10fc78321b314",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/md/3722",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/3722",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/metadata/3722",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3772",
+      "name": "Kiwami #3772",
+      "rarity": "482",
+      "ownedBy": "0x8798e94c1991c62abe1F2B050C258E4AaD9f9951",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/md/3772",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/3772",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/metadata/3772",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3793",
+      "name": "Kiwami #3793",
+      "rarity": "3579",
+      "ownedBy": "0x8Df03BFAff89595774505d1e68cdEc3A38ee5C43",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/md/3793",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/3793",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/metadata/3793",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "3873",
+      "name": "Kiwami #3873",
+      "rarity": "9663",
+      "ownedBy": "0xa6Ce315Fc6597E5B62d59C85920a04a46A8Db13a",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/md/3873",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/3873",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/metadata/3873",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "4146",
+      "name": "Kiwami #4146",
+      "rarity": "4784",
+      "ownedBy": "0x9e74C204a9e00dBf41D78E48F67e9D8A896a5DC2",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/md/4146",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/4146",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/metadata/4146",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4169",
+      "name": "Kiwami #4169",
+      "rarity": "803",
+      "ownedBy": "0x63E85B38365f5E846c6E8d48b3bAE299329304f4",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/md/4169",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/4169",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/metadata/4169",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "4351",
+      "name": "Kiwami #4351",
+      "rarity": "5810",
+      "ownedBy": "0xBcAf5e757Ca1ef5F35fC2daBaDcb71dC7418A40D",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/md/4351",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/4351",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/metadata/4351",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4621",
+      "name": "Kiwami #4621",
+      "rarity": "7299",
+      "ownedBy": "0x569D4f0ba6CDa61f5D17AEB23142C659A6031F17",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/md/4621",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/4621",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/metadata/4621",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4623",
+      "name": "Kiwami #4623",
+      "rarity": "5245",
+      "ownedBy": "0x1396Ab4f2F0b8c6c254D71c94C25368E6B51eA87",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/md/4623",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/4623",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/metadata/4623",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4703",
+      "name": "Kiwami #4703",
+      "rarity": "2826",
+      "ownedBy": "0x6c9a57704668Ca428Fa41AcFf575aEAf7063261C",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/md/4703",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/4703",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/metadata/4703",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "4789",
+      "name": "Kiwami #4789",
+      "rarity": "6355",
+      "ownedBy": "0x9d73Aae64ec16aa0C85f0261E9A4529316D533f7",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/md/4789",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/4789",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/metadata/4789",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4790",
+      "name": "Kiwami #4790",
+      "rarity": "1126",
+      "ownedBy": "0x6249B213cECBE60f9faa45044B07CFCcd567ad4e",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/md/4790",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/4790",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/metadata/4790",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "5414",
+      "name": "Kiwami #5414",
+      "rarity": "9919",
+      "ownedBy": "0x65822BD55311722118Fd49c2BF255dFebf6a8574",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/md/5414",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/5414",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/metadata/5414",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "5416",
+      "name": "Kiwami #5416",
+      "rarity": "6750",
+      "ownedBy": "0x6300BBCe3090fD737277365BD9D38aa650d2AaC6",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/md/5416",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/5416",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/metadata/5416",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "5447",
+      "name": "Kiwami #5447",
+      "rarity": "9862",
+      "ownedBy": "0xD24a6CaC05CEAF980A10574608279dE62E1bfD99",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/md/5447",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/5447",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/metadata/5447",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "5506",
+      "name": "Kiwami #5506",
+      "rarity": "8945",
+      "ownedBy": "0x034074cBa45D89eCA920Db1fF4Ead76b8674b463",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/md/5506",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/5506",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/metadata/5506",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "5772",
+      "name": "Kiwami #5772",
+      "rarity": "2268",
+      "ownedBy": "0x69778DEaE1C5a3244145708E6f0F03b00c7dE859",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/md/5772",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/5772",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/metadata/5772",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "5920",
+      "name": "Kiwami #5920",
+      "rarity": "9802",
+      "ownedBy": "0xE81b8fDD5B4FaB62d8796c7C20C0f8e4E2aC7f5B",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/md/5920",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/5920",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/metadata/5920",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "6220",
+      "name": "Kiwami #6220",
+      "rarity": "9126",
+      "ownedBy": "0x2BaFc1e12704563e329cbFE8332695D72065Ba19",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/md/6220",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/6220",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/metadata/6220",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "6531",
+      "name": "Kiwami #6531",
+      "rarity": "9319",
+      "ownedBy": "0xf12e408820F2421632a9e7aB3dC2B95d7711fFf9",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/md/6531",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/6531",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/metadata/6531",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "6669",
+      "name": "Kiwami #6669",
+      "rarity": "9541",
+      "ownedBy": "0xc5c8B5d590984625Ec3B883bbc2193A492C28561",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/md/6669",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/6669",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/metadata/6669",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "7553",
+      "name": "Kiwami #7553",
+      "rarity": "6270",
+      "ownedBy": "0x80Ca5a8cd44e2bFa6688Bb0A08c14A556333569e",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/md/7553",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/7553",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/metadata/7553",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "7872",
+      "name": "Kiwami #7872",
+      "rarity": "4546",
+      "ownedBy": "0x37a8BDd7a66a15217d138BbAD355e2e6B7b52dC7",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/md/7872",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/7872",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/metadata/7872",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "8297",
+      "name": "Kiwami #8297",
+      "rarity": "5929",
+      "ownedBy": "0x4c79dA18CB3bB3bA3722087bC0BD804203bfDD0b",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/md/8297",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/8297",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/metadata/8297",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "8412",
+      "name": "Kiwami #8412",
+      "rarity": "8720",
+      "ownedBy": "0x684aD903DFEdF17e15e87EfdC88Cce6c4F4e05Ee",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/md/8412",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/8412",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/metadata/8412",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "8557",
+      "name": "Kiwami #8557",
+      "rarity": "8886",
+      "ownedBy": "0x52d37863e943c1aE0e2805a77aB582DD076115B3",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/md/8557",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/8557",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/metadata/8557",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "8591",
+      "name": "Kiwami #8591",
+      "rarity": "5469",
+      "ownedBy": "0x52d37863e943c1aE0e2805a77aB582DD076115B3",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/md/8591",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/8591",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/metadata/8591",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "8602",
+      "name": "Kiwami #8602",
+      "rarity": "5828",
+      "ownedBy": "0xc66e1441a8115722B0A613f8465968E23870c99C",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/md/8602",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/8602",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/metadata/8602",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "8819",
+      "name": "Kiwami #8819",
+      "rarity": "5525",
+      "ownedBy": "0x83F5068B70eFd3b873455A72E0Bc0332FdeC799D",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/md/8819",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/8819",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/metadata/8819",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "9455",
+      "name": "Kiwami #9455",
+      "rarity": "6363",
+      "ownedBy": "0xBcAf5e757Ca1ef5F35fC2daBaDcb71dC7418A40D",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/md/9455",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/9455",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x701A038aF4Bd0fc9b69A829DdcB2f61185a49568/metadata/9455",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    }
+  ]
+}

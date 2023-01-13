@@ -1,0 +1,469 @@
+{
+  "trades": 189,
+  "washTrades": 39,
+  "volume": 175.28768619385335,
+  "washVolume": 38.92714,
+  "address": "0x231d3559aa848Bf10366fB9868590F01d34bF240",
+  "washTradedNfts": [
+    {
+      "tokenId": "927",
+      "name": "Valhalla #927",
+      "ownedBy": "0x8007CB96f8e2B554848EEEf264d0374997f01eF3",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/md/927",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/927",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x231d3559aa848Bf10366fB9868590F01d34bF240/metadata/927",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1540",
+      "name": "Valhalla #1540",
+      "rarity": "116",
+      "ownedBy": "0x5caa14C94cdAe015edc234bd7cdAaEc317a97d6A",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/md/1540",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/1540",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x231d3559aa848Bf10366fB9868590F01d34bF240/metadata/1540",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1629",
+      "name": "Valhalla #1629",
+      "rarity": "398",
+      "ownedBy": "0x3Ee1C068FC9653489A5d03ab925047EFeeb4Bc26",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/md/1629",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/1629",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x231d3559aa848Bf10366fB9868590F01d34bF240/metadata/1629",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "1812",
+      "name": "Valhalla #1812",
+      "ownedBy": "0x80DEBFd22bf1830BA71a138B410d0B31373D1CE7",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/md/1812",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/1812",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x231d3559aa848Bf10366fB9868590F01d34bF240/metadata/1812",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "2042",
+      "name": "Valhalla #2042",
+      "rarity": "35",
+      "ownedBy": "0x34Bc6337Ae0c56b8C6A3bb12e22c2c291338E7eD",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/md/2042",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/2042",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x231d3559aa848Bf10366fB9868590F01d34bF240/metadata/2042",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "2241",
+      "name": "Valhalla #2241",
+      "rarity": "892",
+      "ownedBy": "0xd1f1fCbce503b206A6c15b2F54850F014150acc5",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/md/2241",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/2241",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x231d3559aa848Bf10366fB9868590F01d34bF240/metadata/2241",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "2379",
+      "name": "Valhalla #2379",
+      "ownedBy": "0x65a7Ed5114e585B66377bCF9F0C07C0473AD3C80",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/md/2379",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/2379",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x231d3559aa848Bf10366fB9868590F01d34bF240/metadata/2379",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "2401",
+      "name": "Valhalla #2401",
+      "ownedBy": "0x08eb8C48F1C34D1eFd8c6b2e885Ad3f5b0AB8586",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/md/2401",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/2401",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x231d3559aa848Bf10366fB9868590F01d34bF240/metadata/2401",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "2879",
+      "name": "Valhalla #2879",
+      "ownedBy": "0x7279A58d87C773621e1a71d08c31E5770FDbFaaE",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/md/2879",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/2879",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x231d3559aa848Bf10366fB9868590F01d34bF240/metadata/2879",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "3033",
+      "name": "Valhalla #3033",
+      "ownedBy": "0xDdf4295b33cEF5921dEf28FE7AD952638bc290B4",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/md/3033",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/3033",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x231d3559aa848Bf10366fB9868590F01d34bF240/metadata/3033",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3075",
+      "name": "Valhalla #3075",
+      "ownedBy": "0x9c2F43858fbD946b5189803488F0d8e35A608d4F",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/md/3075",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/3075",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x231d3559aa848Bf10366fB9868590F01d34bF240/metadata/3075",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "3242",
+      "name": "Valhalla #3242",
+      "ownedBy": "0xEB2f1159751637a746c23D21eb740Be88d4743D4",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/md/3242",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/3242",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x231d3559aa848Bf10366fB9868590F01d34bF240/metadata/3242",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3852",
+      "name": "Valhalla #3852",
+      "ownedBy": "0x9FFeE3463bb0dD54F3eB4193a3BB5117d273931E",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/md/3852",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/3852",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x231d3559aa848Bf10366fB9868590F01d34bF240/metadata/3852",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "3916",
+      "name": "Valhalla #3916",
+      "ownedBy": "0xf5F663da88e49d3e45EA5126b5bfa2dcdB811a71",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/md/3916",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/3916",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x231d3559aa848Bf10366fB9868590F01d34bF240/metadata/3916",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4101",
+      "name": "Valhalla #4101",
+      "ownedBy": "0xe9dd2aeF044c9C0273ff0d2aBDdE84a4eEDbE1ee",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/md/4101",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/4101",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x231d3559aa848Bf10366fB9868590F01d34bF240/metadata/4101",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4162",
+      "name": "Valhalla #4162",
+      "ownedBy": "0x7a11f9063317E2f7320818F4Dc888a4818eEE002",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/md/4162",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/4162",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x231d3559aa848Bf10366fB9868590F01d34bF240/metadata/4162",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "4750",
+      "name": "Valhalla #4750",
+      "ownedBy": "0xFFB41A51Af6d46cd3E6e06cD00084bf22Fa128b3",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/md/4750",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/4750",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x231d3559aa848Bf10366fB9868590F01d34bF240/metadata/4750",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "4757",
+      "name": "Valhalla #4757",
+      "ownedBy": "0xf5F663da88e49d3e45EA5126b5bfa2dcdB811a71",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/md/4757",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/4757",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x231d3559aa848Bf10366fB9868590F01d34bF240/metadata/4757",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "5015",
+      "name": "Valhalla #5015",
+      "ownedBy": "0x7a11f9063317E2f7320818F4Dc888a4818eEE002",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/md/5015",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/5015",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x231d3559aa848Bf10366fB9868590F01d34bF240/metadata/5015",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "5342",
+      "name": "Valhalla #5342",
+      "ownedBy": "0xB8F7719d581313832157f20e1DCa82c353838484",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/md/5342",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/5342",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x231d3559aa848Bf10366fB9868590F01d34bF240/metadata/5342",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "5397",
+      "name": "Valhalla #5397",
+      "ownedBy": "0x010472c60fbCbe0ecd1EBfb05485B01D2f2284F0",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/md/5397",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/5397",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x231d3559aa848Bf10366fB9868590F01d34bF240/metadata/5397",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "6149",
+      "name": "Valhalla #6149",
+      "ownedBy": "0x7a11f9063317E2f7320818F4Dc888a4818eEE002",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/md/6149",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/6149",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x231d3559aa848Bf10366fB9868590F01d34bF240/metadata/6149",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "6199",
+      "name": "Valhalla #6199",
+      "ownedBy": "0xE4D825729c7B43b26D038c81e4E0477c30C6a5BC",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/md/6199",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/6199",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x231d3559aa848Bf10366fB9868590F01d34bF240/metadata/6199",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "6662",
+      "name": "Valhalla #6662",
+      "ownedBy": "0xf4032de8A48Fc1DFac2757f956C7F12A88B57e71",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/md/6662",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/6662",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x231d3559aa848Bf10366fB9868590F01d34bF240/metadata/6662",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "6988",
+      "name": "Valhalla #6988",
+      "ownedBy": "0x0F4BC970e348A061B69D05B7e2E5c13EB687E5e3",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/md/6988",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/6988",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x231d3559aa848Bf10366fB9868590F01d34bF240/metadata/6988",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "7032",
+      "name": "Valhalla #7032",
+      "ownedBy": "0x7a11f9063317E2f7320818F4Dc888a4818eEE002",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/md/7032",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/7032",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x231d3559aa848Bf10366fB9868590F01d34bF240/metadata/7032",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "7453",
+      "name": "Valhalla #7453",
+      "ownedBy": "0x9b84796BF756eC296F980C1283a648D0B4647b82",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/md/7453",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/7453",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x231d3559aa848Bf10366fB9868590F01d34bF240/metadata/7453",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "7827",
+      "name": "Valhalla #7827",
+      "ownedBy": "0xEAcbe3aA06352482E5850b26C9eFA80422e91d54",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/md/7827",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/7827",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x231d3559aa848Bf10366fB9868590F01d34bF240/metadata/7827",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "7872",
+      "name": "Valhalla #7872",
+      "ownedBy": "0x45B4dd02b7F855562534a8D84Ea74dd006e5Bb09",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/md/7872",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/7872",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x231d3559aa848Bf10366fB9868590F01d34bF240/metadata/7872",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "7903",
+      "name": "Valhalla #7903",
+      "ownedBy": "0x174eD45bdd356c55fCB5336e06f3dF059873cb41",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/md/7903",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/7903",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x231d3559aa848Bf10366fB9868590F01d34bF240/metadata/7903",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "8262",
+      "name": "Valhalla #8262",
+      "ownedBy": "0xD5258C2B820d43AC77D42dB0f71B2907a4d076b8",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/md/8262",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/8262",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x231d3559aa848Bf10366fB9868590F01d34bF240/metadata/8262",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "8494",
+      "name": "Valhalla #8494",
+      "ownedBy": "0xe9dd2aeF044c9C0273ff0d2aBDdE84a4eEDbE1ee",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/md/8494",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/8494",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x231d3559aa848Bf10366fB9868590F01d34bF240/metadata/8494",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "8528",
+      "name": "Valhalla #8528",
+      "ownedBy": "0x6B46E8eDfBFA9B3710F91539978442d039D84221",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/md/8528",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/8528",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x231d3559aa848Bf10366fB9868590F01d34bF240/metadata/8528",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "8563",
+      "name": "Valhalla #8563",
+      "ownedBy": "0xfB30CDae07272c8A37929039200201926eBa6428",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/md/8563",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/8563",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x231d3559aa848Bf10366fB9868590F01d34bF240/metadata/8563",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "8775",
+      "name": "Valhalla #8775",
+      "ownedBy": "0xC320a802a1E1C587A7f9433752523f17902dE373",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/md/8775",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/8775",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x231d3559aa848Bf10366fB9868590F01d34bF240/metadata/8775",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "8837",
+      "name": "Valhalla #8837",
+      "ownedBy": "0x9177530f4e09186DB84523cC7e074A41Fe958344",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/md/8837",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/8837",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x231d3559aa848Bf10366fB9868590F01d34bF240/metadata/8837",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    },
+    {
+      "tokenId": "8855",
+      "name": "Valhalla #8855",
+      "ownedBy": "0xca041c420d7e71Ee28c53d931172A0116A415Dca",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/md/8855",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/8855",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x231d3559aa848Bf10366fB9868590F01d34bF240/metadata/8855",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "8919",
+      "name": "Valhalla #8919",
+      "ownedBy": "0x027cB357990832e92847c041162b61f4C835dC87",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/md/8919",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/8919",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x231d3559aa848Bf10366fB9868590F01d34bF240/metadata/8919",
+      "washTraded": true,
+      "washTrades": [
+        "back_and_forth"
+      ]
+    }
+  ]
+}

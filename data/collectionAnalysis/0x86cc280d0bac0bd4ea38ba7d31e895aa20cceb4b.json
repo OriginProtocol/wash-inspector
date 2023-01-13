@@ -1,0 +1,61 @@
+{
+  "trades": 11,
+  "washTrades": 4,
+  "volume": 4.983,
+  "washVolume": 2.434,
+  "address": "0x86CC280D0BAC0BD4Ea38ba7d31e895Aa20Cceb4b",
+  "washTradedNfts": [
+    {
+      "tokenId": "402",
+      "name": "Karma #402",
+      "rarity": "8725",
+      "ownedBy": "0x9F1063848b32D7c28C4144c8Eb81B6597C8f961D",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x86CC280D0BAC0BD4Ea38ba7d31e895Aa20Cceb4b/md/402",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x86CC280D0BAC0BD4Ea38ba7d31e895Aa20Cceb4b/402",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x86CC280D0BAC0BD4Ea38ba7d31e895Aa20Cceb4b/metadata/402",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "1703",
+      "name": "Karma #1703",
+      "rarity": "10381",
+      "ownedBy": "0xed18F3a684bd86C23f4F0051b98995F9f25f585c",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x86CC280D0BAC0BD4Ea38ba7d31e895Aa20Cceb4b/md/1703",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x86CC280D0BAC0BD4Ea38ba7d31e895Aa20Cceb4b/1703",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x86CC280D0BAC0BD4Ea38ba7d31e895Aa20Cceb4b/metadata/1703",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "2991",
+      "name": "Karma #2991",
+      "rarity": "10263",
+      "ownedBy": "0x6aCEf736e005dC7cF82AAA5ae6ef213F82192524",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x86CC280D0BAC0BD4Ea38ba7d31e895Aa20Cceb4b/md/2991",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x86CC280D0BAC0BD4Ea38ba7d31e895Aa20Cceb4b/2991",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x86CC280D0BAC0BD4Ea38ba7d31e895Aa20Cceb4b/metadata/2991",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    },
+    {
+      "tokenId": "9934",
+      "name": "Karma #9934",
+      "rarity": "10467",
+      "ownedBy": "0x9703aA21BE38a31ef1745Eee8f297E118ad53853",
+      "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x86CC280D0BAC0BD4Ea38ba7d31e895Aa20Cceb4b/md/9934",
+      "imageSrc": "partner-assets-orig/ethereum-1/0x86CC280D0BAC0BD4Ea38ba7d31e895Aa20Cceb4b/9934",
+      "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x86CC280D0BAC0BD4Ea38ba7d31e895Aa20Cceb4b/metadata/9934",
+      "washTraded": true,
+      "washTrades": [
+        "wallets_connected"
+      ]
+    }
+  ]
+}
