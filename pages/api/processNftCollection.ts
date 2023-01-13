@@ -17,7 +17,7 @@ export default async function handler(
   if (address) {
     console.log(`Processing address: ${address}`);
     try {
-      await processNft(address);
+      await processNftCollection(address);
     } catch (e) {
       console.error(`Failed processing name: ${name} address: ${address}`, e);
     }
@@ -31,7 +31,7 @@ export default async function handler(
         `Processing ${i}/${nftList.length} name: ${name} address: ${address}`
       );
       try {
-        await processNft(address);
+        await processNftCollection(address);
       } catch (e) {
         console.error(`Failed processing name: ${name} address: ${address}`, e);
       }
@@ -40,7 +40,7 @@ export default async function handler(
   }
 }
 
-async function processNft(address) {
+async function processNftCollection(address) {
   const alchemy = useAlchemy();
 
   const metadata = await alchemy.nft.getContractMetadata(address);

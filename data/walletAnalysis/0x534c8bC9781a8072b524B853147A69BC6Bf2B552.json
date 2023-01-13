@@ -2,6 +2,7 @@
     "washTradedNfts": [
         {
             "tokenId": "117",
+            "contractAddress": "0xBC4CA0EdA7647A8aB7C2061c2E118A18a936f13D",
             "name": "#117",
             "rarity": "3040",
             "ownedBy": "0x534c8bC9781a8072b524B853147A69BC6Bf2B552",
@@ -9,6 +10,7 @@
             "imageSrc": "partner-assets-orig/ethereum-1/0xBC4CA0EdA7647A8aB7C2061c2E118A18a936f13D/117",
             "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0xBC4CA0EdA7647A8aB7C2061c2E118A18a936f13D/metadata/117",
             "washTraded": true,
+            "ethPrice": "100.0",
             "washTrades": [
                 "wallets_connected"
             ]

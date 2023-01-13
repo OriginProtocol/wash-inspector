@@ -2,6 +2,8 @@
     "washTradedNfts": [
         {
             "tokenId": "657",
+            "contractAddress": "0x1485297e942ce64E0870EcE60179dFda34b4C625",
+            "projectName": "A collection of 10,000 PFPs. Free mint. No discord. No roadmap. CCO. Protect the Moonrunners at all costs.",
             "name": "Moonrunners #657",
             "rarity": "1435",
             "ownedBy": "0x5295B32b371abD61b7365C598Cbbf84b20f84Ad5",
@@ -9,6 +11,7 @@
             "imageSrc": "partner-assets-orig/ethereum-1/0x1485297e942ce64E0870EcE60179dFda34b4C625/657",
             "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x1485297e942ce64E0870EcE60179dFda34b4C625/metadata/657",
             "washTraded": true,
+            "ethPrice": "0.11",
             "washTrades": [
                 "back_and_forth"
             ]

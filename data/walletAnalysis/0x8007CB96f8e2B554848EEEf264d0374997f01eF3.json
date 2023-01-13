@@ -2,12 +2,14 @@
     "washTradedNfts": [
         {
             "tokenId": "927",
+            "contractAddress": "0x231d3559aa848Bf10366fB9868590F01d34bF240",
             "name": "Valhalla #927",
             "ownedBy": "0x8007CB96f8e2B554848EEEf264d0374997f01eF3",
             "image": "https://nip-demo-bucket83908e77-dc1e7vryd6rd.s3.amazonaws.com/partner-assets/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/md/927",
             "imageSrc": "partner-assets-orig/ethereum-1/0x231d3559aa848Bf10366fB9868590F01d34bF240/927",
             "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x231d3559aa848Bf10366fB9868590F01d34bF240/metadata/927",
             "washTraded": true,
+            "ethPrice": "1.1969",
             "washTrades": [
                 "back_and_forth"
             ]

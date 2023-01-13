@@ -42,7 +42,7 @@ const Index: NextPage = () => (
             Connect your wallet to find out if any of your NFTs have indicators
             of wash trading
           </p>
-          <Link href="/wallet/0x534c8bC9781a8072b524B853147A69BC6Bf2B552">
+          <Link href="/wallet/0xae805B9eaa5A04F307b439484eD881e75D36Ac73">
             <button className="btn btn-lg">Connect Wallet</button>
           </Link>
         </div>

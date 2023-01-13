@@ -2,8 +2,9 @@
 import type { NextApiRequest, NextApiResponse } from "next";
 import { transferHistory } from "../../src/data/nftTransactions";
 import useAlchemy from "../../src/hooks/useAlchemy";
-import { uniq } from "lodash";
+import { uniq, orderBy } from "lodash";
 import fs from "fs";
+import { utils } from "ethers";
 const nftList = require("./nftList.json");
 
 //horrid little hack to make demo faster
@@ -88,12 +89,13 @@ export default async function handler(
       }
 
       batchedPromises = [];
-
       const cleanResults = results
         .filter((r) => r.washTraded === true)
         .map((r) => {
           return {
             tokenId: r.tokenId,
+            contractAddress: r.contractAddress,
+            projectName: r.metadata.description,
             name: r.name,
             rarity: r.rarity,
             ownedBy: r.ownedBy,
@@ -101,6 +103,13 @@ export default async function handler(
             imageSrc: r.imageSrc,
             metadataSrc: r.metadataSrc,
             washTraded: r.washTraded,
+            ethPrice: utils.formatUnits(
+              orderBy(
+                r.activity.filter(a => a.event === 'Sale'),
+                ['timestamp'],
+                ['desc']
+              )[0].amount
+            , 18),
             washTrades: uniq(r.washTrades.map((trade) => trade.washTradeType)),
           };
         });

@@ -2,6 +2,7 @@
     "washTradedNfts": [
         {
             "tokenId": "2176",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
             "name": "Sappy Seal #2176",
             "rarity": "6663",
             "ownedBy": "0xae805B9eaa5A04F307b439484eD881e75D36Ac73",
@@ -9,12 +10,14 @@
             "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/2176",
             "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/2176",
             "washTraded": true,
+            "ethPrice": "0.69",
             "washTrades": [
                 "wallets_connected"
             ]
         },
         {
             "tokenId": "2900",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
             "name": "Sappy Seal #2900",
             "rarity": "4286",
             "ownedBy": "0xae805B9eaa5A04F307b439484eD881e75D36Ac73",
@@ -22,12 +25,14 @@
             "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/2900",
             "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/2900",
             "washTraded": true,
+            "ethPrice": "0.52",
             "washTrades": [
                 "wallets_connected"
             ]
         },
         {
             "tokenId": "9617",
+            "contractAddress": "0x364C828eE171616a39897688A831c2499aD972ec",
             "name": "Sappy Seal #9617",
             "rarity": "5393",
             "ownedBy": "0xae805B9eaa5A04F307b439484eD881e75D36Ac73",
@@ -35,12 +40,15 @@
             "imageSrc": "partner-assets-orig/ethereum-1/0x364C828eE171616a39897688A831c2499aD972ec/9617",
             "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x364C828eE171616a39897688A831c2499aD972ec/metadata/9617",
             "washTraded": true,
+            "ethPrice": "0.598",
             "washTrades": [
                 "wallets_connected"
             ]
         },
         {
             "tokenId": "536",
+            "contractAddress": "0x394E3d3044fC89fCDd966D3cb35Ac0B32B0Cda91",
+            "projectName": "A handcrafted collection of 10,000 characters developed by artist DirtyRobot. Each with their own identity to be discovered within the wider stories of RENGA. In its purest form, RENGA is the art of storytelling. Visit our [website](https://renga.app/) for more details.",
             "name": "RENGA #536",
             "rarity": "4303",
             "ownedBy": "0xae805B9eaa5A04F307b439484eD881e75D36Ac73",
@@ -48,12 +56,14 @@
             "imageSrc": "partner-assets-orig/ethereum-1/0x394E3d3044fC89fCDd966D3cb35Ac0B32B0Cda91/536",
             "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x394E3d3044fC89fCDd966D3cb35Ac0B32B0Cda91/metadata/536",
             "washTraded": true,
+            "ethPrice": "2.0",
             "washTrades": [
                 "back_and_forth"
             ]
         },
         {
             "tokenId": "6215",
+            "contractAddress": "0x3bf2922f4520a8BA0c2eFC3D2a1539678DaD5e9D",
             "name": "0N1 #6215",
             "rarity": "7515",
             "ownedBy": "0xae805B9eaa5A04F307b439484eD881e75D36Ac73",
@@ -61,12 +71,14 @@
             "imageSrc": "partner-assets-orig/ethereum-1/0x3bf2922f4520a8BA0c2eFC3D2a1539678DaD5e9D/6215",
             "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x3bf2922f4520a8BA0c2eFC3D2a1539678DaD5e9D/metadata/6215",
             "washTraded": true,
+            "ethPrice": "0.375",
             "washTrades": [
                 "wallets_connected"
             ]
         },
         {
             "tokenId": "6591",
+            "contractAddress": "0x3bf2922f4520a8BA0c2eFC3D2a1539678DaD5e9D",
             "name": "0N1 #6591",
             "rarity": "4776",
             "ownedBy": "0xae805B9eaa5A04F307b439484eD881e75D36Ac73",
@@ -74,6 +86,7 @@
             "imageSrc": "partner-assets-orig/ethereum-1/0x3bf2922f4520a8BA0c2eFC3D2a1539678DaD5e9D/6591",
             "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x3bf2922f4520a8BA0c2eFC3D2a1539678DaD5e9D/metadata/6591",
             "washTraded": true,
+            "ethPrice": "0.388",
             "washTrades": [
                 "back_and_forth"
             ]

@@ -2,6 +2,8 @@
     "washTradedNfts": [
         {
             "tokenId": "1876",
+            "contractAddress": "0x08E795c30476bac6052b28fcDa04e44792C7151f",
+            "projectName": "The Alien Doogle is a 10k derivative project made with love by The Alien Boy in collaboration with a member of our community @pennftyak  \n  \nIt is the first derivative project made by a 180 turn from the art style of the OG collection.  \nAll traits drawn by Caos Boy.",
             "name": "Tony Hawk",
             "rarity": "8856",
             "ownedBy": "0xeA3b5dE7314496c0E203B60dabA45F385Df1f3Be",
@@ -9,6 +11,7 @@
             "imageSrc": "partner-assets-orig/ethereum-1/0x08E795c30476bac6052b28fcDa04e44792C7151f/1876",
             "metadataSrc": "s3://nip-demo-bucket83908e77-dc1e7vryd6rd/ethereum/1/partners/0x08E795c30476bac6052b28fcDa04e44792C7151f/metadata/1876",
             "washTraded": true,
+            "ethPrice": "0.0",
             "washTrades": [
                 "wallets_connected"
             ]
