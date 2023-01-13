@@ -1,7 +1,10 @@
 import type { FunctionComponent } from "react";
 import TimeAgo from "javascript-time-ago";
-import type { NFTWashTrade, WashTradeTypes } from "./types";
-import { WashTradeTypeDetails } from "./types";
+import type {
+  NFTWashTrade,
+  WashTradeTypes,
+} from "../../../../types/NFTWashTrade";
+import { WashTradeTypeDetails } from "../../../../types/NFTWashTrade";
 import Link from "next/link";
 
 import en from "javascript-time-ago/locale/en";

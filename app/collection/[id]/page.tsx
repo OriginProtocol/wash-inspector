@@ -1,27 +1,32 @@
 "use client";
 
 import type { NextPage } from "next";
+import type { CollectionWashTradeDetails } from "../../../types/CollectionWashTrade";
 import { Seo } from "../../../ui/Seo";
 import { PageHeader } from "../../../ui/PageHeader";
 import { PageTitle } from "../../../ui/PageTitle";
 import { PageDescription } from "../../../ui/PageDescription";
 import collections from "../../../data/nipCollections";
-import { TransactionsTable } from "./TransactionsTable";
-
-// export const getStaticProps: GetStaticProps = async ({ params }) => {
-//   return {
-//     props: {
-//       collection: collections.find(
-//         (collection) => collection.contractAddress === params?.["id"]
-//       ),
-//     },
-//   };
-// };
+import { useCollectionWashTrades } from "../../../hooks/useCollectionWashTrades";
+import { WashedTokensTable } from "./WashedTokensTable";
 
 const Index: NextPage = ({ params: { id } }) => {
   const collection = collections.find(
     (collection) => collection.contractAddress === id
   );
+
+  const { loading, collectionWashTrades } = useCollectionWashTrades(id);
+
+  if (loading) {
+    return "Loading...";
+  }
+
+  console.log(loading);
+  console.log(collectionWashTrades);
+  const details: CollectionWashTradeDetails = collectionWashTrades?.data;
+
+  console.log(details);
+  // const percentageVolumeWashTrades = collectionWashTrades.
 
   return (
     <>
@@ -40,7 +45,7 @@ const Index: NextPage = ({ params: { id } }) => {
         </PageDescription>
       </PageHeader>
       <div className="container my-12 mx-auto px-4 md:px-12">
-        <div className="flex flex-wrap -mx-1 lg:-mx-4">
+        <div className="flex -mx-1 lg:-mx-4">
           <div className="stats stats-vertical shadow w-full md:w-1/2 lg:w-1/3">
             <div className="stat">
               <div className="stat-figure text-secondary">
@@ -106,7 +111,7 @@ const Index: NextPage = ({ params: { id } }) => {
             </div>
           </div>
           <div className="flex-3">
-            <TransactionsTable collection={collection} />
+            <WashedTokensTable {...details} />
           </div>
         </div>
       </div>

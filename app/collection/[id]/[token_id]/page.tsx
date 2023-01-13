@@ -1,7 +1,7 @@
 "use client";
 
 import type { NextPage } from "next";
-import type { NFTWashDetails } from "./types";
+import type { NFTWashDetails } from "../../../../types/NFTWashTrade";
 import { Seo } from "../../../../ui/Seo";
 import { PageTitle } from "../../../../ui/PageTitle";
 import { PageSubTitle } from "../../../../ui/PageSubTitle";
