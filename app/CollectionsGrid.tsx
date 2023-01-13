@@ -44,8 +44,6 @@ interface CollectionsGridProps {
 
 // const data = rawData.
 
-console.log(rawData);
-
 const SEVERITY = {
   HIGH: 3,
   MEDIUM: 2,
@@ -75,6 +73,13 @@ const TagTypes = {
       "This collection has a high percentage of transactions funded by the same wallet.",
     severity: SEVERITY.MEDIUM,
   },
+  connectedWallets: {
+    name: "Connected Wallets",
+    short: "CW",
+    description:
+      "Wallets of the buyer and seller seem to be connected.",
+    severity: SEVERITY.MEDIUM,
+  },
   boughtThreeTimes: {
     name: "Bought 3 Times",
     short: "B3X",
@@ -97,58 +102,74 @@ const TagTypes = {
   },
 };
 
-//do some basic processing to the data to make some nice tags. This is all total BS of course
-const processed = rawData.map((collection) => {
-  const {
-    totalSuspiciousTransactionPercentage,
-    backAndForthTransactionPercentage,
-    sameWalletFundedTransactionPercentage,
-    boughtThreeTimesTransactionPercentage,
-    buyerIsSellerTransactionsPercentage,
-  } = collection.washTradingIndicators;
 
-  const tags = [];
 
-  if (totalSuspiciousTransactionPercentage > 15) {
-    tags.push(TagTypes.highTotalPercentage);
-  }
+const process = (rawData) => {
+  return rawData.map((collection) => {
+    const {
+      trades,
+      washTrades,
+      volume,
+      washVolume,
+      nftsWashTradedCount,
+      washTradedNftsAggregates
+    } = collection
 
-  if (backAndForthTransactionPercentage > 2) {
-    tags.push(TagTypes.backAndForth);
-  }
+    const totalSuspiciousTransactionPercentage = (washTrades/trades) * 100
+    const backAndForthTransactionPercentage = (washTradedNftsAggregates.back_and_forth || 0) / trades * 100
+    const connectedWalletsTransactionPercentage = (washTradedNftsAggregates.wallets_connected || 0) / trades * 100
+    const buyerIsSellerTransactionsPercentage = (washTradedNftsAggregates.buyer_is_seller || 0) / trades * 100
+    const sameWalletFundedTransactionPercentage = 0
+    const boughtThreeTimesTransactionPercentage = 0
 
-  if (sameWalletFundedTransactionPercentage > 12) {
-    tags.push(TagTypes.sameWallet);
-  }
+    const tags = [];
 
-  if (boughtThreeTimesTransactionPercentage > 4) {
-    tags.push(TagTypes.boughtThreeTimes);
-  }
+    if (totalSuspiciousTransactionPercentage > 15) {
+      tags.push(TagTypes.highTotalPercentage);
+    }
 
-  if (buyerIsSellerTransactionsPercentage > 6) {
-    tags.push(TagTypes.buyerIsSeller);
-  }
+    if (backAndForthTransactionPercentage > 2) {
+      tags.push(TagTypes.backAndForth);
+    }
 
-  if (tags.length === 0) {
-    tags.push(TagTypes.clean);
-  }
+    if (sameWalletFundedTransactionPercentage > 12) {
+      tags.push(TagTypes.sameWallet);
+    }
 
-  return {
-    collection,
-    tags,
-  };
-});
+    if (boughtThreeTimesTransactionPercentage > 4) {
+      tags.push(TagTypes.boughtThreeTimes);
+    }
+
+    if (buyerIsSellerTransactionsPercentage > 6) {
+      tags.push(TagTypes.buyerIsSeller);
+    }
+
+    if (connectedWalletsTransactionPercentage > 5) {
+      tags.push(TagTypes.connectedWallets);
+    }
+
+    if (tags.length === 0) {
+      tags.push(TagTypes.clean);
+    }
+
+    return {
+      collection,
+      tags,
+    };
+  });
+}
 
 // After buying an NFT after a suspicious trade, buyer lost money 78% of the time.
 
 const CollectionsGrid: FunctionComponent<CollectionsGridProps> = ({
   collections = [],
 }) => {
+  const processed = process(collections);
   const [search, setSearch] = useState("");
 
   const filtered = search?.length
     ? processed.filter((item) => {
-        return item.collection.title
+        return item.collection.name
           .toLowerCase()
           .includes(search.toLowerCase());
       })
@@ -168,7 +189,7 @@ const CollectionsGrid: FunctionComponent<CollectionsGridProps> = ({
       </div>
       <div className="flex flex-wrap -mx-1 lg:-mx-4">
         {filtered.map((item) => (
-          <CollectionCard key={item.collection.contractAddress} {...item} />
+          <CollectionCard key={item.collection.address} {...item} />
         ))}
       </div>
     </div>

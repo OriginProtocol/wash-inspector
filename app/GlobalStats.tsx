@@ -1,8 +1,10 @@
 import type { FunctionComponent, ReactNode } from "react";
 
-interface GlobalStatsProps {}
+interface GlobalStatsProps {
+  stats: any;
+}
 
-const GlobalStats: FunctionComponent<GlobalStatsProps> = ({}) => (
+const GlobalStats: FunctionComponent<GlobalStatsProps> = ({ stats }) => (
   <div className="stats stats-vertical shadow w-10/12 ml-6">
     <div className="stat">
       <div className="stat-figure text-secondary">
@@ -21,7 +23,7 @@ const GlobalStats: FunctionComponent<GlobalStatsProps> = ({}) => (
         </svg>
       </div>
       <div className="stat-title">Suspicious Transactions</div>
-      <div className="stat-value">532,918</div>
+      <div className="stat-value">{stats.totalWashTrades}</div>
       <div className="stat-desc">Out of 2.4m analyzed</div>
     </div>
 
@@ -42,7 +44,7 @@ const GlobalStats: FunctionComponent<GlobalStatsProps> = ({}) => (
         </svg>
       </div>
       <div className="stat-title">Suspicious trades</div>
-      <div className="stat-value">24%</div>
+      <div className="stat-value">{Math.round(stats.totalWashTrades / stats.totalTrades * 100,2)}%</div>
       <div className="stat-desc">↗︎ 12% in the last month</div>
     </div>
 
@@ -62,9 +64,30 @@ const GlobalStats: FunctionComponent<GlobalStatsProps> = ({}) => (
           ></path>
         </svg>
       </div>
-      <div className="stat-title">Wash Traders</div>
-      <div className="stat-value">195</div>
-      <div className="stat-desc">wallets account for 50% of all washing</div>
+      <div className="stat-title">Total Volume</div>
+      <div className="stat-value">{Math.round(stats.totalVolume, 2)} ETH</div>
+      <div className="stat-desc">total NFT trade volume</div>
+    </div>
+
+    <div className="stat">
+      <div className="stat-figure text-secondary">
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          fill="none"
+          viewBox="0 0 24 24"
+          className="inline-block w-8 h-8 stroke-current"
+        >
+          <path
+            strokeLinecap="round"
+            strokeLinejoin="round"
+            strokeWidth="2"
+            d="M5 8h14M5 8a2 2 0 110-4h14a2 2 0 110 4M5 8v10a2 2 0 002 2h10a2 2 0 002-2V8m-9 4h4"
+          ></path>
+        </svg>
+      </div>
+      <div className="stat-title">Wash Trade Volume</div>
+      <div className="stat-value">{Math.round(stats.totalWashVolume / stats.totalVolume * 100,2)}%</div>
+      <div className="stat-desc">Percentage of Total Volume that represents was trades</div>
     </div>
   </div>
 );
