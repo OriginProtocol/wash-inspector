@@ -6,7 +6,6 @@ const useNftCollection = (contractAddress) => {
   const [loading, setLoading] = useState(true)
   const [progress, setProgress] = useState(0)
 
-  console.log("contractAddress", contractAddress)
   useEffect(() => {
     const loadNfts = async() => {
       if (!contractAddress) {

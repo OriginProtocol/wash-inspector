@@ -23,11 +23,7 @@ const Index: NextPage = ({ params: { id } }) => {
     return <Loading />;
   }
 
-  console.log(loading);
-  console.log(collectionWashTrades);
   const details: CollectionWashTradeDetails = collectionWashTrades?.data;
-
-  console.log(details);
   const washTradesPercentage = Math.round(
     (details.washTrades / details.trades) * 100
   );

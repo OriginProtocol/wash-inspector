@@ -8,8 +8,8 @@ interface CollectionCardProps {
 }
 
 export interface CollectionWashStats {
-  contractAddress: string;
-  title: string;
+  address: string;
+  name: string;
   symbol: string;
   totalSupply: number;
   tokensIngested: number;
@@ -18,7 +18,7 @@ export interface CollectionWashStats {
   assetsIngested: number;
   openseaSlug: string;
   // thumbnail: `https://assets.story.xyz/${collection.gsiSortKey}/assets/md/4505`,
-  thumbnail: string;
+  imageUrl: string;
 
   washTradingIndicators: {
     totalSuspiciousTransactionPercentage: number;
@@ -67,18 +67,18 @@ const CollectionCard: FunctionComponent<CollectionCardProps> = ({
 }) => (
   <div className="my-1 px-1 w-full md:w-1/2 lg:my-4 lg:px-4 lg:w-1/3">
     <article className="overflow-hidden rounded-lg shadow-lg">
-      <a href={`/collection/${collection.contractAddress}`}>
+      <a href={`/collection/${collection.address}`}>
         <img
-          alt={`${collection.title} thumbnail`}
+          alt={`${collection.name} imageUrl`}
           className="block h-auto w-full md:h-48 lg:h-64"
-          src={collection.thumbnail}
+          src={collection.imageUrl}
         />
       </a>
 
       <header className="flex items-center justify-between leading-tight p-2 md:p-4">
         <h1 className="text-lg">
           <a className="no-underline hover:underline text-black" href="#">
-            {collection.title}
+            {collection.name}
           </a>
           {isNew ? <div className="badge badge-primary">NEW</div> : null}
         </h1>
