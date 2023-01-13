@@ -23,7 +23,7 @@ const Index: NextPage = ({ params: { address } }) => {
       <Breadcrumbs
         crumbs={[{ text: `Wallet ${address}`, uri: `/wallet/${address}` }]}
       />
-      <PageSubTitle>Wallet</PageSubTitle>
+      <PageSubTitle>Wash Traded NFTs</PageSubTitle>
       <WashedTokensTable contractAddressWithinNFT={true} {...details} />
     </div>
   );

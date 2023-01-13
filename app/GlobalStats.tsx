@@ -5,7 +5,7 @@ interface GlobalStatsProps {
 }
 
 const GlobalStats: FunctionComponent<GlobalStatsProps> = ({ stats }) => (
-  <div className="stats stats-vertical shadow w-10/12 ml-6">
+  <div className="stats shadow w-full px-6">
     <div className="stat">
       <div className="stat-figure text-secondary">
         <svg
