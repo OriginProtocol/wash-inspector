@@ -169,7 +169,7 @@ const CollectionsGrid: FunctionComponent<CollectionsGridProps> = ({
 
   const filtered = search?.length
     ? processed.filter((item) => {
-        return item.collection.title
+        return item.collection.name
           .toLowerCase()
           .includes(search.toLowerCase());
       })
