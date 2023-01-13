@@ -32,51 +32,48 @@ const features = Object.values(WashTradeTypeDetails);
 
 function Features() {
   return (
-    <div className="bg-white py-24 sm:py-32 lg:py-40">
-      <div className="mx-auto max-w-7xl px-6 lg:px-8">
-        <div className="sm:text-center">
-          <h2 className="text-lg font-semibold leading-8 text-indigo-600">
-            RINSE
+    <div className="mx-auto max-w-7xl px-6 lg:px-8">
+      <div className="sm:text-center">
+        <h2 className="text-lg font-semibold leading-8 text-indigo-600">
+          RINSE
+        </h2>
+        <p className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
+          NFT Wash Trading Detect0r
+        </p>
+        <p className="mx-auto mt-6 max-w-2xl text-lg leading-8 text-gray-600">
+          RINSE uses advanced machine learning and warp-flux capacitance factors
+          to detect attempts to use Wash Trading to inflate the price of NFTs
+        </p>
+      </div>
+
+      <div className="mt-20 max-w-lg sm:mx-auto md:max-w-none">
+        <div className="space-y-5 mb-10 sm:space-y-4 md:max-w-xl lg:max-w-3xl xl:max-w-none">
+          <h2 className="text-3xl font-bold tracking-tight sm:text-4xl">
+            Features
           </h2>
-          <p className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
-            NFT Wash Trading Detect0r
-          </p>
-          <p className="mx-auto mt-6 max-w-2xl text-lg leading-8 text-gray-600">
-            RINSE uses advanced machine learning and warp-flux capacitance
-            factors to detect attempts to use Wash Trading to inflate the price
-            of NFTs
+          <p className="text-xl text-gray-500">
+            A few of the techniques we use to detect wash trading:
           </p>
         </div>
-
-        <div className="mt-20 max-w-lg sm:mx-auto md:max-w-none">
-          <div className="space-y-5 mb-10 sm:space-y-4 md:max-w-xl lg:max-w-3xl xl:max-w-none">
-            <h2 className="text-3xl font-bold tracking-tight sm:text-4xl">
-              Features
-            </h2>
-            <p className="text-xl text-gray-500">
-              A few of the techniques we use to detect wash trading:
-            </p>
-          </div>
-          <div className="grid grid-cols-1 gap-y-16 md:grid-cols-2 md:gap-x-12 md:gap-y-16">
-            {features.map((feature) => (
-              <div
-                key={feature.name}
-                className="relative flex flex-col gap-6 sm:flex-row md:flex-col lg:flex-row"
-              >
-                <div className="flex h-12 w-12 items-center justify-center rounded-xl bg-indigo-500 text-white sm:shrink-0">
-                  <feature.Icon className="h-8 w-8" aria-hidden="true" />
-                </div>
-                <div className="sm:min-w-0 sm:flex-1">
-                  <p className="text-lg font-semibold leading-8 text-gray-900">
-                    {feature.marketingName}
-                  </p>
-                  <p className="mt-2 text-base leading-7 text-gray-600">
-                    {feature.marketing}
-                  </p>
-                </div>
+        <div className="grid grid-cols-1 gap-y-16 md:grid-cols-2 md:gap-x-12 md:gap-y-16">
+          {features.map((feature) => (
+            <div
+              key={feature.name}
+              className="relative flex flex-col gap-6 sm:flex-row md:flex-col lg:flex-row"
+            >
+              <div className="flex h-12 w-12 items-center justify-center rounded-xl bg-indigo-500 text-white sm:shrink-0">
+                <feature.Icon className="h-8 w-8" aria-hidden="true" />
               </div>
-            ))}
-          </div>
+              <div className="sm:min-w-0 sm:flex-1">
+                <p className="text-lg font-semibold leading-8 text-gray-900">
+                  {feature.marketingName}
+                </p>
+                <p className="mt-2 text-base leading-7 text-gray-600">
+                  {feature.marketing}
+                </p>
+              </div>
+            </div>
+          ))}
         </div>
       </div>
     </div>

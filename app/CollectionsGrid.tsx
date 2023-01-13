@@ -76,8 +76,7 @@ const TagTypes = {
   connectedWallets: {
     name: "Connected Wallets",
     short: "CW",
-    description:
-      "Wallets of the buyer and seller seem to be connected.",
+    description: "Wallets of the buyer and seller seem to be connected.",
     severity: SEVERITY.MEDIUM,
   },
   boughtThreeTimes: {
@@ -102,8 +101,6 @@ const TagTypes = {
   },
 };
 
-
-
 const process = (rawData) => {
   return rawData.map((collection) => {
     const {
@@ -112,19 +109,22 @@ const process = (rawData) => {
       volume,
       washVolume,
       nftsWashTradedCount,
-      washTradedNftsAggregates
-    } = collection
+      washTradedNftsAggregates,
+    } = collection;
 
-    const totalSuspiciousTransactionPercentage = (washTrades/trades) * 100
-    const backAndForthTransactionPercentage = (washTradedNftsAggregates.back_and_forth || 0) / trades * 100
-    const connectedWalletsTransactionPercentage = (washTradedNftsAggregates.wallets_connected || 0) / trades * 100
-    const buyerIsSellerTransactionsPercentage = (washTradedNftsAggregates.buyer_is_seller || 0) / trades * 100
-    const sameWalletFundedTransactionPercentage = 0
-    const boughtThreeTimesTransactionPercentage = 0
+    const totalSuspiciousTransactionPercentage = (washTrades / trades) * 100;
+    const backAndForthTransactionPercentage =
+      ((washTradedNftsAggregates.back_and_forth || 0) / trades) * 100;
+    const connectedWalletsTransactionPercentage =
+      ((washTradedNftsAggregates.wallets_connected || 0) / trades) * 100;
+    const buyerIsSellerTransactionsPercentage =
+      ((washTradedNftsAggregates.buyer_is_seller || 0) / trades) * 100;
+    const sameWalletFundedTransactionPercentage = 0;
+    const boughtThreeTimesTransactionPercentage = 0;
 
     const tags = [];
 
-    if (totalSuspiciousTransactionPercentage > 15) {
+    if (totalSuspiciousTransactionPercentage > 50) {
       tags.push(TagTypes.highTotalPercentage);
     }
 
@@ -157,7 +157,7 @@ const process = (rawData) => {
       tags,
     };
   });
-}
+};
 
 // After buying an NFT after a suspicious trade, buyer lost money 78% of the time.
 

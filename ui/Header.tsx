@@ -50,10 +50,13 @@ const Header: FunctionComponent = () => (
             className="mt-3 p-2 shadow menu menu-compact dropdown-content bg-base-100 rounded-box w-52"
           >
             <li>
-              <a className="justify-between">
+              <Link
+                href="/wallet/0xae805B9eaa5A04F307b439484eD881e75D36Ac73"
+                className="justify-between"
+              >
                 Profile
                 <span className="badge">New</span>
-              </a>
+              </Link>
             </li>
             <li>
               <a>Settings</a>

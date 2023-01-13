@@ -111,7 +111,9 @@ const Index: NextPage = ({ params: { id } }) => {
           </div>
         </div>
         <div>
-          <PageSubTitle className="my-4">Suspected Washed Tokens:</PageSubTitle>
+          <PageSubTitle className="my-4">
+            Search {details.washTradedNfts.length} Suspected Washed Tokens:
+          </PageSubTitle>
           <WashedTokensTable {...details} />
         </div>
       </div>

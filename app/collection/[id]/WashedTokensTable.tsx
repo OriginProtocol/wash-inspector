@@ -7,6 +7,8 @@ import Link from "next/link";
 interface TransactionsTableProps {
   washTradedNfts: NFTWashDetails[];
   address: string;
+  pageSize?: number;
+  contractAddressWithinNFT?: boolean;
 }
 
 //severity is a number between 0 and 3
@@ -20,7 +22,7 @@ const severityToBadgeClassMap = [
 const Tags = ({ tags }) => {
   if (tags.length) {
     return (
-      <div className="card-actions justify-end">
+      <div className="card-actions justify-start">
         {tags.map((tag) => (
           <div
             key={tag.short}
@@ -44,7 +46,8 @@ const shortenAddress = (address, chars = 8) =>
 const Table: FunctionComponent<TransactionsTableProps> = ({
   washTradedNfts = [],
   address,
-  contractAddressWithinNFT = false
+  contractAddressWithinNFT = false,
+  pageSize = 500,
 }) => {
   return (
     <table className="table w-full">
@@ -56,8 +59,8 @@ const Table: FunctionComponent<TransactionsTableProps> = ({
         </tr>
       </thead>
       <tbody>
-        {washTradedNfts.map((nft) => {
-          const addr = contractAddressWithinNFT ? nft.contractAddress : address
+        {washTradedNfts.slice(0, pageSize).map((nft) => {
+          const addr = contractAddressWithinNFT ? nft.contractAddress : address;
           return (
             <tr key={nft.tokenId}>
               <td>
@@ -84,7 +87,9 @@ const Table: FunctionComponent<TransactionsTableProps> = ({
                 </div>
               </td>
               <td>
-                <Tags tags={nft.washTrades.map((d) => WashTradeTypeDetails[d])} />
+                <Tags
+                  tags={nft.washTrades.map((d) => WashTradeTypeDetails[d])}
+                />
               </td>
               <th>
                 <span className="badge badge-ghost badge-sm">
@@ -95,10 +100,10 @@ const Table: FunctionComponent<TransactionsTableProps> = ({
                 </span>
               </th>
             </tr>
-          )}
-        )}
+          );
+        })}
       </tbody>
-      {washTradedNfts.length > 10 && (
+      {washTradedNfts.length > pageSize && (
         <tfoot>
           <tr>
             <th>Token</th>
@@ -116,7 +121,7 @@ const NotFound = () => <p className="my-10 text-center">No NFTs found</p>;
 const WashedTokensTable: FunctionComponent<TransactionsTableProps> = ({
   washTradedNfts = [],
   address,
-  contractAddressWithinNFT=false
+  contractAddressWithinNFT = false,
 }) => {
   const [filter, setFilter] = useState("");
 
@@ -132,7 +137,7 @@ const WashedTokensTable: FunctionComponent<TransactionsTableProps> = ({
         <input
           type="text"
           placeholder="Filter by token name or number"
-          className="input input-bordered w-full max-w-xs"
+          className="input input-bordered w-full max-w-lg"
           value={filter}
           onChange={(e) => setFilter(e.target.value)}
         />
@@ -140,7 +145,11 @@ const WashedTokensTable: FunctionComponent<TransactionsTableProps> = ({
       {filteredNfts.length === 0 ? (
         <NotFound />
       ) : (
-        <Table washTradedNfts={filteredNfts} address={address} contractAddressWithinNFT={contractAddressWithinNFT}/>
+        <Table
+          washTradedNfts={filteredNfts}
+          address={address}
+          contractAddressWithinNFT={contractAddressWithinNFT}
+        />
       )}
     </div>
   );
