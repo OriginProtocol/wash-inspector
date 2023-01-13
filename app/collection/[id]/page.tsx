@@ -1,14 +1,17 @@
 "use client";
 
 import type { NextPage } from "next";
+import Link from "next/link";
 import type { CollectionWashTradeDetails } from "../../../types/CollectionWashTrade";
 import { Seo } from "../../../ui/Seo";
 import { PageHeader } from "../../../ui/PageHeader";
+import { Breadcrumbs } from "../../../ui/Breadcrumbs";
 import { PageTitle } from "../../../ui/PageTitle";
 import { PageDescription } from "../../../ui/PageDescription";
 import collections from "../../../data/nipCollections";
 import { useCollectionWashTrades } from "../../../hooks/useCollectionWashTrades";
 import { WashedTokensTable } from "./WashedTokensTable";
+import { PageSubTitle } from "../../../ui/PageSubTitle";
 
 const Index: NextPage = ({ params: { id } }) => {
   const collection = collections.find(
@@ -26,27 +29,23 @@ const Index: NextPage = ({ params: { id } }) => {
   const details: CollectionWashTradeDetails = collectionWashTrades?.data;
 
   console.log(details);
-  // const percentageVolumeWashTrades = collectionWashTrades.
+  const washTradesPercentage = Math.round(
+    (details.washTrades / details.trades) * 100
+  );
 
   return (
     <>
-      <Seo
-        title="NFT Wash Trading Detect0r | Data by Origin Protocol"
-        description="See if wash trading is detected for NFTs in your collection"
-      />
-      <PageHeader>
-        <PageTitle>{collection.title}</PageTitle>
-        <PageDescription>
-          {
-            collection.washTradingIndicators
-              .totalSuspiciousTransactionPercentage
-          }
-          % of the transactions on this collection look like wash trading
-        </PageDescription>
-      </PageHeader>
       <div className="container my-12 mx-auto px-4 md:px-12">
-        <div className="flex -mx-1 lg:-mx-4">
-          <div className="stats stats-vertical shadow w-full md:w-1/2 lg:w-1/3">
+        <Breadcrumbs
+          crumbs={[{ text: collection.title, uri: `/collections/${id}` }]}
+        />
+        <Seo
+          title="NFT Wash Trading Detect0r | Data by Origin Protocol"
+          description="See if wash trading is detected for NFTs in your collection"
+        />
+        <PageTitle>{collection.title}</PageTitle>
+        <div className="-mx-1 lg:-mx-4">
+          <div className="stats shadow my-6">
             <div className="stat">
               <div className="stat-figure text-secondary">
                 <svg
@@ -63,9 +62,11 @@ const Index: NextPage = ({ params: { id } }) => {
                   ></path>
                 </svg>
               </div>
-              <div className="stat-title">Transactions</div>
-              <div className="stat-value">135</div>
-              <div className="stat-desc">Jan 1st - Feb 1st</div>
+              <div className="stat-title">Wash Trades Percentage</div>
+              <div className="stat-value">{washTradesPercentage}%</div>
+              <div className="stat-desc">
+                {details.washTrades} suspicious trades
+              </div>
             </div>
 
             <div className="stat">
@@ -84,9 +85,9 @@ const Index: NextPage = ({ params: { id } }) => {
                   ></path>
                 </svg>
               </div>
-              <div className="stat-title">Suspicious trades</div>
-              <div className="stat-value">24</div>
-              <div className="stat-desc">↗︎ 12 (100%)</div>
+              <div className="stat-title">Wash Traded NFTs</div>
+              <div className="stat-value">{details.washTradedNfts.length}</div>
+              <div className="stat-desc">suspected wash traded</div>
             </div>
 
             <div className="stat">
@@ -105,12 +106,20 @@ const Index: NextPage = ({ params: { id } }) => {
                   ></path>
                 </svg>
               </div>
-              <div className="stat-title">Percent suspicious transactions</div>
-              <div className="stat-value">17.43%</div>
-              <div className="stat-desc">↘︎ 90 (14%)</div>
+              <div className="stat-title">Wash Trade Volume</div>
+              <div className="stat-value">
+                {Math.round(details.washVolume)} ETH
+              </div>
+              <div className="stat-desc">
+                out of {Math.round(details.volume)} ETH (
+                {Math.round((details.washVolume / details.volume) * 100)}%)
+              </div>
             </div>
           </div>
-          <div className="flex-3">
+          <div>
+            <PageSubTitle className="my-4">
+              Suspected Washed Tokens:
+            </PageSubTitle>
             <WashedTokensTable {...details} />
           </div>
         </div>
