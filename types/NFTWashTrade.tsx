@@ -69,38 +69,52 @@ import {
 export const WashTradeTypeDetails = {
   [WashTradeTypes.WALLETS_CONNECTED]: {
     name: "Connected Wallets",
+    marketingName: "Connected Wallet Detection",
     short: "WC",
     description:
       "There is a probability that buyer and seller of the NFT have wallets connected",
+    marketing:
+      "High probability that the buyer and seller of the NFT have wallets connected",
     severity: SEVERITY.HIGH,
     Icon: LinkIcon,
   },
   [WashTradeTypes.BUYER_IS_SELLER]: {
     name: "Buyer is Seller",
+    marketingName: "Selling to Self",
     short: "B=S",
     description: "Buyer and seller are the same wallet",
+    marketing:
+      "Our automated monkeys detect when the buyer and the seller are the same person",
     severity: SEVERITY.MEDIUM,
     Icon: UsersIcon,
   },
   [WashTradeTypes.BACK_AND_FORTH]: {
     name: "Back and Forth",
+    marketingName: "Back and Forth",
     short: "BnF",
     description:
+      "Buyer and seller have 2 transactions where the NFT has moved back and forth",
+    marketing:
       "Buyer and seller have 2 transactions where the NFT has moved back and forth",
     severity: SEVERITY.MEDIUM,
     Icon: ArrowPathIcon,
   },
   [WashTradeTypes.THREE_TIMES_BUYER]: {
     name: "Bought 3 Times",
+    marketingName: "Serial buying",
     short: "B3X",
     description: "Same wallet has bought the NFT 3 or more times",
+    marketing: "Same wallet has bought the NFT 3 or more times",
     severity: SEVERITY.LOW,
     Icon: Bars3BottomLeftIcon,
   },
   [WashTradeTypes.THREE_TIMES_BUYER]: {
-    name: "Buyer is Seller",
+    name: "Sold 3 times",
+    marketingName: "Serial selling",
     short: "S3X",
     description: "Same wallet has sold the NFT 3 or more times",
+    marketing:
+      "The same wallet has sold the same NFT 3 or more times, indicating attempts to increase price",
     severity: SEVERITY.HIGH,
     Icon: Bars3BottomRightIcon,
   },
