@@ -39,15 +39,11 @@ function detectBuyerAndSellerWalletsConnected(activity, connectedWallets) {
 				walletConnectedTrades.push({
 					washTradeType: "wallets_connected",
 					// 1st transaction is sale, subsequent are explaining wallet connections
-					transactions: [sale, ...transactions]
+					transactions: [sale, ...orderBy(transactions, ['timestamp'], ['asc'])]
 				})
 			}
 		})
 	})
-
-	//console.log("connectedWallets", connectedWallets)
-
-	//console.log("walletConnectedTrades", walletConnectedTrades)
 
 	return walletConnectedTrades;
 }

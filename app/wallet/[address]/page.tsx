@@ -15,11 +15,7 @@ const Index: NextPage = ({ params: { address } }) => {
     return "Loading...";
   }
 
-  console.log(loading);
-  console.log(walletWashTrades);
   const details: CollectionWashTradeDetails = walletWashTrades?.data;
-
-  console.log(details);
 
   return (
     <div className="container my-12 mx-auto px-4 md:px-12">
@@ -27,7 +23,10 @@ const Index: NextPage = ({ params: { address } }) => {
         crumbs={[{ text: `Wallet ${address}`, uri: `/wallet/${address}` }]}
       />
       <PageSubTitle>Wallet</PageSubTitle>
-      <WashedTokensTable {...details} />
+      <WashedTokensTable
+        contractAddressWithinNFT={true}
+        {...details}
+      />
     </div>
   );
 };

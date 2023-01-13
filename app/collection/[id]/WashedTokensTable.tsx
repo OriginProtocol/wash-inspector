@@ -44,6 +44,7 @@ const shortenAddress = (address, chars = 8) =>
 const Table: FunctionComponent<TransactionsTableProps> = ({
   washTradedNfts = [],
   address,
+  contractAddressWithinNFT = false
 }) => {
   return (
     <table className="table w-full">
@@ -55,44 +56,47 @@ const Table: FunctionComponent<TransactionsTableProps> = ({
         </tr>
       </thead>
       <tbody>
-        {washTradedNfts.map((nft) => (
-          <tr key={nft.tokenId}>
-            <td>
-              <div className="flex items-center space-x-3">
-                <div className="avatar">
-                  <div className="mask mask-squircle w-12 h-12">
-                    <img
-                      src={nft.image}
-                      alt={nft.name || `Token ${nft.tokenId}`}
-                    />
+        {washTradedNfts.map((nft) => {
+          const addr = contractAddressWithinNFT ? nft.contractAddress : address
+          return (
+            <tr key={nft.tokenId}>
+              <td>
+                <div className="flex items-center space-x-3">
+                  <div className="avatar">
+                    <div className="mask mask-squircle w-12 h-12">
+                      <img
+                        src={nft.image}
+                        alt={nft.name || `Token ${nft.tokenId}`}
+                      />
+                    </div>
+                  </div>
+                  <div>
+                    <div className="font-bold">
+                      <Link
+                        className="link"
+                        href={`/collection/${addr}/${nft.tokenId}`}
+                      >
+                        {nft.name || `Token ${nft.tokenId}`}
+                      </Link>
+                    </div>
+                    {/* <div className="text-sm opacity-50">United States</div> */}
                   </div>
                 </div>
-                <div>
-                  <div className="font-bold">
-                    <Link
-                      className="link"
-                      href={`/collection/${address}/${nft.tokenId}`}
-                    >
-                      {nft.name || `Token ${nft.tokenId}`}
-                    </Link>
-                  </div>
-                  {/* <div className="text-sm opacity-50">United States</div> */}
-                </div>
-              </div>
-            </td>
-            <td>
-              <Tags tags={nft.washTrades.map((d) => WashTradeTypeDetails[d])} />
-            </td>
-            <th>
-              <span className="badge badge-ghost badge-sm">
-                Owner:{" "}
-                <Link className="link" href={`/wallet/${nft.ownedBy}`}>
-                  {shortenAddress(nft.ownedBy)}
-                </Link>
-              </span>
-            </th>
-          </tr>
-        ))}
+              </td>
+              <td>
+                <Tags tags={nft.washTrades.map((d) => WashTradeTypeDetails[d])} />
+              </td>
+              <th>
+                <span className="badge badge-ghost badge-sm">
+                  Owner:{" "}
+                  <Link className="link" href={`/wallet/${nft.ownedBy}`}>
+                    {shortenAddress(nft.ownedBy)}
+                  </Link>
+                </span>
+              </th>
+            </tr>
+          )}
+        )}
       </tbody>
       {washTradedNfts.length > 10 && (
         <tfoot>
@@ -112,6 +116,7 @@ const NotFound = () => <p className="my-10 text-center">No NFTs found</p>;
 const WashedTokensTable: FunctionComponent<TransactionsTableProps> = ({
   washTradedNfts = [],
   address,
+  contractAddressWithinNFT=false
 }) => {
   const [filter, setFilter] = useState("");
 
@@ -135,7 +140,7 @@ const WashedTokensTable: FunctionComponent<TransactionsTableProps> = ({
       {filteredNfts.length === 0 ? (
         <NotFound />
       ) : (
-        <Table washTradedNfts={filteredNfts} address={address} />
+        <Table washTradedNfts={filteredNfts} address={address} contractAddressWithinNFT={contractAddressWithinNFT}/>
       )}
     </div>
   );
