@@ -175,7 +175,6 @@ const CollectionsGrid: FunctionComponent<CollectionsGridProps> = ({
       })
     : processed;
 
-  console.log("filtered", filtered)
   return (
     <div className="container my-12 mx-auto px-4 md:px-12">
       <div className="text-center my-2">

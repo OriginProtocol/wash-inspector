@@ -34,7 +34,7 @@ const Index: NextPage = () => {
       <section className="space-y-4 mx-auto px-6 mt-12">
         <div className="flex">
           <div className="flex-1 flex-wrap">
-            <GlobalStats />
+            <GlobalStats stats={!loading ? homepageNfts.data.result : []}/>
           </div>
           <div className="flex-1 text-center">
             <PageSubTitle>Am I a victim?</PageSubTitle>
