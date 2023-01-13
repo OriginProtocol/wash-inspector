@@ -116,7 +116,9 @@ const Table: FunctionComponent<TransactionsTableProps> = ({
   );
 };
 
-const NotFound = () => <p className="my-10 text-center">No NFTs found</p>;
+const NotFound = () => (
+  <p className="my-10 text-center">No Washed NFTs found</p>
+);
 
 const WashedTokensTable: FunctionComponent<TransactionsTableProps> = ({
   washTradedNfts = [],
