@@ -14,8 +14,10 @@ import { PageTitle } from "../ui/PageTitle";
 import { PageSubTitle } from "../ui/PageSubTitle";
 import { PageDescription } from "../ui/PageDescription";
 import useHomepageNfts from "../src/hooks/useHomepageNfts";
-import { CollectionsGrid } from "./CollectionsGrid";
+
 import { GlobalStats } from "./GlobalStats";
+import FeaturedCollectionsGrid from "./FeaturedCollections";
+import { Loading } from "../ui/Loading";
 
 const Index: NextPage = () => {
   const { loading, homepageNfts } = useHomepageNfts();
@@ -49,12 +51,16 @@ const Index: NextPage = () => {
         </div>
       </section>
       <section className="space-y-4 mx-auto px-6 mt-12">
-        <PageTitle className="text-center">
-          Highly Washed NFT Collections
-        </PageTitle>
-        <CollectionsGrid
-          collections={!loading ? homepageNfts.data.result.nftProjects : []}
-        />
+        {loading ? (
+          <Loading />
+        ) : (
+          <FeaturedCollectionsGrid
+            collections={homepageNfts.data.result.nftProjects}
+          />
+        )}
+        <Link className="link pl-4" href="/collection">
+          See all Collections &raquo;
+        </Link>
       </section>
     </>
   );

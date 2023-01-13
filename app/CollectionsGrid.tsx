@@ -1,10 +1,14 @@
 import type { FunctionComponent } from "react";
 import React, { useState } from "react";
 import { CollectionCard } from "./CollectionCard";
+import { PageTitle } from "../ui/PageTitle";
 import rawData from "../data/nipCollections";
 
 interface CollectionsGridProps {
   collections: any[];
+  title?: string;
+  description?: string;
+  hasSearch?: boolean;
 }
 
 // {
@@ -155,6 +159,11 @@ const process = (rawData) => {
     return {
       collection,
       tags,
+      volume,
+      washVolume,
+      nftsWashTradedCount,
+      washTrades,
+      trades,
     };
   });
 };
@@ -163,6 +172,9 @@ const process = (rawData) => {
 
 const CollectionsGrid: FunctionComponent<CollectionsGridProps> = ({
   collections = [],
+  title = "Collections",
+  description,
+  hasSearch = true,
 }) => {
   const processed = process(collections);
   const [search, setSearch] = useState("");
@@ -177,16 +189,22 @@ const CollectionsGrid: FunctionComponent<CollectionsGridProps> = ({
 
   return (
     <div className="container my-12 mx-auto px-4 md:px-12">
-      <div className="text-center my-2">
-        <input
-          type="text"
-          placeholder="Search Collections..."
-          className="input input-bordered w-1/2 text-center"
-          onKeyUp={(e) => {
-            setSearch(e.currentTarget.value);
-          }}
-        />
-      </div>
+      <PageTitle className="text-center">{title}</PageTitle>
+      {description ? (
+        <p className="my-3 text-center text-xl text-gray-500">{description}</p>
+      ) : null}
+      {hasSearch ? (
+        <div className="text-center my-2">
+          <input
+            type="text"
+            placeholder="Search Collections..."
+            className="input input-bordered w-1/2 text-center"
+            onKeyUp={(e) => {
+              setSearch(e.currentTarget.value);
+            }}
+          />
+        </div>
+      ) : null}
       <div className="flex flex-wrap -mx-1 lg:-mx-4">
         {filtered.map((item) => (
           <CollectionCard key={item.collection.address} {...item} />

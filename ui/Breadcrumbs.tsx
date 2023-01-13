@@ -14,7 +14,7 @@ const Breadcrumbs: FunctionComponent<BreadcrumbsProps> = ({ crumbs = [] }) => {
   const allCrumbs = [
     {
       text: "Collections",
-      uri: "/",
+      uri: "/collection",
     },
   ].concat(crumbs);
 

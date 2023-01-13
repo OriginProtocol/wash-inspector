@@ -5,6 +5,10 @@ interface CollectionCardProps {
   isNew?: boolean;
   tags?: string[];
   collection: CollectionWashStats;
+  trades?: number;
+  volume?: number;
+  washTrades?: number;
+  washVolume?: number;
 }
 
 export interface CollectionWashStats {
@@ -58,10 +62,34 @@ const Tags = ({ tags }) => {
   }
 };
 
+const Stats = ({ trades, volume, washTrades, washVolume }) => (
+  <div className="stats text-center w-full">
+    <div className="stat p-4 place-items-center">
+      <div className="stat-title">Wash Trades</div>
+      <div className="stat-value">{washTrades}</div>
+      <div className="stat-desc">Out of {trades}</div>
+    </div>
+
+    <div className="stat p-4 place-items-center">
+      <div className="stat-title">Wash value</div>
+      <div className="stat-value text-secondary">
+        {Math.round(washVolume)} ETH
+      </div>
+      <div className="stat-desc text-secondary">
+        ↗︎ ({Math.round(washVolume / volume)}%)
+      </div>
+    </div>
+  </div>
+);
+
 // After buying an NFT after a suspicious trade, buyer lost money 78% of the time.
 
 const CollectionCard: FunctionComponent<CollectionCardProps> = ({
   collection,
+  trades,
+  volume,
+  washTrades,
+  washVolume,
   isNew,
   tags = ["Test1", "Test2"],
 }) => (
@@ -84,6 +112,7 @@ const CollectionCard: FunctionComponent<CollectionCardProps> = ({
         </h1>
       </header>
 
+      <Stats {...{ trades, volume, washTrades, washVolume }} />
       <footer className="flex items-center justify-between leading-none p-2 md:p-4">
         <Tags tags={tags} />
       </footer>

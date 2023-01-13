@@ -44,7 +44,9 @@ const GlobalStats: FunctionComponent<GlobalStatsProps> = ({ stats }) => (
         </svg>
       </div>
       <div className="stat-title">Suspicious trades</div>
-      <div className="stat-value">{Math.round(stats.totalWashTrades / stats.totalTrades * 100,2)}%</div>
+      <div className="stat-value">
+        {Math.round((stats.totalWashTrades / stats.totalTrades) * 100, 2)}%
+      </div>
       <div className="stat-desc">↗︎ 12% in the last month</div>
     </div>
 
@@ -86,8 +88,12 @@ const GlobalStats: FunctionComponent<GlobalStatsProps> = ({ stats }) => (
         </svg>
       </div>
       <div className="stat-title">Wash Trade Volume</div>
-      <div className="stat-value">{Math.round(stats.totalWashVolume / stats.totalVolume * 100,2)}%</div>
-      <div className="stat-desc">Percentage of Total Volume that represents was trades</div>
+      <div className="stat-value">
+        {Math.round((stats.totalWashVolume / stats.totalVolume) * 100, 2)}%
+      </div>
+      <div className="stat-desc">
+        Percentage of Total Volume that represents was trades
+      </div>
     </div>
   </div>
 );
