@@ -1,7 +1,7 @@
 // Next.js API route support: https://nextjs.org/docs/api-routes/introduction
 import type { NextApiRequest, NextApiResponse } from "next";
 import { transferHistory } from "../../src/data/nftTransactions";
-import useAlchemy from "../../src/hooks/useAlchemy";
+import alchemy from "../../src/utils/alchemy";
 import { uniq, orderBy } from "lodash";
 import fs from "fs";
 import { utils } from "ethers";
@@ -47,7 +47,7 @@ export default async function handler(
     return res.status(200).json(cached);
   }
 
-  const alchemy = useAlchemy();
+  const alc = alchemy();
 
   let nfts = [];
   let pageKey = false;
@@ -57,7 +57,7 @@ export default async function handler(
     if (pageKey) {
       opts.pageKey = pageKey;
     }
-    const nftsResponse = await alchemy.nft.getNftsForOwner(address, opts);
+    const nftsResponse = await alc.nft.getNftsForOwner(address, opts);
 
     nfts = [...nfts, ...nftsResponse.ownedNfts];
     pageKey = nftsResponse.pageKey;
