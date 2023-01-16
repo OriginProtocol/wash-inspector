@@ -1,6 +1,6 @@
 // Next.js API route support: https://nextjs.org/docs/api-routes/introduction
 import type { NextApiRequest, NextApiResponse } from "next";
-import useAlchemy from "../../src/hooks/useAlchemy";
+import alchemy from "../../src/utils/alchemy";
 import useEtherscan from "../../src/hooks/useEtherscan";
 import { transferHistory } from "../../src/data/nftTransactions";
 import { uniq, reduce } from "lodash";
@@ -41,9 +41,9 @@ export default async function handler(
 }
 
 async function processNftCollection(address) {
-  const alchemy = useAlchemy();
+  const alc = alchemy();
 
-  const metadata = await alchemy.nft.getContractMetadata(address);
+  const metadata = await alc.nft.getContractMetadata(address);
 
   const batchSize = 10;
   let batchedPromises = [];

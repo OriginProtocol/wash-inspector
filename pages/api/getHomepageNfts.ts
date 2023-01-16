@@ -2,7 +2,7 @@
 import type { NextApiRequest, NextApiResponse } from "next";
 import { countBy, orderBy } from "lodash";
 import collectionData from "../../data/collectionsdata";
-import useAlchemy from "../../src/hooks/useAlchemy";
+import alchemy from "../../src/utils/alchemy";
 const fs = require("fs");
 
 export default async function handler(
@@ -14,7 +14,7 @@ export default async function handler(
 }
 
 async function generateNFTAggregate(){
-  const alchemy = useAlchemy();
+  const alc = alchemy();
   const files = fs.readdirSync(`${process.cwd()}/data/collectionAnalysis/`)
 
   let totalTrades = 0
@@ -33,7 +33,7 @@ async function generateNFTAggregate(){
     totalVolume += volume
     totalWashVolume += washVolume
 
-    const metadata = await alchemy.nft.getContractMetadata(address);
+    const metadata = await alc.nft.getContractMetadata(address);
 
     nftProjects.push({
       address,
